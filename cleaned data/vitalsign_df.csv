@@ -1,0 +1,3194 @@
+,encounter_id,patient_id,loinc_description,loinc_2708-6,loinc_8310-5,loinc_8462-4,loinc_8480-6,loinc_8867-4,loinc_9279-1
+0,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+1,701249,98275,Body temperature,0,1,0,0,0,0
+2,735978,9899,Body temperature,0,1,0,0,0,0
+3,735978,9899,Heart Rate,0,0,0,0,1,0
+4,503298,183915,Body temperature,0,1,0,0,0,0
+5,910400,172884,Body temperature,0,1,0,0,0,0
+6,602942,121640,Respiratory rate,0,0,0,0,0,1
+7,547358,252459,Heart Rate,0,0,0,0,1,0
+8,637982,117706,Heart Rate,0,0,0,0,1,0
+9,903168,139622,Heart Rate,0,0,0,0,1,0
+10,653089,160601,Heart Rate,0,0,0,0,1,0
+11,547153,120840,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+12,562125,112734,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+13,807511,257895,Heart Rate,0,0,0,0,1,0
+14,618114,215446,Respiratory rate,0,0,0,0,0,1
+15,1008519,346057,Heart Rate,0,0,0,0,1,0
+16,618541,50033,Heart Rate,0,0,0,0,1,0
+17,1032784,80281,Respiratory rate,0,0,0,0,0,1
+18,555505,146310,Body temperature,0,1,0,0,0,0
+19,838784,330352,Heart Rate,0,0,0,0,1,0
+20,971861,273254,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+21,690763,336248,Heart Rate,0,0,0,0,1,0
+22,661142,76077,Body temperature,0,1,0,0,0,0
+23,687004,29513,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+24,539396,286176,Respiratory rate,0,0,0,0,0,1
+25,618114,215446,Heart Rate,0,0,0,0,1,0
+26,824481,16210,Body temperature,0,1,0,0,0,0
+27,618114,215446,Heart Rate,0,0,0,0,1,0
+28,618114,215446,Body temperature,0,1,0,0,0,0
+29,859589,190983,Heart Rate,0,0,0,0,1,0
+30,637982,117706,Heart Rate,0,0,0,0,1,0
+31,985371,324493,Body temperature,0,1,0,0,0,0
+32,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+33,606085,230225,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+34,820024,78881,Heart Rate,0,0,0,0,1,0
+35,909953,6507,Body temperature,0,1,0,0,0,0
+36,985371,324493,Body temperature,0,1,0,0,0,0
+37,518385,88239,Body temperature,0,1,0,0,0,0
+38,526785,185579,Heart Rate,0,0,0,0,1,0
+39,1015047,102230,Body temperature,0,1,0,0,0,0
+40,985544,184599,Body temperature,0,1,0,0,0,0
+41,756756,330054,Body temperature,0,1,0,0,0,0
+42,666066,119859,Heart Rate,0,0,0,0,1,0
+43,735978,9899,Heart Rate,0,0,0,0,1,0
+44,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+45,717681,307504,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+46,1000285,215528,Body temperature,0,1,0,0,0,0
+47,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+48,701271,96585,Heart Rate,0,0,0,0,1,0
+49,760284,157800,Heart Rate,0,0,0,0,1,0
+50,1021857,289704,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+51,735978,9899,Body temperature,0,1,0,0,0,0
+52,820024,78881,Heart Rate,0,0,0,0,1,0
+53,735978,9899,Respiratory rate,0,0,0,0,0,1
+54,526369,96585,Respiratory rate,0,0,0,0,0,1
+55,934359,166128,Heart Rate,0,0,0,0,1,0
+56,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+57,735978,9899,Respiratory rate,0,0,0,0,0,1
+58,872256,262810,Body temperature,0,1,0,0,0,0
+59,839608,135646,Heart Rate,0,0,0,0,1,0
+60,824481,16210,Respiratory rate,0,0,0,0,0,1
+61,991548,270700,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+62,516292,143744,Heart Rate,0,0,0,0,1,0
+63,526785,185579,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+64,915446,138886,Respiratory rate,0,0,0,0,0,1
+65,820169,61775,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+66,578846,289529,Respiratory rate,0,0,0,0,0,1
+67,710519,11201,Body temperature,0,1,0,0,0,0
+68,838784,330352,Respiratory rate,0,0,0,0,0,1
+69,752871,60043,Body temperature,0,1,0,0,0,0
+70,1001600,348228,Heart Rate,0,0,0,0,1,0
+71,809402,157048,Heart Rate,0,0,0,0,1,0
+72,872256,262810,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+73,717497,62611,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+74,940817,4022,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+75,582203,330352,Respiratory rate,0,0,0,0,0,1
+76,720954,297608,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+77,711066,180327,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+78,793524,351560,Respiratory rate,0,0,0,0,0,1
+79,723509,154622,Respiratory rate,0,0,0,0,0,1
+80,800957,169564,Heart Rate,0,0,0,0,1,0
+81,991548,270700,Body temperature,0,1,0,0,0,0
+82,618114,215446,Body temperature,0,1,0,0,0,0
+83,547153,120840,Heart Rate,0,0,0,0,1,0
+84,943503,29513,Respiratory rate,0,0,0,0,0,1
+85,661142,76077,Heart Rate,0,0,0,0,1,0
+86,914522,62118,Body temperature,0,1,0,0,0,0
+87,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+88,915446,138886,Heart Rate,0,0,0,0,1,0
+89,953780,23016,Heart Rate,0,0,0,0,1,0
+90,531679,272954,Respiratory rate,0,0,0,0,0,1
+91,717534,88239,Body temperature,0,1,0,0,0,0
+92,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+93,880623,201306,Heart Rate,0,0,0,0,1,0
+94,899754,215446,Body temperature,0,1,0,0,0,0
+95,1020890,350393,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+96,714649,59031,Body temperature,0,1,0,0,0,0
+97,1020890,350393,Heart Rate,0,0,0,0,1,0
+98,735978,9899,Body temperature,0,1,0,0,0,0
+99,695565,246275,Body temperature,0,1,0,0,0,0
+100,717534,88239,Heart Rate,0,0,0,0,1,0
+101,553188,181739,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+102,717497,62611,Heart Rate,0,0,0,0,1,0
+103,578846,289529,Body temperature,0,1,0,0,0,0
+104,575909,138185,Heart Rate,0,0,0,0,1,0
+105,515419,350494,Respiratory rate,0,0,0,0,0,1
+106,981651,139622,Body temperature,0,1,0,0,0,0
+107,654872,285640,Heart Rate,0,0,0,0,1,0
+108,763179,231500,Respiratory rate,0,0,0,0,0,1
+109,823126,279591,Heart Rate,0,0,0,0,1,0
+110,553188,181739,Heart Rate,0,0,0,0,1,0
+111,723911,181171,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+112,1041182,31729,Body temperature,0,1,0,0,0,0
+113,846652,191585,Heart Rate,0,0,0,0,1,0
+114,717681,307504,Respiratory rate,0,0,0,0,0,1
+115,514136,93988,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+116,635860,122116,Heart Rate,0,0,0,0,1,0
+117,825350,254313,Body temperature,0,1,0,0,0,0
+118,705812,141861,Heart Rate,0,0,0,0,1,0
+119,850005,241854,Heart Rate,0,0,0,0,1,0
+120,729874,62934,Body temperature,0,1,0,0,0,0
+121,1036582,254649,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+122,526369,96585,Heart Rate,0,0,0,0,1,0
+123,637982,117706,Body temperature,0,1,0,0,0,0
+124,880077,289704,Body temperature,0,1,0,0,0,0
+125,915446,138886,Respiratory rate,0,0,0,0,0,1
+126,637982,117706,Body temperature,0,1,0,0,0,0
+127,820024,78881,Heart Rate,0,0,0,0,1,0
+128,820024,78881,Heart Rate,0,0,0,0,1,0
+129,618114,215446,Heart Rate,0,0,0,0,1,0
+130,645721,348228,Body temperature,0,1,0,0,0,0
+131,735978,9899,Respiratory rate,0,0,0,0,0,1
+132,674981,331741,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+133,934359,166128,Body temperature,0,1,0,0,0,0
+134,869564,262810,Body temperature,0,1,0,0,0,0
+135,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+136,846652,191585,Body temperature,0,1,0,0,0,0
+137,578746,20851,Body temperature,0,1,0,0,0,0
+138,988362,354118,Body temperature,0,1,0,0,0,0
+139,1008519,346057,Body temperature,0,1,0,0,0,0
+140,863291,108398,Respiratory rate,0,0,0,0,0,1
+141,846652,191585,Heart Rate,0,0,0,0,1,0
+142,500218,133287,Respiratory rate,0,0,0,0,0,1
+143,763179,231500,Heart Rate,0,0,0,0,1,0
+144,701249,98275,Respiratory rate,0,0,0,0,0,1
+145,1032784,80281,Body temperature,0,1,0,0,0,0
+146,735978,9899,Heart Rate,0,0,0,0,1,0
+147,729874,62934,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+148,800957,169564,Respiratory rate,0,0,0,0,0,1
+149,985371,324493,Body temperature,0,1,0,0,0,0
+150,763179,231500,Body temperature,0,1,0,0,0,0
+151,899754,215446,Respiratory rate,0,0,0,0,0,1
+152,807511,257895,Heart Rate,0,0,0,0,1,0
+153,1011948,270700,Heart Rate,0,0,0,0,1,0
+154,637982,117706,Heart Rate,0,0,0,0,1,0
+155,1009223,73795,Body temperature,0,1,0,0,0,0
+156,812773,40639,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+157,903168,139622,Respiratory rate,0,0,0,0,0,1
+158,606085,230225,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+159,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+160,838784,330352,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+161,971861,273254,Respiratory rate,0,0,0,0,0,1
+162,807886,344567,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+163,839608,135646,Body temperature,0,1,0,0,0,0
+164,701271,96585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+165,746247,226349,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+166,954671,68157,Body temperature,0,1,0,0,0,0
+167,943503,29513,Body temperature,0,1,0,0,0,0
+168,547236,341553,Body temperature,0,1,0,0,0,0
+169,618114,215446,Respiratory rate,0,0,0,0,0,1
+170,915446,138886,Heart Rate,0,0,0,0,1,0
+171,754731,201306,Heart Rate,0,0,0,0,1,0
+172,837168,172884,Body temperature,0,1,0,0,0,0
+173,935511,121640,Respiratory rate,0,0,0,0,0,1
+174,830726,119859,Body temperature,0,1,0,0,0,0
+175,846652,191585,Heart Rate,0,0,0,0,1,0
+176,593284,350494,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+177,539396,286176,Heart Rate,0,0,0,0,1,0
+178,518385,88239,Heart Rate,0,0,0,0,1,0
+179,845641,136526,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+180,660892,138185,Heart Rate,0,0,0,0,1,0
+181,606085,230225,Body temperature,0,1,0,0,0,0
+182,850005,241854,Body temperature,0,1,0,0,0,0
+183,914522,62118,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+184,514136,93988,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+185,735978,9899,Heart Rate,0,0,0,0,1,0
+186,618114,215446,Respiratory rate,0,0,0,0,0,1
+187,515419,350494,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+188,810375,180826,Heart Rate,0,0,0,0,1,0
+189,793524,351560,Body temperature,0,1,0,0,0,0
+190,996273,118912,Heart Rate,0,0,0,0,1,0
+191,820024,78881,Heart Rate,0,0,0,0,1,0
+192,637982,117706,Heart Rate,0,0,0,0,1,0
+193,570036,249004,Body temperature,0,1,0,0,0,0
+194,830726,119859,Respiratory rate,0,0,0,0,0,1
+195,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+196,637982,117706,Heart Rate,0,0,0,0,1,0
+197,737822,62118,Body temperature,0,1,0,0,0,0
+198,524167,138185,Body temperature,0,1,0,0,0,0
+199,688582,40639,Body temperature,0,1,0,0,0,0
+200,606085,230225,Heart Rate,0,0,0,0,1,0
+201,1009223,73795,Heart Rate,0,0,0,0,1,0
+202,697116,62853,Body temperature,0,1,0,0,0,0
+203,582203,330352,Heart Rate,0,0,0,0,1,0
+204,728794,272807,Heart Rate,0,0,0,0,1,0
+205,1009223,73795,Respiratory rate,0,0,0,0,0,1
+206,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+207,1049681,120840,Body temperature,0,1,0,0,0,0
+208,1000285,215528,Respiratory rate,0,0,0,0,0,1
+209,1009223,73795,Heart Rate,0,0,0,0,1,0
+210,836385,163148,Heart Rate,0,0,0,0,1,0
+211,688582,40639,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+212,602959,6017,Respiratory rate,0,0,0,0,0,1
+213,741251,349904,Body temperature,0,1,0,0,0,0
+214,618114,215446,Respiratory rate,0,0,0,0,0,1
+215,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+216,728794,272807,Body temperature,0,1,0,0,0,0
+217,637982,117706,Body temperature,0,1,0,0,0,0
+218,637982,117706,Heart Rate,0,0,0,0,1,0
+219,752871,60043,Heart Rate,0,0,0,0,1,0
+220,690613,306865,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+221,872256,262810,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+222,915446,138886,Body temperature,0,1,0,0,0,0
+223,807511,257895,Heart Rate,0,0,0,0,1,0
+224,915446,138886,Heart Rate,0,0,0,0,1,0
+225,656065,104820,Heart Rate,0,0,0,0,1,0
+226,1049681,120840,Respiratory rate,0,0,0,0,0,1
+227,820490,166128,Body temperature,0,1,0,0,0,0
+228,710519,11201,Heart Rate,0,0,0,0,1,0
+229,735978,9899,Heart Rate,0,0,0,0,1,0
+230,539396,286176,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+231,809402,157048,Body temperature,0,1,0,0,0,0
+232,637982,117706,Body temperature,0,1,0,0,0,0
+233,1011948,270700,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+234,978026,71823,Respiratory rate,0,0,0,0,0,1
+235,618114,215446,Heart Rate,0,0,0,0,1,0
+236,933107,311298,Heart Rate,0,0,0,0,1,0
+237,824481,16210,Heart Rate,0,0,0,0,1,0
+238,915446,138886,Body temperature,0,1,0,0,0,0
+239,850005,241854,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+240,578846,289529,Heart Rate,0,0,0,0,1,0
+241,547358,252459,Respiratory rate,0,0,0,0,0,1
+242,915446,138886,Heart Rate,0,0,0,0,1,0
+243,593284,350494,Respiratory rate,0,0,0,0,0,1
+244,1047143,181739,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+245,858887,110127,Respiratory rate,0,0,0,0,0,1
+246,735978,9899,Body temperature,0,1,0,0,0,0
+247,858887,110127,Body temperature,0,1,0,0,0,0
+248,915446,138886,Heart Rate,0,0,0,0,1,0
+249,637982,117706,Heart Rate,0,0,0,0,1,0
+250,637982,117706,Heart Rate,0,0,0,0,1,0
+251,838784,330352,Body temperature,0,1,0,0,0,0
+252,915446,138886,Body temperature,0,1,0,0,0,0
+253,1031095,111857,Respiratory rate,0,0,0,0,0,1
+254,846652,191585,Heart Rate,0,0,0,0,1,0
+255,846652,191585,Heart Rate,0,0,0,0,1,0
+256,1011948,270700,Body temperature,0,1,0,0,0,0
+257,552825,161328,Heart Rate,0,0,0,0,1,0
+258,991548,270700,Respiratory rate,0,0,0,0,0,1
+259,547146,229125,Body temperature,0,1,0,0,0,0
+260,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+261,503298,183915,Heart Rate,0,0,0,0,1,0
+262,1009223,73795,Body temperature,0,1,0,0,0,0
+263,711066,180327,Respiratory rate,0,0,0,0,0,1
+264,778308,328337,Heart Rate,0,0,0,0,1,0
+265,820024,78881,Respiratory rate,0,0,0,0,0,1
+266,642979,24800,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+267,697116,62853,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+268,656065,104820,Respiratory rate,0,0,0,0,0,1
+269,996273,118912,Body temperature,0,1,0,0,0,0
+270,846652,191585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+271,600502,289217,Body temperature,0,1,0,0,0,0
+272,845670,233444,Body temperature,0,1,0,0,0,0
+273,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+274,590768,123642,Heart Rate,0,0,0,0,1,0
+275,741251,349904,Body temperature,0,1,0,0,0,0
+276,595970,71823,Heart Rate,0,0,0,0,1,0
+277,690763,336248,Body temperature,0,1,0,0,0,0
+278,760020,324692,Heart Rate,0,0,0,0,1,0
+279,778308,328337,Body temperature,0,1,0,0,0,0
+280,846652,191585,Heart Rate,0,0,0,0,1,0
+281,985371,324493,Body temperature,0,1,0,0,0,0
+282,602959,6017,Body temperature,0,1,0,0,0,0
+283,570036,249004,Heart Rate,0,0,0,0,1,0
+284,808957,337350,Heart Rate,0,0,0,0,1,0
+285,856386,183663,Heart Rate,0,0,0,0,1,0
+286,584189,208077,Body temperature,0,1,0,0,0,0
+287,981651,139622,Heart Rate,0,0,0,0,1,0
+288,755463,180327,Body temperature,0,1,0,0,0,0
+289,739487,236177,Body temperature,0,1,0,0,0,0
+290,660892,138185,Respiratory rate,0,0,0,0,0,1
+291,884988,50033,Body temperature,0,1,0,0,0,0
+292,618114,215446,Heart Rate,0,0,0,0,1,0
+293,983017,274726,Body temperature,0,1,0,0,0,0
+294,897908,119859,Heart Rate,0,0,0,0,1,0
+295,736708,8137,Body temperature,0,1,0,0,0,0
+296,845641,136526,Respiratory rate,0,0,0,0,0,1
+297,970286,113766,Heart Rate,0,0,0,0,1,0
+298,760020,324692,Body temperature,0,1,0,0,0,0
+299,741251,349904,Body temperature,0,1,0,0,0,0
+300,877658,141620,Body temperature,0,1,0,0,0,0
+301,1009223,73795,Heart Rate,0,0,0,0,1,0
+302,820024,78881,Heart Rate,0,0,0,0,1,0
+303,1028329,17581,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+304,637982,117706,Heart Rate,0,0,0,0,1,0
+305,820024,78881,Respiratory rate,0,0,0,0,0,1
+306,736708,8137,Heart Rate,0,0,0,0,1,0
+307,872256,262810,Heart Rate,0,0,0,0,1,0
+308,755463,180327,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+309,1021857,289704,Body temperature,0,1,0,0,0,0
+310,915446,138886,Heart Rate,0,0,0,0,1,0
+311,585014,17761,Heart Rate,0,0,0,0,1,0
+312,903168,139622,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+313,717681,307504,Heart Rate,0,0,0,0,1,0
+314,990314,341553,Heart Rate,0,0,0,0,1,0
+315,796988,102321,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+316,1009223,73795,Heart Rate,0,0,0,0,1,0
+317,714649,59031,Body temperature,0,1,0,0,0,0
+318,720954,297608,Heart Rate,0,0,0,0,1,0
+319,531679,272954,Body temperature,0,1,0,0,0,0
+320,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+321,915446,138886,Heart Rate,0,0,0,0,1,0
+322,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+323,1032784,80281,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+324,640953,30095,Respiratory rate,0,0,0,0,0,1
+325,714649,59031,Body temperature,0,1,0,0,0,0
+326,637982,117706,Heart Rate,0,0,0,0,1,0
+327,820024,78881,Body temperature,0,1,0,0,0,0
+328,869206,184599,Body temperature,0,1,0,0,0,0
+329,869564,262810,Heart Rate,0,0,0,0,1,0
+330,562125,112734,Body temperature,0,1,0,0,0,0
+331,846652,191585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+332,618114,215446,Body temperature,0,1,0,0,0,0
+333,500218,133287,Heart Rate,0,0,0,0,1,0
+334,729874,62934,Heart Rate,0,0,0,0,1,0
+335,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+336,637982,117706,Heart Rate,0,0,0,0,1,0
+337,701271,96585,Respiratory rate,0,0,0,0,0,1
+338,695565,246275,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+339,812773,40639,Body temperature,0,1,0,0,0,0
+340,741251,349904,Body temperature,0,1,0,0,0,0
+341,1034614,326723,Heart Rate,0,0,0,0,1,0
+342,937198,259074,Heart Rate,0,0,0,0,1,0
+343,903168,139622,Body temperature,0,1,0,0,0,0
+344,781881,139622,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+345,741251,349904,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+346,763179,231500,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+347,823126,279591,Heart Rate,0,0,0,0,1,0
+348,820024,78881,Heart Rate,0,0,0,0,1,0
+349,664223,70929,Heart Rate,0,0,0,0,1,0
+350,723509,154622,Body temperature,0,1,0,0,0,0
+351,884988,50033,Respiratory rate,0,0,0,0,0,1
+352,755066,179154,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+353,915446,138886,Heart Rate,0,0,0,0,1,0
+354,820490,166128,Heart Rate,0,0,0,0,1,0
+355,897908,119859,Respiratory rate,0,0,0,0,0,1
+356,800957,169564,Body temperature,0,1,0,0,0,0
+357,737822,62118,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+358,618114,215446,Respiratory rate,0,0,0,0,0,1
+359,903341,136526,Body temperature,0,1,0,0,0,0
+360,915446,138886,Body temperature,0,1,0,0,0,0
+361,863291,108398,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+362,915446,138886,Respiratory rate,0,0,0,0,0,1
+363,869206,184599,Respiratory rate,0,0,0,0,0,1
+364,846652,191585,Heart Rate,0,0,0,0,1,0
+365,705812,141861,Body temperature,0,1,0,0,0,0
+366,820024,78881,Body temperature,0,1,0,0,0,0
+367,618114,215446,Respiratory rate,0,0,0,0,0,1
+368,735978,9899,Body temperature,0,1,0,0,0,0
+369,1008565,130461,Body temperature,0,1,0,0,0,0
+370,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+371,1009223,73795,Body temperature,0,1,0,0,0,0
+372,820024,78881,Body temperature,0,1,0,0,0,0
+373,638402,349213,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+374,602959,6017,Heart Rate,0,0,0,0,1,0
+375,820024,78881,Heart Rate,0,0,0,0,1,0
+376,776710,33776,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+377,645309,241859,Body temperature,0,1,0,0,0,0
+378,943503,29513,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+379,781375,71823,Body temperature,0,1,0,0,0,0
+380,645309,241859,Body temperature,0,1,0,0,0,0
+381,970286,113766,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+382,503298,183915,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+383,954671,68157,Heart Rate,0,0,0,0,1,0
+384,1021857,289704,Heart Rate,0,0,0,0,1,0
+385,618114,215446,Respiratory rate,0,0,0,0,0,1
+386,578746,20851,Respiratory rate,0,0,0,0,0,1
+387,745487,90258,Body temperature,0,1,0,0,0,0
+388,568652,251636,Body temperature,0,1,0,0,0,0
+389,812773,40639,Heart Rate,0,0,0,0,1,0
+390,1028329,17581,Respiratory rate,0,0,0,0,0,1
+391,606085,230225,Body temperature,0,1,0,0,0,0
+392,971625,108213,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+393,618114,215446,Heart Rate,0,0,0,0,1,0
+394,816936,142456,Heart Rate,0,0,0,0,1,0
+395,856040,44790,Heart Rate,0,0,0,0,1,0
+396,741251,349904,Body temperature,0,1,0,0,0,0
+397,1047143,181739,Body temperature,0,1,0,0,0,0
+398,720954,297608,Body temperature,0,1,0,0,0,0
+399,846652,191585,Body temperature,0,1,0,0,0,0
+400,714649,59031,Body temperature,0,1,0,0,0,0
+401,1037989,50033,Respiratory rate,0,0,0,0,0,1
+402,846652,191585,Heart Rate,0,0,0,0,1,0
+403,728794,272807,Respiratory rate,0,0,0,0,0,1
+404,846652,191585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+405,916843,136025,Body temperature,0,1,0,0,0,0
+406,645721,348228,Heart Rate,0,0,0,0,1,0
+407,735978,9899,Heart Rate,0,0,0,0,1,0
+408,645309,241859,Heart Rate,0,0,0,0,1,0
+409,729874,62934,Respiratory rate,0,0,0,0,0,1
+410,915446,138886,Heart Rate,0,0,0,0,1,0
+411,781881,139622,Respiratory rate,0,0,0,0,0,1
+412,839608,135646,Respiratory rate,0,0,0,0,0,1
+413,910400,172884,Heart Rate,0,0,0,0,1,0
+414,776710,33776,Heart Rate,0,0,0,0,1,0
+415,903972,119656,Body temperature,0,1,0,0,0,0
+416,863291,108398,Body temperature,0,1,0,0,0,0
+417,861014,47322,Heart Rate,0,0,0,0,1,0
+418,856040,44790,Respiratory rate,0,0,0,0,0,1
+419,807886,344567,Body temperature,0,1,0,0,0,0
+420,521091,75891,Respiratory rate,0,0,0,0,0,1
+421,846652,191585,Heart Rate,0,0,0,0,1,0
+422,637982,117706,Heart Rate,0,0,0,0,1,0
+423,802897,24051,Respiratory rate,0,0,0,0,0,1
+424,618114,215446,Body temperature,0,1,0,0,0,0
+425,585014,17761,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+426,810375,180826,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+427,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+428,688582,40639,Heart Rate,0,0,0,0,1,0
+429,915446,138886,Heart Rate,0,0,0,0,1,0
+430,714649,59031,Body temperature,0,1,0,0,0,0
+431,879470,63464,Heart Rate,0,0,0,0,1,0
+432,1009223,73795,Heart Rate,0,0,0,0,1,0
+433,752661,202596,Heart Rate,0,0,0,0,1,0
+434,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+435,863291,108398,Heart Rate,0,0,0,0,1,0
+436,578159,210184,Body temperature,0,1,0,0,0,0
+437,706092,281665,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+438,526369,96585,Heart Rate,0,0,0,0,1,0
+439,500218,133287,Body temperature,0,1,0,0,0,0
+440,642979,24800,Heart Rate,0,0,0,0,1,0
+441,915446,138886,Heart Rate,0,0,0,0,1,0
+442,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+443,1015047,102230,Respiratory rate,0,0,0,0,0,1
+444,845670,233444,Heart Rate,0,0,0,0,1,0
+445,526369,96585,Respiratory rate,0,0,0,0,0,1
+446,664223,70929,Body temperature,0,1,0,0,0,0
+447,807511,257895,Heart Rate,0,0,0,0,1,0
+448,692703,62611,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+449,637982,117706,Heart Rate,0,0,0,0,1,0
+450,735978,9899,Heart Rate,0,0,0,0,1,0
+451,1007731,104820,Body temperature,0,1,0,0,0,0
+452,637482,288759,Heart Rate,0,0,0,0,1,0
+453,872256,262810,Heart Rate,0,0,0,0,1,0
+454,985371,324493,Body temperature,0,1,0,0,0,0
+455,796988,102321,Heart Rate,0,0,0,0,1,0
+456,807886,344567,Respiratory rate,0,0,0,0,0,1
+457,802897,24051,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+458,525326,259074,Body temperature,0,1,0,0,0,0
+459,1000285,215528,Heart Rate,0,0,0,0,1,0
+460,1028329,17581,Body temperature,0,1,0,0,0,0
+461,755463,180327,Heart Rate,0,0,0,0,1,0
+462,845641,136526,Heart Rate,0,0,0,0,1,0
+463,827689,181650,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+464,547358,252459,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+465,664223,70929,Respiratory rate,0,0,0,0,0,1
+466,897908,119859,Body temperature,0,1,0,0,0,0
+467,1031095,111857,Body temperature,0,1,0,0,0,0
+468,985544,184599,Heart Rate,0,0,0,0,1,0
+469,618114,215446,Heart Rate,0,0,0,0,1,0
+470,637982,117706,Heart Rate,0,0,0,0,1,0
+471,820024,78881,Respiratory rate,0,0,0,0,0,1
+472,618114,215446,Respiratory rate,0,0,0,0,0,1
+473,1047143,181739,Heart Rate,0,0,0,0,1,0
+474,1015047,102230,Heart Rate,0,0,0,0,1,0
+475,781881,139622,Body temperature,0,1,0,0,0,0
+476,810375,180826,Respiratory rate,0,0,0,0,0,1
+477,823126,279591,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+478,618114,215446,Respiratory rate,0,0,0,0,0,1
+479,637982,117706,Heart Rate,0,0,0,0,1,0
+480,1034614,326723,Body temperature,0,1,0,0,0,0
+481,880077,289704,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+482,562125,112734,Heart Rate,0,0,0,0,1,0
+483,931944,256876,Body temperature,0,1,0,0,0,0
+484,714649,59031,Body temperature,0,1,0,0,0,0
+485,940817,4022,Heart Rate,0,0,0,0,1,0
+486,909953,6507,Heart Rate,0,0,0,0,1,0
+487,618114,215446,Heart Rate,0,0,0,0,1,0
+488,845641,136526,Body temperature,0,1,0,0,0,0
+489,637982,117706,Heart Rate,0,0,0,0,1,0
+490,690613,306865,Respiratory rate,0,0,0,0,0,1
+491,516292,143744,Body temperature,0,1,0,0,0,0
+492,820024,78881,Heart Rate,0,0,0,0,1,0
+493,741251,349904,Body temperature,0,1,0,0,0,0
+494,846652,191585,Body temperature,0,1,0,0,0,0
+495,661142,76077,Respiratory rate,0,0,0,0,0,1
+496,654872,285640,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+497,539396,286176,Body temperature,0,1,0,0,0,0
+498,988362,354118,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+499,820024,78881,Respiratory rate,0,0,0,0,0,1
+500,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+501,755066,179154,Body temperature,0,1,0,0,0,0
+502,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+503,635860,122116,Body temperature,0,1,0,0,0,0
+504,692703,62611,Body temperature,0,1,0,0,0,0
+505,820024,78881,Respiratory rate,0,0,0,0,0,1
+506,735978,9899,Heart Rate,0,0,0,0,1,0
+507,943503,29513,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+508,595970,71823,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+509,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+510,601656,162393,Heart Rate,0,0,0,0,1,0
+511,820024,78881,Heart Rate,0,0,0,0,1,0
+512,856040,44790,Body temperature,0,1,0,0,0,0
+513,859589,190983,Body temperature,0,1,0,0,0,0
+514,635860,122116,Respiratory rate,0,0,0,0,0,1
+515,697116,62853,Heart Rate,0,0,0,0,1,0
+516,735978,9899,Heart Rate,0,0,0,0,1,0
+517,915446,138886,Body temperature,0,1,0,0,0,0
+518,933107,311298,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+519,618114,215446,Body temperature,0,1,0,0,0,0
+520,791964,50033,Respiratory rate,0,0,0,0,0,1
+521,990314,341553,Respiratory rate,0,0,0,0,0,1
+522,820024,78881,Heart Rate,0,0,0,0,1,0
+523,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+524,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+525,791964,50033,Heart Rate,0,0,0,0,1,0
+526,735978,9899,Body temperature,0,1,0,0,0,0
+527,820024,78881,Heart Rate,0,0,0,0,1,0
+528,695565,246275,Respiratory rate,0,0,0,0,0,1
+529,917110,220703,Heart Rate,0,0,0,0,1,0
+530,637982,117706,Body temperature,0,1,0,0,0,0
+531,916843,136025,Respiratory rate,0,0,0,0,0,1
+532,712160,349764,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+533,909953,6507,Heart Rate,0,0,0,0,1,0
+534,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+535,531679,272954,Heart Rate,0,0,0,0,1,0
+536,706092,281665,Respiratory rate,0,0,0,0,0,1
+537,717681,307504,Body temperature,0,1,0,0,0,0
+538,915721,312229,Body temperature,0,1,0,0,0,0
+539,931944,256876,Heart Rate,0,0,0,0,1,0
+540,735978,9899,Heart Rate,0,0,0,0,1,0
+541,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+542,944724,112314,Heart Rate,0,0,0,0,1,0
+543,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+544,1037989,50033,Heart Rate,0,0,0,0,1,0
+545,645309,241859,Heart Rate,0,0,0,0,1,0
+546,735978,9899,Heart Rate,0,0,0,0,1,0
+547,752871,60043,Body temperature,0,1,0,0,0,0
+548,562125,112734,Respiratory rate,0,0,0,0,0,1
+549,637982,117706,Heart Rate,0,0,0,0,1,0
+550,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+551,723911,181171,Respiratory rate,0,0,0,0,0,1
+552,666066,119859,Respiratory rate,0,0,0,0,0,1
+553,991548,270700,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+554,656065,104820,Body temperature,0,1,0,0,0,0
+555,645309,241859,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+556,547236,341553,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+557,735978,9899,Heart Rate,0,0,0,0,1,0
+558,601656,162393,Respiratory rate,0,0,0,0,0,1
+559,935511,121640,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+560,526369,96585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+561,547153,120840,Body temperature,0,1,0,0,0,0
+562,706092,281665,Heart Rate,0,0,0,0,1,0
+563,802897,24051,Body temperature,0,1,0,0,0,0
+564,754731,201306,Body temperature,0,1,0,0,0,0
+565,666066,119859,Body temperature,0,1,0,0,0,0
+566,837168,172884,Heart Rate,0,0,0,0,1,0
+567,1036582,254649,Body temperature,0,1,0,0,0,0
+568,760284,157800,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+569,981651,139622,Respiratory rate,0,0,0,0,0,1
+570,637982,117706,Body temperature,0,1,0,0,0,0
+571,859589,190983,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+572,880077,289704,Respiratory rate,0,0,0,0,0,1
+573,552825,161328,Body temperature,0,1,0,0,0,0
+574,1000285,215528,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+575,793524,351560,Heart Rate,0,0,0,0,1,0
+576,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+577,846652,191585,Body temperature,0,1,0,0,0,0
+578,723911,181171,Heart Rate,0,0,0,0,1,0
+579,503298,183915,Respiratory rate,0,0,0,0,0,1
+580,787051,45568,Body temperature,0,1,0,0,0,0
+581,602942,121640,Body temperature,0,1,0,0,0,0
+582,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+583,940817,4022,Body temperature,0,1,0,0,0,0
+584,1009223,73795,Heart Rate,0,0,0,0,1,0
+585,954671,68157,Respiratory rate,0,0,0,0,0,1
+586,971625,108213,Body temperature,0,1,0,0,0,0
+587,629570,201306,Body temperature,0,1,0,0,0,0
+588,872256,262810,Respiratory rate,0,0,0,0,0,1
+589,547358,252459,Body temperature,0,1,0,0,0,0
+590,555280,124480,Heart Rate,0,0,0,0,1,0
+591,943503,29513,Heart Rate,0,0,0,0,1,0
+592,735978,9899,Heart Rate,0,0,0,0,1,0
+593,735978,9899,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+594,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+595,526369,96585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+596,776710,33776,Body temperature,0,1,0,0,0,0
+597,521091,75891,Body temperature,0,1,0,0,0,0
+598,983017,274726,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+599,735978,9899,Body temperature,0,1,0,0,0,0
+600,845607,45568,Body temperature,0,1,0,0,0,0
+601,810375,180826,Body temperature,0,1,0,0,0,0
+602,735978,9899,Body temperature,0,1,0,0,0,0
+603,915446,138886,Respiratory rate,0,0,0,0,0,1
+604,915446,138886,Heart Rate,0,0,0,0,1,0
+605,735978,9899,Respiratory rate,0,0,0,0,0,1
+606,916843,136025,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+607,800957,169564,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+608,531679,272954,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+609,653089,160601,Respiratory rate,0,0,0,0,0,1
+610,944724,112314,Body temperature,0,1,0,0,0,0
+611,1032784,80281,Heart Rate,0,0,0,0,1,0
+612,915446,138886,Body temperature,0,1,0,0,0,0
+613,723735,254313,Heart Rate,0,0,0,0,1,0
+614,584189,208077,Heart Rate,0,0,0,0,1,0
+615,820024,78881,Heart Rate,0,0,0,0,1,0
+616,830726,119859,Heart Rate,0,0,0,0,1,0
+617,1021857,289704,Respiratory rate,0,0,0,0,0,1
+618,820024,78881,Heart Rate,0,0,0,0,1,0
+619,618114,215446,Heart Rate,0,0,0,0,1,0
+620,985544,184599,Respiratory rate,0,0,0,0,0,1
+621,909953,6507,Heart Rate,0,0,0,0,1,0
+622,659616,267993,Heart Rate,0,0,0,0,1,0
+623,908711,17581,Heart Rate,0,0,0,0,1,0
+624,514136,93988,Body temperature,0,1,0,0,0,0
+625,971861,273254,Heart Rate,0,0,0,0,1,0
+626,915446,138886,Heart Rate,0,0,0,0,1,0
+627,770247,273923,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+628,1009223,73795,Heart Rate,0,0,0,0,1,0
+629,735978,9899,Heart Rate,0,0,0,0,1,0
+630,807511,257895,Heart Rate,0,0,0,0,1,0
+631,575909,138185,Respiratory rate,0,0,0,0,0,1
+632,618114,215446,Heart Rate,0,0,0,0,1,0
+633,711066,180327,Heart Rate,0,0,0,0,1,0
+634,971625,108213,Heart Rate,0,0,0,0,1,0
+635,723735,254313,Body temperature,0,1,0,0,0,0
+636,914522,62118,Heart Rate,0,0,0,0,1,0
+637,804193,305063,Heart Rate,0,0,0,0,1,0
+638,595970,71823,Body temperature,0,1,0,0,0,0
+639,808957,337350,Body temperature,0,1,0,0,0,0
+640,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+641,695565,246275,Heart Rate,0,0,0,0,1,0
+642,637982,117706,Body temperature,0,1,0,0,0,0
+643,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+644,903972,119656,Heart Rate,0,0,0,0,1,0
+645,915721,312229,Heart Rate,0,0,0,0,1,0
+646,711066,180327,Body temperature,0,1,0,0,0,0
+647,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+648,595970,71823,Respiratory rate,0,0,0,0,0,1
+649,547236,341553,Heart Rate,0,0,0,0,1,0
+650,823126,279591,Respiratory rate,0,0,0,0,0,1
+651,915446,138886,Heart Rate,0,0,0,0,1,0
+652,953780,23016,Body temperature,0,1,0,0,0,0
+653,660892,138185,Body temperature,0,1,0,0,0,0
+654,555280,124480,Body temperature,0,1,0,0,0,0
+655,693649,351629,Body temperature,0,1,0,0,0,0
+656,514136,93988,Respiratory rate,0,0,0,0,0,1
+657,825350,254313,Heart Rate,0,0,0,0,1,0
+658,1009223,73795,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+659,525326,259074,Heart Rate,0,0,0,0,1,0
+660,741251,349904,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+661,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+662,674981,331741,Body temperature,0,1,0,0,0,0
+663,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+664,735978,9899,Heart Rate,0,0,0,0,1,0
+665,618541,50033,Respiratory rate,0,0,0,0,0,1
+666,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+667,714649,59031,Body temperature,0,1,0,0,0,0
+668,737822,62118,Heart Rate,0,0,0,0,1,0
+669,637982,117706,Heart Rate,0,0,0,0,1,0
+670,915446,138886,Body temperature,0,1,0,0,0,0
+671,756756,330054,Heart Rate,0,0,0,0,1,0
+672,861014,47322,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+673,846652,191585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+674,978026,71823,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+675,1011948,270700,Respiratory rate,0,0,0,0,0,1
+676,735978,9899,Respiratory rate,0,0,0,0,0,1
+677,618114,215446,Body temperature,0,1,0,0,0,0
+678,618114,215446,Heart Rate,0,0,0,0,1,0
+679,692703,62611,Heart Rate,0,0,0,0,1,0
+680,637982,117706,Heart Rate,0,0,0,0,1,0
+681,723509,154622,Heart Rate,0,0,0,0,1,0
+682,593284,350494,Heart Rate,0,0,0,0,1,0
+683,553188,181739,Body temperature,0,1,0,0,0,0
+684,795293,18461,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+685,858887,110127,Heart Rate,0,0,0,0,1,0
+686,674981,331741,Heart Rate,0,0,0,0,1,0
+687,916843,136025,Heart Rate,0,0,0,0,1,0
+688,1008565,130461,Heart Rate,0,0,0,0,1,0
+689,903972,119656,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+690,701271,96585,Body temperature,0,1,0,0,0,0
+691,717497,62611,Body temperature,0,1,0,0,0,0
+692,618114,215446,Respiratory rate,0,0,0,0,0,1
+693,770247,273923,Heart Rate,0,0,0,0,1,0
+694,735978,9899,Heart Rate,0,0,0,0,1,0
+695,735978,9899,Respiratory rate,0,0,0,0,0,1
+696,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+697,846652,191585,Body temperature,0,1,0,0,0,0
+698,816936,142456,Respiratory rate,0,0,0,0,0,1
+699,618114,215446,Respiratory rate,0,0,0,0,0,1
+700,727351,126548,Body temperature,0,1,0,0,0,0
+701,618114,215446,Heart Rate,0,0,0,0,1,0
+702,735978,9899,Heart Rate,0,0,0,0,1,0
+703,886727,89794,Body temperature,0,1,0,0,0,0
+704,760284,157800,Respiratory rate,0,0,0,0,0,1
+705,957006,254649,Body temperature,0,1,0,0,0,0
+706,705812,141861,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+707,840483,136392,Heart Rate,0,0,0,0,1,0
+708,915446,138886,Body temperature,0,1,0,0,0,0
+709,877658,141620,Heart Rate,0,0,0,0,1,0
+710,839608,135646,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+711,524167,138185,Respiratory rate,0,0,0,0,0,1
+712,846652,191585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+713,940817,4022,Respiratory rate,0,0,0,0,0,1
+714,645309,241859,Heart Rate,0,0,0,0,1,0
+715,582203,330352,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+716,1028329,17581,Heart Rate,0,0,0,0,1,0
+717,807511,257895,Body temperature,0,1,0,0,0,0
+718,915446,138886,Heart Rate,0,0,0,0,1,0
+719,618114,215446,Heart Rate,0,0,0,0,1,0
+720,735978,9899,Heart Rate,0,0,0,0,1,0
+721,859589,190983,Respiratory rate,0,0,0,0,0,1
+722,640953,30095,Heart Rate,0,0,0,0,1,0
+723,765628,276929,Body temperature,0,1,0,0,0,0
+724,568652,251636,Heart Rate,0,0,0,0,1,0
+725,770247,273923,Respiratory rate,0,0,0,0,0,1
+726,575909,138185,Body temperature,0,1,0,0,0,0
+727,701249,98275,Heart Rate,0,0,0,0,1,0
+728,820024,78881,Heart Rate,0,0,0,0,1,0
+729,846652,191585,Heart Rate,0,0,0,0,1,0
+730,770247,273923,Body temperature,0,1,0,0,0,0
+731,981651,139622,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+732,618114,215446,Heart Rate,0,0,0,0,1,0
+733,807511,257895,Heart Rate,0,0,0,0,1,0
+734,637982,117706,Body temperature,0,1,0,0,0,0
+735,602942,121640,Heart Rate,0,0,0,0,1,0
+736,735978,9899,Body temperature,0,1,0,0,0,0
+737,812773,40639,Respiratory rate,0,0,0,0,0,1
+738,935511,121640,Heart Rate,0,0,0,0,1,0
+739,645309,241859,Respiratory rate,0,0,0,0,0,1
+740,514136,93988,Heart Rate,0,0,0,0,1,0
+741,637982,117706,Heart Rate,0,0,0,0,1,0
+742,1049681,120840,Heart Rate,0,0,0,0,1,0
+743,877658,141620,Respiratory rate,0,0,0,0,0,1
+744,755463,180327,Respiratory rate,0,0,0,0,0,1
+745,899754,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+746,820024,78881,Heart Rate,0,0,0,0,1,0
+747,526369,96585,Heart Rate,0,0,0,0,1,0
+748,915446,138886,Body temperature,0,1,0,0,0,0
+749,781881,139622,Heart Rate,0,0,0,0,1,0
+750,935511,121640,Body temperature,0,1,0,0,0,0
+751,795293,18461,Heart Rate,0,0,0,0,1,0
+752,1034614,326723,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+753,893318,235414,Heart Rate,0,0,0,0,1,0
+754,781375,71823,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+755,582203,330352,Body temperature,0,1,0,0,0,0
+756,886727,89794,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+757,970286,113766,Respiratory rate,0,0,0,0,0,1
+758,861014,47322,Respiratory rate,0,0,0,0,0,1
+759,933107,311298,Body temperature,0,1,0,0,0,0
+760,1034614,326723,Respiratory rate,0,0,0,0,0,1
+761,908711,17581,Body temperature,0,1,0,0,0,0
+762,500218,133287,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+763,990314,341553,Body temperature,0,1,0,0,0,0
+764,879470,63464,Body temperature,0,1,0,0,0,0
+765,781375,71823,Heart Rate,0,0,0,0,1,0
+766,687004,29513,Body temperature,0,1,0,0,0,0
+767,532709,34976,Body temperature,0,1,0,0,0,0
+768,1001600,348228,Body temperature,0,1,0,0,0,0
+769,908711,17581,Respiratory rate,0,0,0,0,0,1
+770,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+771,752661,202596,Body temperature,0,1,0,0,0,0
+772,618114,215446,Respiratory rate,0,0,0,0,0,1
+773,629570,201306,Heart Rate,0,0,0,0,1,0
+774,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+775,638402,349213,Body temperature,0,1,0,0,0,0
+776,1049681,120840,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+777,795293,18461,Body temperature,0,1,0,0,0,0
+778,991548,270700,Body temperature,0,1,0,0,0,0
+779,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+780,690613,306865,Body temperature,0,1,0,0,0,0
+781,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+782,908711,17581,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+783,555926,308,Body temperature,0,1,0,0,0,0
+784,606085,230225,Heart Rate,0,0,0,0,1,0
+785,823466,116529,Body temperature,0,1,0,0,0,0
+786,618114,215446,Body temperature,0,1,0,0,0,0
+787,856386,183663,Body temperature,0,1,0,0,0,0
+788,872256,262810,Body temperature,0,1,0,0,0,0
+789,706092,281665,Body temperature,0,1,0,0,0,0
+790,1009223,73795,Heart Rate,0,0,0,0,1,0
+791,846652,191585,Heart Rate,0,0,0,0,1,0
+792,820024,78881,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+793,664223,70929,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+794,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+795,917110,220703,Body temperature,0,1,0,0,0,0
+796,677854,73597,Body temperature,0,1,0,0,0,0
+797,880077,289704,Heart Rate,0,0,0,0,1,0
+798,1031095,111857,Heart Rate,0,0,0,0,1,0
+799,1009223,73795,Heart Rate,0,0,0,0,1,0
+800,846652,191585,Heart Rate,0,0,0,0,1,0
+801,637982,117706,Body temperature,0,1,0,0,0,0
+802,690763,336248,Respiratory rate,0,0,0,0,0,1
+803,836385,163148,Body temperature,0,1,0,0,0,0
+804,781375,71823,Respiratory rate,0,0,0,0,0,1
+805,915446,138886,Body temperature,0,1,0,0,0,0
+806,618114,215446,Respiratory rate,0,0,0,0,0,1
+807,593284,350494,Body temperature,0,1,0,0,0,0
+808,578746,20851,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+809,637974,87993,Body temperature,0,1,0,0,0,0
+810,820169,61775,Body temperature,0,1,0,0,0,0
+811,899754,215446,Heart Rate,0,0,0,0,1,0
+812,867242,246175,Body temperature,0,1,0,0,0,0
+813,841957,342248,Body temperature,0,1,0,0,0,0
+814,1051069,223971,Body temperature,0,1,0,0,0,0
+815,846652,191585,Body temperature,0,1,0,0,0,0
+816,937198,259074,Body temperature,0,1,0,0,0,0
+817,1009223,73795,Respiratory rate,0,0,0,0,0,1
+818,712160,349764,Body temperature,0,1,0,0,0,0
+819,590768,123642,Body temperature,0,1,0,0,0,0
+820,735978,9899,Respiratory rate,0,0,0,0,0,1
+821,816936,142456,Body temperature,0,1,0,0,0,0
+822,915446,138886,Body temperature,0,1,0,0,0,0
+823,909953,6507,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+824,739487,236177,Heart Rate,0,0,0,0,1,0
+825,802897,24051,Heart Rate,0,0,0,0,1,0
+826,804193,305063,Body temperature,0,1,0,0,0,0
+827,578746,20851,Heart Rate,0,0,0,0,1,0
+828,735978,9899,Respiratory rate,0,0,0,0,0,1
+829,555280,124480,Respiratory rate,0,0,0,0,0,1
+830,820169,61775,Heart Rate,0,0,0,0,1,0
+831,869564,262810,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+832,827689,181650,Body temperature,0,1,0,0,0,0
+833,903341,136526,Heart Rate,0,0,0,0,1,0
+834,688582,40639,Respiratory rate,0,0,0,0,0,1
+835,820024,78881,Heart Rate,0,0,0,0,1,0
+836,970286,113766,Respiratory rate,0,0,0,0,0,1
+837,547153,120840,Respiratory rate,0,0,0,0,0,1
+838,638402,349213,Heart Rate,0,0,0,0,1,0
+839,618114,215446,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+840,867242,246175,Heart Rate,0,0,0,0,1,0
+841,618114,215446,Body temperature,0,1,0,0,0,0
+842,893318,235414,Respiratory rate,0,0,0,0,0,1
+843,991548,270700,Heart Rate,0,0,0,0,1,0
+844,991548,270700,Heart Rate,0,0,0,0,1,0
+845,990314,341553,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+846,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+847,705812,141861,Respiratory rate,0,0,0,0,0,1
+848,1007731,104820,Heart Rate,0,0,0,0,1,0
+849,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+850,954671,68157,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+851,869564,262810,Respiratory rate,0,0,0,0,0,1
+852,735978,9899,Body temperature,0,1,0,0,0,0
+853,846652,191585,Body temperature,0,1,0,0,0,0
+854,515419,350494,Heart Rate,0,0,0,0,1,0
+855,742413,65478,Body temperature,0,1,0,0,0,0
+856,970286,113766,Body temperature,0,1,0,0,0,0
+857,755066,179154,Respiratory rate,0,0,0,0,0,1
+858,521091,75891,Heart Rate,0,0,0,0,1,0
+859,880623,201306,Body temperature,0,1,0,0,0,0
+860,869206,184599,Heart Rate,0,0,0,0,1,0
+861,872256,262810,Respiratory rate,0,0,0,0,0,1
+862,745487,90258,Heart Rate,0,0,0,0,1,0
+863,547236,341553,Respiratory rate,0,0,0,0,0,1
+864,903972,119656,Respiratory rate,0,0,0,0,0,1
+865,674981,331741,Respiratory rate,0,0,0,0,0,1
+866,884988,50033,Heart Rate,0,0,0,0,1,0
+867,909953,6507,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+868,600502,289217,Heart Rate,0,0,0,0,1,0
+869,820169,61775,Respiratory rate,0,0,0,0,0,1
+870,985371,324493,Body temperature,0,1,0,0,0,0
+871,809402,157048,Respiratory rate,0,0,0,0,0,1
+872,886727,89794,Respiratory rate,0,0,0,0,0,1
+873,741251,349904,Body temperature,0,1,0,0,0,0
+874,1036582,254649,Heart Rate,0,0,0,0,1,0
+875,820024,78881,Respiratory rate,0,0,0,0,0,1
+876,746247,226349,Body temperature,0,1,0,0,0,0
+877,717497,62611,Respiratory rate,0,0,0,0,0,1
+878,840483,136392,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+879,776710,33776,Respiratory rate,0,0,0,0,0,1
+880,789487,314069,Body temperature,0,1,0,0,0,0
+881,701271,96585,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+882,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+883,755066,179154,Heart Rate,0,0,0,0,1,0
+884,820024,78881,Body temperature,0,1,0,0,0,0
+885,1009223,73795,Respiratory rate,0,0,0,0,0,1
+886,601656,162393,Body temperature,0,1,0,0,0,0
+887,637982,117706,Heart Rate,0,0,0,0,1,0
+888,820024,78881,Body temperature,0,1,0,0,0,0
+889,618114,215446,Heart Rate,0,0,0,0,1,0
+890,687004,29513,Heart Rate,0,0,0,0,1,0
+891,690613,306865,Heart Rate,0,0,0,0,1,0
+892,988362,354118,Body temperature,0,1,0,0,0,0
+893,1007731,104820,Respiratory rate,0,0,0,0,0,1
+894,585014,17761,Body temperature,0,1,0,0,0,0
+895,692703,62611,Respiratory rate,0,0,0,0,0,1
+896,793524,351560,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+897,846652,191585,Heart Rate,0,0,0,0,1,0
+898,723911,181171,Body temperature,0,1,0,0,0,0
+899,693649,351629,Heart Rate,0,0,0,0,1,0
+900,1051069,223971,Heart Rate,0,0,0,0,1,0
+901,526785,185579,Respiratory rate,0,0,0,0,0,1
+902,1009223,73795,Body temperature,0,1,0,0,0,0
+903,697116,62853,Respiratory rate,0,0,0,0,0,1
+904,687004,29513,Respiratory rate,0,0,0,0,0,1
+905,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+906,714649,59031,Body temperature,0,1,0,0,0,0
+907,736708,8137,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+908,978026,71823,Body temperature,0,1,0,0,0,0
+909,515419,350494,Body temperature,0,1,0,0,0,0
+910,760020,324692,Respiratory rate,0,0,0,0,0,1
+911,903341,136526,Respiratory rate,0,0,0,0,0,1
+912,742413,65478,Heart Rate,0,0,0,0,1,0
+913,514136,93988,Heart Rate,0,0,0,0,1,0
+914,846652,191585,Heart Rate,0,0,0,0,1,0
+915,915446,138886,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+916,909953,6507,Body temperature,0,1,0,0,0,0
+917,524167,138185,Heart Rate,0,0,0,0,1,0
+918,653089,160601,Body temperature,0,1,0,0,0,0
+919,820024,78881,Heart Rate,0,0,0,0,1,0
+920,820024,78881,Heart Rate,0,0,0,0,1,0
+921,526785,185579,Body temperature,0,1,0,0,0,0
+922,879470,63464,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+923,846652,191585,Body temperature,0,1,0,0,0,0
+924,760284,157800,Body temperature,0,1,0,0,0,0
+925,659616,267993,Body temperature,0,1,0,0,0,0
+926,915446,138886,Body temperature,0,1,0,0,0,0
+927,661142,76077,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+928,618114,215446,Respiratory rate,0,0,0,0,0,1
+929,532709,34976,Heart Rate,0,0,0,0,1,0
+930,555505,146310,Heart Rate,0,0,0,0,1,0
+931,823126,279591,Body temperature,0,1,0,0,0,0
+932,637982,117706,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+933,1009223,73795,Body temperature,0,1,0,0,0,0
+934,735978,9899,Body temperature,0,1,0,0,0,0
+935,807886,344567,Heart Rate,0,0,0,0,1,0
+936,886727,89794,Heart Rate,0,0,0,0,1,0
+937,992334,229453,Body temperature,0,1,0,0,0,0
+938,957006,254649,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+939,637974,87993,Heart Rate,0,0,0,0,1,0
+940,618114,215446,Body temperature,0,1,0,0,0,0
+941,840483,136392,Body temperature,0,1,0,0,0,0
+942,701249,98275,Oxygen saturation in Arterial blood,1,0,0,0,0,0
+943,893318,235414,Body temperature,0,1,0,0,0,0
+944,861014,47322,Body temperature,0,1,0,0,0,0
+945,526369,96585,Body temperature,0,1,0,0,0,0
+946,846652,191585,Heart Rate,0,0,0,0,1,0
+947,807511,257895,Body temperature,0,1,0,0,0,0
+948,978026,71823,Heart Rate,0,0,0,0,1,0
+949,585014,17761,Respiratory rate,0,0,0,0,0,1
+950,752871,60043,Heart Rate,0,0,0,0,1,0
+951,1009223,73795,Body temperature,0,1,0,0,0,0
+952,915446,138886,Respiratory rate,0,0,0,0,0,1
+953,1009223,73795,Body temperature,0,1,0,0,0,0
+954,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+955,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+956,735503,217221,Diastolic blood pressure,0,0,1,0,0,0
+957,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+958,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+959,903168,139622,Diastolic blood pressure,0,0,1,0,0,0
+960,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+961,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+962,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+963,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+964,899440,161988,Diastolic blood pressure,0,0,1,0,0,0
+965,894693,323580,Diastolic blood pressure,0,0,1,0,0,0
+966,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+967,578159,210184,Diastolic blood pressure,0,0,1,0,0,0
+968,718391,14339,Diastolic blood pressure,0,0,1,0,0,0
+969,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+970,645721,348228,Diastolic blood pressure,0,0,1,0,0,0
+971,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+972,532709,34976,Diastolic blood pressure,0,0,1,0,0,0
+973,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+974,1028329,17581,Diastolic blood pressure,0,0,1,0,0,0
+975,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+976,539658,240364,Diastolic blood pressure,0,0,1,0,0,0
+977,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+978,820169,61775,Diastolic blood pressure,0,0,1,0,0,0
+979,577538,242039,Diastolic blood pressure,0,0,1,0,0,0
+980,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+981,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+982,589368,225683,Diastolic blood pressure,0,0,1,0,0,0
+983,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+984,585014,17761,Diastolic blood pressure,0,0,1,0,0,0
+985,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+986,578746,20851,Diastolic blood pressure,0,0,1,0,0,0
+987,789997,50661,Diastolic blood pressure,0,0,1,0,0,0
+988,868823,114832,Diastolic blood pressure,0,0,1,0,0,0
+989,856040,44790,Diastolic blood pressure,0,0,1,0,0,0
+990,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+991,693992,340761,Diastolic blood pressure,0,0,1,0,0,0
+992,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+993,519519,171660,Diastolic blood pressure,0,0,1,0,0,0
+994,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+995,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+996,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+997,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+998,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+999,788642,117557,Diastolic blood pressure,0,0,1,0,0,0
+1000,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1001,620932,329897,Diastolic blood pressure,0,0,1,0,0,0
+1002,813456,200334,Diastolic blood pressure,0,0,1,0,0,0
+1003,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1004,807511,257895,Diastolic blood pressure,0,0,1,0,0,0
+1005,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1006,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1007,827115,345841,Diastolic blood pressure,0,0,1,0,0,0
+1008,737822,62118,Diastolic blood pressure,0,0,1,0,0,0
+1009,829856,318575,Diastolic blood pressure,0,0,1,0,0,0
+1010,978026,71823,Diastolic blood pressure,0,0,1,0,0,0
+1011,585903,337004,Diastolic blood pressure,0,0,1,0,0,0
+1012,644445,303470,Diastolic blood pressure,0,0,1,0,0,0
+1013,884237,285798,Diastolic blood pressure,0,0,1,0,0,0
+1014,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+1015,660892,138185,Diastolic blood pressure,0,0,1,0,0,0
+1016,928477,179426,Diastolic blood pressure,0,0,1,0,0,0
+1017,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1018,1049034,156054,Diastolic blood pressure,0,0,1,0,0,0
+1019,884237,285798,Diastolic blood pressure,0,0,1,0,0,0
+1020,606832,281066,Diastolic blood pressure,0,0,1,0,0,0
+1021,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1022,937407,81296,Diastolic blood pressure,0,0,1,0,0,0
+1023,1022237,272672,Diastolic blood pressure,0,0,1,0,0,0
+1024,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1025,758165,96365,Diastolic blood pressure,0,0,1,0,0,0
+1026,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1027,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1028,863693,52709,Diastolic blood pressure,0,0,1,0,0,0
+1029,918934,32154,Diastolic blood pressure,0,0,1,0,0,0
+1030,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1031,906908,22959,Diastolic blood pressure,0,0,1,0,0,0
+1032,561225,278915,Diastolic blood pressure,0,0,1,0,0,0
+1033,533104,346288,Diastolic blood pressure,0,0,1,0,0,0
+1034,518385,88239,Diastolic blood pressure,0,0,1,0,0,0
+1035,915721,312229,Diastolic blood pressure,0,0,1,0,0,0
+1036,841757,124957,Diastolic blood pressure,0,0,1,0,0,0
+1037,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1038,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1039,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+1040,526369,96585,Diastolic blood pressure,0,0,1,0,0,0
+1041,812423,205693,Diastolic blood pressure,0,0,1,0,0,0
+1042,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1043,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1044,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1045,532625,266534,Diastolic blood pressure,0,0,1,0,0,0
+1046,1007731,104820,Diastolic blood pressure,0,0,1,0,0,0
+1047,816828,111811,Diastolic blood pressure,0,0,1,0,0,0
+1048,816936,142456,Diastolic blood pressure,0,0,1,0,0,0
+1049,781881,139622,Diastolic blood pressure,0,0,1,0,0,0
+1050,514945,238422,Diastolic blood pressure,0,0,1,0,0,0
+1051,504280,219880,Diastolic blood pressure,0,0,1,0,0,0
+1052,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1053,872107,102255,Diastolic blood pressure,0,0,1,0,0,0
+1054,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1055,562125,112734,Diastolic blood pressure,0,0,1,0,0,0
+1056,525326,259074,Diastolic blood pressure,0,0,1,0,0,0
+1057,648317,29132,Diastolic blood pressure,0,0,1,0,0,0
+1058,943503,29513,Diastolic blood pressure,0,0,1,0,0,0
+1059,906793,244531,Diastolic blood pressure,0,0,1,0,0,0
+1060,547153,120840,Diastolic blood pressure,0,0,1,0,0,0
+1061,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1062,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1063,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1064,773622,80184,Diastolic blood pressure,0,0,1,0,0,0
+1065,872311,261946,Diastolic blood pressure,0,0,1,0,0,0
+1066,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1067,900083,137785,Diastolic blood pressure,0,0,1,0,0,0
+1068,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1069,1034614,326723,Diastolic blood pressure,0,0,1,0,0,0
+1070,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1071,567085,296462,Diastolic blood pressure,0,0,1,0,0,0
+1072,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1073,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1074,840483,136392,Diastolic blood pressure,0,0,1,0,0,0
+1075,643927,13170,Diastolic blood pressure,0,0,1,0,0,0
+1076,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1077,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1078,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1079,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1080,676853,104239,Diastolic blood pressure,0,0,1,0,0,0
+1081,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1082,658854,204485,Diastolic blood pressure,0,0,1,0,0,0
+1083,595970,71823,Diastolic blood pressure,0,0,1,0,0,0
+1084,856386,183663,Diastolic blood pressure,0,0,1,0,0,0
+1085,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1086,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1087,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1088,794396,129231,Diastolic blood pressure,0,0,1,0,0,0
+1089,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1090,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1091,580310,39186,Diastolic blood pressure,0,0,1,0,0,0
+1092,1026161,22959,Diastolic blood pressure,0,0,1,0,0,0
+1093,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1094,553188,181739,Diastolic blood pressure,0,0,1,0,0,0
+1095,890190,178768,Diastolic blood pressure,0,0,1,0,0,0
+1096,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1097,614209,241395,Diastolic blood pressure,0,0,1,0,0,0
+1098,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1099,883176,321363,Diastolic blood pressure,0,0,1,0,0,0
+1100,729874,62934,Diastolic blood pressure,0,0,1,0,0,0
+1101,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1102,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1103,837168,172884,Diastolic blood pressure,0,0,1,0,0,0
+1104,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1105,919944,238091,Diastolic blood pressure,0,0,1,0,0,0
+1106,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1107,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1108,585800,353022,Diastolic blood pressure,0,0,1,0,0,0
+1109,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1110,713516,61191,Diastolic blood pressure,0,0,1,0,0,0
+1111,915571,244259,Diastolic blood pressure,0,0,1,0,0,0
+1112,874958,154353,Diastolic blood pressure,0,0,1,0,0,0
+1113,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1114,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1115,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1116,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1117,612249,109718,Diastolic blood pressure,0,0,1,0,0,0
+1118,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1119,681697,57008,Diastolic blood pressure,0,0,1,0,0,0
+1120,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1121,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1122,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1123,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1124,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1125,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1126,729874,62934,Diastolic blood pressure,0,0,1,0,0,0
+1127,891880,292190,Diastolic blood pressure,0,0,1,0,0,0
+1128,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+1129,896827,142118,Diastolic blood pressure,0,0,1,0,0,0
+1130,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1131,880360,241013,Diastolic blood pressure,0,0,1,0,0,0
+1132,714982,13566,Diastolic blood pressure,0,0,1,0,0,0
+1133,711066,180327,Diastolic blood pressure,0,0,1,0,0,0
+1134,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1135,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1136,802897,24051,Diastolic blood pressure,0,0,1,0,0,0
+1137,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1138,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1139,706092,281665,Diastolic blood pressure,0,0,1,0,0,0
+1140,524167,138185,Diastolic blood pressure,0,0,1,0,0,0
+1141,869206,184599,Diastolic blood pressure,0,0,1,0,0,0
+1142,863291,108398,Diastolic blood pressure,0,0,1,0,0,0
+1143,907561,227748,Diastolic blood pressure,0,0,1,0,0,0
+1144,723911,181171,Diastolic blood pressure,0,0,1,0,0,0
+1145,568267,124957,Diastolic blood pressure,0,0,1,0,0,0
+1146,803458,349561,Diastolic blood pressure,0,0,1,0,0,0
+1147,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1148,755066,179154,Diastolic blood pressure,0,0,1,0,0,0
+1149,662275,211760,Diastolic blood pressure,0,0,1,0,0,0
+1150,916406,22872,Diastolic blood pressure,0,0,1,0,0,0
+1151,717929,154715,Diastolic blood pressure,0,0,1,0,0,0
+1152,946491,156745,Diastolic blood pressure,0,0,1,0,0,0
+1153,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1154,520865,327271,Diastolic blood pressure,0,0,1,0,0,0
+1155,712377,55850,Diastolic blood pressure,0,0,1,0,0,0
+1156,993684,62420,Diastolic blood pressure,0,0,1,0,0,0
+1157,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1158,582203,330352,Diastolic blood pressure,0,0,1,0,0,0
+1159,1031095,111857,Diastolic blood pressure,0,0,1,0,0,0
+1160,763179,231500,Diastolic blood pressure,0,0,1,0,0,0
+1161,949799,84799,Diastolic blood pressure,0,0,1,0,0,0
+1162,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1163,673192,115202,Diastolic blood pressure,0,0,1,0,0,0
+1164,915442,148602,Diastolic blood pressure,0,0,1,0,0,0
+1165,894377,181822,Diastolic blood pressure,0,0,1,0,0,0
+1166,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1167,1009351,51914,Diastolic blood pressure,0,0,1,0,0,0
+1168,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1169,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1170,565130,75677,Diastolic blood pressure,0,0,1,0,0,0
+1171,992334,229453,Diastolic blood pressure,0,0,1,0,0,0
+1172,810375,180826,Diastolic blood pressure,0,0,1,0,0,0
+1173,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+1174,930572,2779,Diastolic blood pressure,0,0,1,0,0,0
+1175,807511,257895,Diastolic blood pressure,0,0,1,0,0,0
+1176,969334,88285,Diastolic blood pressure,0,0,1,0,0,0
+1177,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1178,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1179,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1180,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1181,693945,220372,Diastolic blood pressure,0,0,1,0,0,0
+1182,797558,249847,Diastolic blood pressure,0,0,1,0,0,0
+1183,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1184,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1185,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1186,862223,181048,Diastolic blood pressure,0,0,1,0,0,0
+1187,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1188,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1189,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1190,998323,197801,Diastolic blood pressure,0,0,1,0,0,0
+1191,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1192,724799,58936,Diastolic blood pressure,0,0,1,0,0,0
+1193,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1194,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1195,752661,202596,Diastolic blood pressure,0,0,1,0,0,0
+1196,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1197,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1198,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1199,512836,215942,Diastolic blood pressure,0,0,1,0,0,0
+1200,900083,137785,Diastolic blood pressure,0,0,1,0,0,0
+1201,693686,155084,Diastolic blood pressure,0,0,1,0,0,0
+1202,1037934,296865,Diastolic blood pressure,0,0,1,0,0,0
+1203,728071,257567,Diastolic blood pressure,0,0,1,0,0,0
+1204,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1205,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1206,923872,171660,Diastolic blood pressure,0,0,1,0,0,0
+1207,1020890,350393,Diastolic blood pressure,0,0,1,0,0,0
+1208,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1209,1049827,212446,Diastolic blood pressure,0,0,1,0,0,0
+1210,755463,180327,Diastolic blood pressure,0,0,1,0,0,0
+1211,911484,313404,Diastolic blood pressure,0,0,1,0,0,0
+1212,1049681,120840,Diastolic blood pressure,0,0,1,0,0,0
+1213,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1214,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1215,881022,102076,Diastolic blood pressure,0,0,1,0,0,0
+1216,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1217,601631,181822,Diastolic blood pressure,0,0,1,0,0,0
+1218,915782,142118,Diastolic blood pressure,0,0,1,0,0,0
+1219,788589,191551,Diastolic blood pressure,0,0,1,0,0,0
+1220,970907,259071,Diastolic blood pressure,0,0,1,0,0,0
+1221,642979,24800,Diastolic blood pressure,0,0,1,0,0,0
+1222,672191,214842,Diastolic blood pressure,0,0,1,0,0,0
+1223,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1224,1008565,130461,Diastolic blood pressure,0,0,1,0,0,0
+1225,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1226,697116,62853,Diastolic blood pressure,0,0,1,0,0,0
+1227,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1228,526369,96585,Diastolic blood pressure,0,0,1,0,0,0
+1229,891880,292190,Diastolic blood pressure,0,0,1,0,0,0
+1230,552825,161328,Diastolic blood pressure,0,0,1,0,0,0
+1231,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1232,799034,177689,Diastolic blood pressure,0,0,1,0,0,0
+1233,937702,208104,Diastolic blood pressure,0,0,1,0,0,0
+1234,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1235,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1236,709263,19675,Diastolic blood pressure,0,0,1,0,0,0
+1237,554635,57350,Diastolic blood pressure,0,0,1,0,0,0
+1238,1031266,220,Diastolic blood pressure,0,0,1,0,0,0
+1239,641684,257567,Diastolic blood pressure,0,0,1,0,0,0
+1240,976668,67856,Diastolic blood pressure,0,0,1,0,0,0
+1241,916406,22872,Diastolic blood pressure,0,0,1,0,0,0
+1242,599644,142118,Diastolic blood pressure,0,0,1,0,0,0
+1243,953780,23016,Diastolic blood pressure,0,0,1,0,0,0
+1244,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1245,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1246,973374,235299,Diastolic blood pressure,0,0,1,0,0,0
+1247,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1248,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1249,845670,233444,Diastolic blood pressure,0,0,1,0,0,0
+1250,1004743,113836,Diastolic blood pressure,0,0,1,0,0,0
+1251,909953,6507,Diastolic blood pressure,0,0,1,0,0,0
+1252,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1253,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1254,981079,225683,Diastolic blood pressure,0,0,1,0,0,0
+1255,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1256,611870,47516,Diastolic blood pressure,0,0,1,0,0,0
+1257,937198,259074,Diastolic blood pressure,0,0,1,0,0,0
+1258,702833,238091,Diastolic blood pressure,0,0,1,0,0,0
+1259,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1260,820490,166128,Diastolic blood pressure,0,0,1,0,0,0
+1261,645309,241859,Diastolic blood pressure,0,0,1,0,0,0
+1262,985544,184599,Diastolic blood pressure,0,0,1,0,0,0
+1263,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1264,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1265,520817,105037,Diastolic blood pressure,0,0,1,0,0,0
+1266,584189,208077,Diastolic blood pressure,0,0,1,0,0,0
+1267,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1268,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1269,575909,138185,Diastolic blood pressure,0,0,1,0,0,0
+1270,945017,243478,Diastolic blood pressure,0,0,1,0,0,0
+1271,884490,118752,Diastolic blood pressure,0,0,1,0,0,0
+1272,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1273,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1274,892950,142118,Diastolic blood pressure,0,0,1,0,0,0
+1275,1015047,102230,Diastolic blood pressure,0,0,1,0,0,0
+1276,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1277,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1278,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1279,866873,30930,Diastolic blood pressure,0,0,1,0,0,0
+1280,846911,321363,Diastolic blood pressure,0,0,1,0,0,0
+1281,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1282,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1283,1025500,113836,Diastolic blood pressure,0,0,1,0,0,0
+1284,993684,62420,Diastolic blood pressure,0,0,1,0,0,0
+1285,839608,135646,Diastolic blood pressure,0,0,1,0,0,0
+1286,739339,322969,Diastolic blood pressure,0,0,1,0,0,0
+1287,619803,157566,Diastolic blood pressure,0,0,1,0,0,0
+1288,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1289,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1290,951723,156227,Diastolic blood pressure,0,0,1,0,0,0
+1291,555563,275312,Diastolic blood pressure,0,0,1,0,0,0
+1292,838182,216027,Diastolic blood pressure,0,0,1,0,0,0
+1293,977817,108970,Diastolic blood pressure,0,0,1,0,0,0
+1294,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1295,531240,215942,Diastolic blood pressure,0,0,1,0,0,0
+1296,794396,129231,Diastolic blood pressure,0,0,1,0,0,0
+1297,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1298,982887,351778,Diastolic blood pressure,0,0,1,0,0,0
+1299,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1300,1003014,47516,Diastolic blood pressure,0,0,1,0,0,0
+1301,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1302,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1303,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1304,656660,318575,Diastolic blood pressure,0,0,1,0,0,0
+1305,630976,131416,Diastolic blood pressure,0,0,1,0,0,0
+1306,698287,124957,Diastolic blood pressure,0,0,1,0,0,0
+1307,1038721,106952,Diastolic blood pressure,0,0,1,0,0,0
+1308,874898,37907,Diastolic blood pressure,0,0,1,0,0,0
+1309,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1310,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1311,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1312,1001959,156054,Diastolic blood pressure,0,0,1,0,0,0
+1313,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+1314,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1315,1034238,346288,Diastolic blood pressure,0,0,1,0,0,0
+1316,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1317,916843,136025,Diastolic blood pressure,0,0,1,0,0,0
+1318,514136,93988,Diastolic blood pressure,0,0,1,0,0,0
+1319,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1320,752871,60043,Diastolic blood pressure,0,0,1,0,0,0
+1321,514945,238422,Diastolic blood pressure,0,0,1,0,0,0
+1322,504592,314531,Diastolic blood pressure,0,0,1,0,0,0
+1323,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1324,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+1325,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1326,899941,102255,Diastolic blood pressure,0,0,1,0,0,0
+1327,807511,257895,Diastolic blood pressure,0,0,1,0,0,0
+1328,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1329,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1330,805093,49049,Diastolic blood pressure,0,0,1,0,0,0
+1331,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1332,983835,261946,Diastolic blood pressure,0,0,1,0,0,0
+1333,737118,308852,Diastolic blood pressure,0,0,1,0,0,0
+1334,719887,43487,Diastolic blood pressure,0,0,1,0,0,0
+1335,727351,126548,Diastolic blood pressure,0,0,1,0,0,0
+1336,800309,171660,Diastolic blood pressure,0,0,1,0,0,0
+1337,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1338,823126,279591,Diastolic blood pressure,0,0,1,0,0,0
+1339,841957,342248,Diastolic blood pressure,0,0,1,0,0,0
+1340,564166,55850,Diastolic blood pressure,0,0,1,0,0,0
+1341,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1342,709486,19675,Diastolic blood pressure,0,0,1,0,0,0
+1343,795293,18461,Diastolic blood pressure,0,0,1,0,0,0
+1344,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1345,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1346,638402,349213,Diastolic blood pressure,0,0,1,0,0,0
+1347,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1348,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1349,1051069,223971,Diastolic blood pressure,0,0,1,0,0,0
+1350,921995,23416,Diastolic blood pressure,0,0,1,0,0,0
+1351,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1352,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1353,723735,254313,Diastolic blood pressure,0,0,1,0,0,0
+1354,553188,181739,Diastolic blood pressure,0,0,1,0,0,0
+1355,543282,2824,Diastolic blood pressure,0,0,1,0,0,0
+1356,1038721,106952,Diastolic blood pressure,0,0,1,0,0,0
+1357,602996,327215,Diastolic blood pressure,0,0,1,0,0,0
+1358,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1359,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1360,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1361,859041,320794,Diastolic blood pressure,0,0,1,0,0,0
+1362,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1363,1036917,142118,Diastolic blood pressure,0,0,1,0,0,0
+1364,894660,224486,Diastolic blood pressure,0,0,1,0,0,0
+1365,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1366,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1367,917110,220703,Diastolic blood pressure,0,0,1,0,0,0
+1368,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1369,1044019,310278,Diastolic blood pressure,0,0,1,0,0,0
+1370,935511,121640,Diastolic blood pressure,0,0,1,0,0,0
+1371,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1372,842615,82085,Diastolic blood pressure,0,0,1,0,0,0
+1373,747471,57350,Diastolic blood pressure,0,0,1,0,0,0
+1374,807459,81296,Diastolic blood pressure,0,0,1,0,0,0
+1375,856233,180374,Diastolic blood pressure,0,0,1,0,0,0
+1376,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1377,924298,346288,Diastolic blood pressure,0,0,1,0,0,0
+1378,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1379,981204,107415,Diastolic blood pressure,0,0,1,0,0,0
+1380,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1381,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1382,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1383,555280,124480,Diastolic blood pressure,0,0,1,0,0,0
+1384,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1385,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+1386,672191,214842,Diastolic blood pressure,0,0,1,0,0,0
+1387,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1388,812447,144433,Diastolic blood pressure,0,0,1,0,0,0
+1389,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1390,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1391,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1392,645309,241859,Diastolic blood pressure,0,0,1,0,0,0
+1393,644069,37426,Diastolic blood pressure,0,0,1,0,0,0
+1394,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1395,693649,351629,Diastolic blood pressure,0,0,1,0,0,0
+1396,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1397,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1398,625110,272847,Diastolic blood pressure,0,0,1,0,0,0
+1399,602959,6017,Diastolic blood pressure,0,0,1,0,0,0
+1400,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1401,1018814,19675,Diastolic blood pressure,0,0,1,0,0,0
+1402,672191,214842,Diastolic blood pressure,0,0,1,0,0,0
+1403,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+1404,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1405,981651,139622,Diastolic blood pressure,0,0,1,0,0,0
+1406,830573,171660,Diastolic blood pressure,0,0,1,0,0,0
+1407,583088,306439,Diastolic blood pressure,0,0,1,0,0,0
+1408,792282,213017,Diastolic blood pressure,0,0,1,0,0,0
+1409,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1410,515503,292190,Diastolic blood pressure,0,0,1,0,0,0
+1411,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+1412,898865,237353,Diastolic blood pressure,0,0,1,0,0,0
+1413,722751,124957,Diastolic blood pressure,0,0,1,0,0,0
+1414,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1415,593284,350494,Diastolic blood pressure,0,0,1,0,0,0
+1416,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1417,555075,108742,Diastolic blood pressure,0,0,1,0,0,0
+1418,647677,322969,Diastolic blood pressure,0,0,1,0,0,0
+1419,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1420,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+1421,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1422,914786,42374,Diastolic blood pressure,0,0,1,0,0,0
+1423,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1424,954837,280470,Diastolic blood pressure,0,0,1,0,0,0
+1425,561225,278915,Diastolic blood pressure,0,0,1,0,0,0
+1426,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1427,589756,90031,Diastolic blood pressure,0,0,1,0,0,0
+1428,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1429,941801,114832,Diastolic blood pressure,0,0,1,0,0,0
+1430,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1431,655035,78132,Diastolic blood pressure,0,0,1,0,0,0
+1432,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1433,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1434,521715,179426,Diastolic blood pressure,0,0,1,0,0,0
+1435,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1436,909953,6507,Diastolic blood pressure,0,0,1,0,0,0
+1437,677854,73597,Diastolic blood pressure,0,0,1,0,0,0
+1438,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1439,555505,146310,Diastolic blood pressure,0,0,1,0,0,0
+1440,892556,85549,Diastolic blood pressure,0,0,1,0,0,0
+1441,817664,184387,Diastolic blood pressure,0,0,1,0,0,0
+1442,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1443,690613,306865,Diastolic blood pressure,0,0,1,0,0,0
+1444,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1445,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1446,611967,235299,Diastolic blood pressure,0,0,1,0,0,0
+1447,867446,155397,Diastolic blood pressure,0,0,1,0,0,0
+1448,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1449,895262,48862,Diastolic blood pressure,0,0,1,0,0,0
+1450,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1451,754731,201306,Diastolic blood pressure,0,0,1,0,0,0
+1452,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1453,836385,163148,Diastolic blood pressure,0,0,1,0,0,0
+1454,640953,30095,Diastolic blood pressure,0,0,1,0,0,0
+1455,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1456,1008519,346057,Diastolic blood pressure,0,0,1,0,0,0
+1457,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1458,1000285,215528,Diastolic blood pressure,0,0,1,0,0,0
+1459,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1460,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+1461,526369,96585,Diastolic blood pressure,0,0,1,0,0,0
+1462,806488,156745,Diastolic blood pressure,0,0,1,0,0,0
+1463,1000765,204485,Diastolic blood pressure,0,0,1,0,0,0
+1464,514945,238422,Diastolic blood pressure,0,0,1,0,0,0
+1465,609365,55850,Diastolic blood pressure,0,0,1,0,0,0
+1466,560768,322969,Diastolic blood pressure,0,0,1,0,0,0
+1467,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1468,675507,225683,Diastolic blood pressure,0,0,1,0,0,0
+1469,730749,25869,Diastolic blood pressure,0,0,1,0,0,0
+1470,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1471,514945,238422,Diastolic blood pressure,0,0,1,0,0,0
+1472,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+1473,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1474,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1475,653089,160601,Diastolic blood pressure,0,0,1,0,0,0
+1476,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+1477,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1478,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1479,806595,22872,Diastolic blood pressure,0,0,1,0,0,0
+1480,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1481,760020,324692,Diastolic blood pressure,0,0,1,0,0,0
+1482,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+1483,931944,256876,Diastolic blood pressure,0,0,1,0,0,0
+1484,977137,326515,Diastolic blood pressure,0,0,1,0,0,0
+1485,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1486,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1487,772665,145397,Diastolic blood pressure,0,0,1,0,0,0
+1488,620553,129731,Diastolic blood pressure,0,0,1,0,0,0
+1489,921995,23416,Diastolic blood pressure,0,0,1,0,0,0
+1490,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1491,654872,285640,Diastolic blood pressure,0,0,1,0,0,0
+1492,875831,329891,Diastolic blood pressure,0,0,1,0,0,0
+1493,996273,118912,Diastolic blood pressure,0,0,1,0,0,0
+1494,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1495,812773,40639,Diastolic blood pressure,0,0,1,0,0,0
+1496,749550,235299,Diastolic blood pressure,0,0,1,0,0,0
+1497,971625,108213,Diastolic blood pressure,0,0,1,0,0,0
+1498,957006,254649,Diastolic blood pressure,0,0,1,0,0,0
+1499,884346,128261,Diastolic blood pressure,0,0,1,0,0,0
+1500,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1501,800957,169564,Diastolic blood pressure,0,0,1,0,0,0
+1502,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1503,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1504,590768,123642,Diastolic blood pressure,0,0,1,0,0,0
+1505,824481,16210,Diastolic blood pressure,0,0,1,0,0,0
+1506,725825,302170,Diastolic blood pressure,0,0,1,0,0,0
+1507,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1508,639508,224486,Diastolic blood pressure,0,0,1,0,0,0
+1509,982830,70792,Diastolic blood pressure,0,0,1,0,0,0
+1510,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1511,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1512,591280,329678,Diastolic blood pressure,0,0,1,0,0,0
+1513,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1514,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1515,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1516,809402,157048,Diastolic blood pressure,0,0,1,0,0,0
+1517,807511,257895,Diastolic blood pressure,0,0,1,0,0,0
+1518,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1519,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1520,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1521,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1522,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1523,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1524,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1525,688582,40639,Diastolic blood pressure,0,0,1,0,0,0
+1526,720938,235299,Diastolic blood pressure,0,0,1,0,0,0
+1527,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1528,1000112,152114,Diastolic blood pressure,0,0,1,0,0,0
+1529,705060,134264,Diastolic blood pressure,0,0,1,0,0,0
+1530,526472,168879,Diastolic blood pressure,0,0,1,0,0,0
+1531,910278,313252,Diastolic blood pressure,0,0,1,0,0,0
+1532,969698,197183,Diastolic blood pressure,0,0,1,0,0,0
+1533,1041182,31729,Diastolic blood pressure,0,0,1,0,0,0
+1534,667950,143521,Diastolic blood pressure,0,0,1,0,0,0
+1535,778308,328337,Diastolic blood pressure,0,0,1,0,0,0
+1536,1027772,39186,Diastolic blood pressure,0,0,1,0,0,0
+1537,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1538,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1539,547146,229125,Diastolic blood pressure,0,0,1,0,0,0
+1540,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1541,635860,122116,Diastolic blood pressure,0,0,1,0,0,0
+1542,1038721,106952,Diastolic blood pressure,0,0,1,0,0,0
+1543,618105,62587,Diastolic blood pressure,0,0,1,0,0,0
+1544,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1545,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1546,775718,39186,Diastolic blood pressure,0,0,1,0,0,0
+1547,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1548,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1549,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1550,1034518,51326,Diastolic blood pressure,0,0,1,0,0,0
+1551,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1552,954671,68157,Diastolic blood pressure,0,0,1,0,0,0
+1553,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1554,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1555,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1556,525715,316943,Diastolic blood pressure,0,0,1,0,0,0
+1557,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1558,673192,115202,Diastolic blood pressure,0,0,1,0,0,0
+1559,547358,252459,Diastolic blood pressure,0,0,1,0,0,0
+1560,991548,270700,Diastolic blood pressure,0,0,1,0,0,0
+1561,804193,305063,Diastolic blood pressure,0,0,1,0,0,0
+1562,736708,8137,Diastolic blood pressure,0,0,1,0,0,0
+1563,521091,75891,Diastolic blood pressure,0,0,1,0,0,0
+1564,973665,176296,Diastolic blood pressure,0,0,1,0,0,0
+1565,879968,343248,Diastolic blood pressure,0,0,1,0,0,0
+1566,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1567,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1568,503298,183915,Diastolic blood pressure,0,0,1,0,0,0
+1569,851094,156439,Diastolic blood pressure,0,0,1,0,0,0
+1570,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1571,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1572,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1573,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1574,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1575,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1576,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+1577,860031,144021,Diastolic blood pressure,0,0,1,0,0,0
+1578,884988,50033,Diastolic blood pressure,0,0,1,0,0,0
+1579,923578,22959,Diastolic blood pressure,0,0,1,0,0,0
+1580,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1581,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1582,866477,239234,Diastolic blood pressure,0,0,1,0,0,0
+1583,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1584,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1585,658855,24694,Diastolic blood pressure,0,0,1,0,0,0
+1586,742399,59469,Diastolic blood pressure,0,0,1,0,0,0
+1587,555926,308,Diastolic blood pressure,0,0,1,0,0,0
+1588,850501,328496,Diastolic blood pressure,0,0,1,0,0,0
+1589,576927,22959,Diastolic blood pressure,0,0,1,0,0,0
+1590,717681,307504,Diastolic blood pressure,0,0,1,0,0,0
+1591,615525,55850,Diastolic blood pressure,0,0,1,0,0,0
+1592,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1593,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1594,553808,300425,Diastolic blood pressure,0,0,1,0,0,0
+1595,757109,39186,Diastolic blood pressure,0,0,1,0,0,0
+1596,918839,142118,Diastolic blood pressure,0,0,1,0,0,0
+1597,696471,321181,Diastolic blood pressure,0,0,1,0,0,0
+1598,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1599,910400,172884,Diastolic blood pressure,0,0,1,0,0,0
+1600,1001600,348228,Diastolic blood pressure,0,0,1,0,0,0
+1601,796988,102321,Diastolic blood pressure,0,0,1,0,0,0
+1602,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1603,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1604,866873,30930,Diastolic blood pressure,0,0,1,0,0,0
+1605,520817,105037,Diastolic blood pressure,0,0,1,0,0,0
+1606,970686,321363,Diastolic blood pressure,0,0,1,0,0,0
+1607,746247,226349,Diastolic blood pressure,0,0,1,0,0,0
+1608,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1609,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1610,804067,93098,Diastolic blood pressure,0,0,1,0,0,0
+1611,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1612,943503,29513,Diastolic blood pressure,0,0,1,0,0,0
+1613,520817,105037,Diastolic blood pressure,0,0,1,0,0,0
+1614,1008706,30930,Diastolic blood pressure,0,0,1,0,0,0
+1615,866873,30930,Diastolic blood pressure,0,0,1,0,0,0
+1616,1001524,207652,Diastolic blood pressure,0,0,1,0,0,0
+1617,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1618,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1619,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1620,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1621,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1622,970594,93098,Diastolic blood pressure,0,0,1,0,0,0
+1623,897908,119859,Diastolic blood pressure,0,0,1,0,0,0
+1624,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1625,742413,65478,Diastolic blood pressure,0,0,1,0,0,0
+1626,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1627,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+1628,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1629,521715,179426,Diastolic blood pressure,0,0,1,0,0,0
+1630,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1631,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1632,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1633,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+1634,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1635,656065,104820,Diastolic blood pressure,0,0,1,0,0,0
+1636,823497,124789,Diastolic blood pressure,0,0,1,0,0,0
+1637,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1638,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1639,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1640,830726,119859,Diastolic blood pressure,0,0,1,0,0,0
+1641,785378,10064,Diastolic blood pressure,0,0,1,0,0,0
+1642,602996,327215,Diastolic blood pressure,0,0,1,0,0,0
+1643,884553,19624,Diastolic blood pressure,0,0,1,0,0,0
+1644,660585,151226,Diastolic blood pressure,0,0,1,0,0,0
+1645,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1646,892324,351661,Diastolic blood pressure,0,0,1,0,0,0
+1647,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1648,1006864,243773,Diastolic blood pressure,0,0,1,0,0,0
+1649,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+1650,500218,133287,Diastolic blood pressure,0,0,1,0,0,0
+1651,996557,37426,Diastolic blood pressure,0,0,1,0,0,0
+1652,501337,289281,Diastolic blood pressure,0,0,1,0,0,0
+1653,528590,47469,Diastolic blood pressure,0,0,1,0,0,0
+1654,1036582,254649,Diastolic blood pressure,0,0,1,0,0,0
+1655,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1656,800309,171660,Diastolic blood pressure,0,0,1,0,0,0
+1657,787051,45568,Diastolic blood pressure,0,0,1,0,0,0
+1658,931074,29569,Diastolic blood pressure,0,0,1,0,0,0
+1659,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1660,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1661,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+1662,859589,190983,Diastolic blood pressure,0,0,1,0,0,0
+1663,1038721,106952,Diastolic blood pressure,0,0,1,0,0,0
+1664,664223,70929,Diastolic blood pressure,0,0,1,0,0,0
+1665,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1666,987398,45978,Diastolic blood pressure,0,0,1,0,0,0
+1667,939390,321990,Diastolic blood pressure,0,0,1,0,0,0
+1668,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1669,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1670,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1671,911359,76283,Diastolic blood pressure,0,0,1,0,0,0
+1672,517806,337004,Diastolic blood pressure,0,0,1,0,0,0
+1673,952396,10180,Diastolic blood pressure,0,0,1,0,0,0
+1674,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1675,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1676,738071,182406,Diastolic blood pressure,0,0,1,0,0,0
+1677,971861,273254,Diastolic blood pressure,0,0,1,0,0,0
+1678,989721,74039,Diastolic blood pressure,0,0,1,0,0,0
+1679,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1680,1008227,219880,Diastolic blood pressure,0,0,1,0,0,0
+1681,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+1682,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1683,858887,110127,Diastolic blood pressure,0,0,1,0,0,0
+1684,846652,191585,Diastolic blood pressure,0,0,1,0,0,0
+1685,576629,256393,Diastolic blood pressure,0,0,1,0,0,0
+1686,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1687,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1688,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1689,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1690,901645,169226,Diastolic blood pressure,0,0,1,0,0,0
+1691,659616,267993,Diastolic blood pressure,0,0,1,0,0,0
+1692,722651,158642,Diastolic blood pressure,0,0,1,0,0,0
+1693,556125,346288,Diastolic blood pressure,0,0,1,0,0,0
+1694,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1695,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1696,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1697,570036,249004,Diastolic blood pressure,0,0,1,0,0,0
+1698,795416,171660,Diastolic blood pressure,0,0,1,0,0,0
+1699,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1700,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1701,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1702,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1703,891880,292190,Diastolic blood pressure,0,0,1,0,0,0
+1704,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1705,1022162,114383,Diastolic blood pressure,0,0,1,0,0,0
+1706,1015065,314340,Diastolic blood pressure,0,0,1,0,0,0
+1707,944724,112314,Diastolic blood pressure,0,0,1,0,0,0
+1708,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1709,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1710,723911,181171,Diastolic blood pressure,0,0,1,0,0,0
+1711,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1712,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1713,610267,143209,Diastolic blood pressure,0,0,1,0,0,0
+1714,514136,93988,Diastolic blood pressure,0,0,1,0,0,0
+1715,526369,96585,Diastolic blood pressure,0,0,1,0,0,0
+1716,872256,262810,Diastolic blood pressure,0,0,1,0,0,0
+1717,716272,318575,Diastolic blood pressure,0,0,1,0,0,0
+1718,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1719,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1720,701271,96585,Diastolic blood pressure,0,0,1,0,0,0
+1721,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1722,725121,321990,Diastolic blood pressure,0,0,1,0,0,0
+1723,661142,76077,Diastolic blood pressure,0,0,1,0,0,0
+1724,807459,81296,Diastolic blood pressure,0,0,1,0,0,0
+1725,907360,324308,Diastolic blood pressure,0,0,1,0,0,0
+1726,786525,331315,Diastolic blood pressure,0,0,1,0,0,0
+1727,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1728,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1729,798314,201821,Diastolic blood pressure,0,0,1,0,0,0
+1730,676838,124957,Diastolic blood pressure,0,0,1,0,0,0
+1731,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1732,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1733,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+1734,934359,166128,Diastolic blood pressure,0,0,1,0,0,0
+1735,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1736,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1737,791964,50033,Diastolic blood pressure,0,0,1,0,0,0
+1738,673192,115202,Diastolic blood pressure,0,0,1,0,0,0
+1739,657126,290623,Diastolic blood pressure,0,0,1,0,0,0
+1740,848255,74732,Diastolic blood pressure,0,0,1,0,0,0
+1741,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1742,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1743,702856,2779,Diastolic blood pressure,0,0,1,0,0,0
+1744,909953,6507,Diastolic blood pressure,0,0,1,0,0,0
+1745,514945,238422,Diastolic blood pressure,0,0,1,0,0,0
+1746,765628,276929,Diastolic blood pressure,0,0,1,0,0,0
+1747,915446,138886,Diastolic blood pressure,0,0,1,0,0,0
+1748,823466,116529,Diastolic blood pressure,0,0,1,0,0,0
+1749,717534,88239,Diastolic blood pressure,0,0,1,0,0,0
+1750,595137,337004,Diastolic blood pressure,0,0,1,0,0,0
+1751,637482,288759,Diastolic blood pressure,0,0,1,0,0,0
+1752,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1753,933107,311298,Diastolic blood pressure,0,0,1,0,0,0
+1754,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1755,510957,128323,Diastolic blood pressure,0,0,1,0,0,0
+1756,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+1757,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1758,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1759,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1760,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+1761,648289,47516,Diastolic blood pressure,0,0,1,0,0,0
+1762,625500,19407,Diastolic blood pressure,0,0,1,0,0,0
+1763,673192,115202,Diastolic blood pressure,0,0,1,0,0,0
+1764,909236,149723,Diastolic blood pressure,0,0,1,0,0,0
+1765,761657,185563,Diastolic blood pressure,0,0,1,0,0,0
+1766,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1767,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1768,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1769,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1770,807246,300384,Diastolic blood pressure,0,0,1,0,0,0
+1771,756756,330054,Diastolic blood pressure,0,0,1,0,0,0
+1772,660311,51326,Diastolic blood pressure,0,0,1,0,0,0
+1773,672191,214842,Diastolic blood pressure,0,0,1,0,0,0
+1774,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1775,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1776,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1777,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1778,781375,71823,Diastolic blood pressure,0,0,1,0,0,0
+1779,846300,18047,Diastolic blood pressure,0,0,1,0,0,0
+1780,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1781,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1782,795958,78341,Diastolic blood pressure,0,0,1,0,0,0
+1783,886727,89794,Diastolic blood pressure,0,0,1,0,0,0
+1784,991548,270700,Diastolic blood pressure,0,0,1,0,0,0
+1785,504725,275312,Diastolic blood pressure,0,0,1,0,0,0
+1786,720954,297608,Diastolic blood pressure,0,0,1,0,0,0
+1787,830554,177689,Diastolic blood pressure,0,0,1,0,0,0
+1788,674981,331741,Diastolic blood pressure,0,0,1,0,0,0
+1789,888593,80702,Diastolic blood pressure,0,0,1,0,0,0
+1790,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1791,845607,45568,Diastolic blood pressure,0,0,1,0,0,0
+1792,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1793,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1794,735978,9899,Diastolic blood pressure,0,0,1,0,0,0
+1795,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1796,593091,211086,Diastolic blood pressure,0,0,1,0,0,0
+1797,793524,351560,Diastolic blood pressure,0,0,1,0,0,0
+1798,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1799,1035123,245476,Diastolic blood pressure,0,0,1,0,0,0
+1800,662549,2824,Diastolic blood pressure,0,0,1,0,0,0
+1801,936560,289071,Diastolic blood pressure,0,0,1,0,0,0
+1802,502921,45268,Diastolic blood pressure,0,0,1,0,0,0
+1803,730200,55850,Diastolic blood pressure,0,0,1,0,0,0
+1804,604797,142118,Diastolic blood pressure,0,0,1,0,0,0
+1805,1009223,73795,Diastolic blood pressure,0,0,1,0,0,0
+1806,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+1807,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+1808,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1809,742678,84799,Diastolic blood pressure,0,0,1,0,0,0
+1810,1032784,80281,Diastolic blood pressure,0,0,1,0,0,0
+1811,618541,50033,Diastolic blood pressure,0,0,1,0,0,0
+1812,725918,148896,Diastolic blood pressure,0,0,1,0,0,0
+1813,934412,247289,Diastolic blood pressure,0,0,1,0,0,0
+1814,600502,289217,Diastolic blood pressure,0,0,1,0,0,0
+1815,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1816,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1817,953513,9020,Diastolic blood pressure,0,0,1,0,0,0
+1818,561225,278915,Diastolic blood pressure,0,0,1,0,0,0
+1819,543304,156219,Diastolic blood pressure,0,0,1,0,0,0
+1820,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1821,520817,105037,Diastolic blood pressure,0,0,1,0,0,0
+1822,705728,108309,Diastolic blood pressure,0,0,1,0,0,0
+1823,717497,62611,Diastolic blood pressure,0,0,1,0,0,0
+1824,703515,105398,Diastolic blood pressure,0,0,1,0,0,0
+1825,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1826,626264,232286,Diastolic blood pressure,0,0,1,0,0,0
+1827,685772,204494,Diastolic blood pressure,0,0,1,0,0,0
+1828,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1829,531679,272954,Diastolic blood pressure,0,0,1,0,0,0
+1830,872256,262810,Diastolic blood pressure,0,0,1,0,0,0
+1831,1011948,270700,Diastolic blood pressure,0,0,1,0,0,0
+1832,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1833,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1834,756522,157566,Diastolic blood pressure,0,0,1,0,0,0
+1835,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1836,1047340,171660,Diastolic blood pressure,0,0,1,0,0,0
+1837,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1838,739487,236177,Diastolic blood pressure,0,0,1,0,0,0
+1839,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1840,691471,277818,Diastolic blood pressure,0,0,1,0,0,0
+1841,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1842,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1843,516292,143744,Diastolic blood pressure,0,0,1,0,0,0
+1844,803699,121733,Diastolic blood pressure,0,0,1,0,0,0
+1845,838784,330352,Diastolic blood pressure,0,0,1,0,0,0
+1846,914522,62118,Diastolic blood pressure,0,0,1,0,0,0
+1847,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1848,940817,4022,Diastolic blood pressure,0,0,1,0,0,0
+1849,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1850,561225,278915,Diastolic blood pressure,0,0,1,0,0,0
+1851,732479,168879,Diastolic blood pressure,0,0,1,0,0,0
+1852,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1853,891880,292190,Diastolic blood pressure,0,0,1,0,0,0
+1854,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1855,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1856,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1857,815905,236681,Diastolic blood pressure,0,0,1,0,0,0
+1858,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+1859,578846,289529,Diastolic blood pressure,0,0,1,0,0,0
+1860,787879,124957,Diastolic blood pressure,0,0,1,0,0,0
+1861,1021857,289704,Diastolic blood pressure,0,0,1,0,0,0
+1862,984410,129493,Diastolic blood pressure,0,0,1,0,0,0
+1863,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1864,973626,164366,Diastolic blood pressure,0,0,1,0,0,0
+1865,723509,154622,Diastolic blood pressure,0,0,1,0,0,0
+1866,789487,314069,Diastolic blood pressure,0,0,1,0,0,0
+1867,1022237,272672,Diastolic blood pressure,0,0,1,0,0,0
+1868,564124,203046,Diastolic blood pressure,0,0,1,0,0,0
+1869,825350,254313,Diastolic blood pressure,0,0,1,0,0,0
+1870,930346,167629,Diastolic blood pressure,0,0,1,0,0,0
+1871,709779,108309,Diastolic blood pressure,0,0,1,0,0,0
+1872,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1873,785805,142118,Diastolic blood pressure,0,0,1,0,0,0
+1874,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1875,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1876,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+1877,995650,181822,Diastolic blood pressure,0,0,1,0,0,0
+1878,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1879,819650,243773,Diastolic blood pressure,0,0,1,0,0,0
+1880,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+1881,676853,104239,Diastolic blood pressure,0,0,1,0,0,0
+1882,861014,47322,Diastolic blood pressure,0,0,1,0,0,0
+1883,1008706,30930,Diastolic blood pressure,0,0,1,0,0,0
+1884,916541,216928,Diastolic blood pressure,0,0,1,0,0,0
+1885,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1886,752871,60043,Diastolic blood pressure,0,0,1,0,0,0
+1887,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1888,832495,76471,Diastolic blood pressure,0,0,1,0,0,0
+1889,654274,184211,Diastolic blood pressure,0,0,1,0,0,0
+1890,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1891,867242,246175,Diastolic blood pressure,0,0,1,0,0,0
+1892,736840,129493,Diastolic blood pressure,0,0,1,0,0,0
+1893,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1894,940358,19407,Diastolic blood pressure,0,0,1,0,0,0
+1895,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1896,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1897,616796,102076,Diastolic blood pressure,0,0,1,0,0,0
+1898,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1899,780344,136784,Diastolic blood pressure,0,0,1,0,0,0
+1900,837027,301006,Diastolic blood pressure,0,0,1,0,0,0
+1901,606085,230225,Diastolic blood pressure,0,0,1,0,0,0
+1902,928452,230195,Diastolic blood pressure,0,0,1,0,0,0
+1903,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1904,752871,60043,Diastolic blood pressure,0,0,1,0,0,0
+1905,770247,273923,Diastolic blood pressure,0,0,1,0,0,0
+1906,880623,201306,Diastolic blood pressure,0,0,1,0,0,0
+1907,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1908,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1909,561225,278915,Diastolic blood pressure,0,0,1,0,0,0
+1910,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+1911,537944,143624,Diastolic blood pressure,0,0,1,0,0,0
+1912,924720,16570,Diastolic blood pressure,0,0,1,0,0,0
+1913,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+1914,850005,241854,Diastolic blood pressure,0,0,1,0,0,0
+1915,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1916,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1917,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+1918,657565,40818,Diastolic blood pressure,0,0,1,0,0,0
+1919,695238,15261,Diastolic blood pressure,0,0,1,0,0,0
+1920,500479,267076,Diastolic blood pressure,0,0,1,0,0,0
+1921,539396,286176,Diastolic blood pressure,0,0,1,0,0,0
+1922,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+1923,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+1924,742575,237106,Diastolic blood pressure,0,0,1,0,0,0
+1925,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1926,695565,246275,Diastolic blood pressure,0,0,1,0,0,0
+1927,553671,215942,Diastolic blood pressure,0,0,1,0,0,0
+1928,880077,289704,Diastolic blood pressure,0,0,1,0,0,0
+1929,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1930,879470,63464,Diastolic blood pressure,0,0,1,0,0,0
+1931,955997,13449,Diastolic blood pressure,0,0,1,0,0,0
+1932,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1933,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+1934,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1935,903972,119656,Diastolic blood pressure,0,0,1,0,0,0
+1936,811674,212662,Diastolic blood pressure,0,0,1,0,0,0
+1937,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1938,666066,119859,Diastolic blood pressure,0,0,1,0,0,0
+1939,807886,344567,Diastolic blood pressure,0,0,1,0,0,0
+1940,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1941,956709,90899,Diastolic blood pressure,0,0,1,0,0,0
+1942,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1943,1035841,37907,Diastolic blood pressure,0,0,1,0,0,0
+1944,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1945,702067,118352,Diastolic blood pressure,0,0,1,0,0,0
+1946,831121,140318,Diastolic blood pressure,0,0,1,0,0,0
+1947,710519,11201,Diastolic blood pressure,0,0,1,0,0,0
+1948,935972,203046,Diastolic blood pressure,0,0,1,0,0,0
+1949,680226,328250,Diastolic blood pressure,0,0,1,0,0,0
+1950,938291,147202,Diastolic blood pressure,0,0,1,0,0,0
+1951,525197,313048,Diastolic blood pressure,0,0,1,0,0,0
+1952,659067,19675,Diastolic blood pressure,0,0,1,0,0,0
+1953,1022237,272672,Diastolic blood pressure,0,0,1,0,0,0
+1954,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+1955,529187,72698,Diastolic blood pressure,0,0,1,0,0,0
+1956,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+1957,661982,13857,Diastolic blood pressure,0,0,1,0,0,0
+1958,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1959,971861,273254,Diastolic blood pressure,0,0,1,0,0,0
+1960,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+1961,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+1962,899754,215446,Diastolic blood pressure,0,0,1,0,0,0
+1963,768951,142118,Diastolic blood pressure,0,0,1,0,0,0
+1964,951876,192107,Diastolic blood pressure,0,0,1,0,0,0
+1965,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1966,1016525,197801,Diastolic blood pressure,0,0,1,0,0,0
+1967,682515,164634,Diastolic blood pressure,0,0,1,0,0,0
+1968,641650,35971,Diastolic blood pressure,0,0,1,0,0,0
+1969,1047143,181739,Diastolic blood pressure,0,0,1,0,0,0
+1970,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1971,526785,185579,Diastolic blood pressure,0,0,1,0,0,0
+1972,877955,215942,Diastolic blood pressure,0,0,1,0,0,0
+1973,520904,106207,Diastolic blood pressure,0,0,1,0,0,0
+1974,900064,2824,Diastolic blood pressure,0,0,1,0,0,0
+1975,748869,337004,Diastolic blood pressure,0,0,1,0,0,0
+1976,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1977,515419,350494,Diastolic blood pressure,0,0,1,0,0,0
+1978,748254,88285,Diastolic blood pressure,0,0,1,0,0,0
+1979,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1980,869564,262810,Diastolic blood pressure,0,0,1,0,0,0
+1981,908711,17581,Diastolic blood pressure,0,0,1,0,0,0
+1982,890097,322969,Diastolic blood pressure,0,0,1,0,0,0
+1983,850258,169530,Diastolic blood pressure,0,0,1,0,0,0
+1984,820024,78881,Diastolic blood pressure,0,0,1,0,0,0
+1985,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+1986,687004,29513,Diastolic blood pressure,0,0,1,0,0,0
+1987,560215,34472,Diastolic blood pressure,0,0,1,0,0,0
+1988,745487,90258,Diastolic blood pressure,0,0,1,0,0,0
+1989,520817,105037,Diastolic blood pressure,0,0,1,0,0,0
+1990,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+1991,891880,292190,Diastolic blood pressure,0,0,1,0,0,0
+1992,801881,44719,Diastolic blood pressure,0,0,1,0,0,0
+1993,715764,82085,Diastolic blood pressure,0,0,1,0,0,0
+1994,572001,301006,Diastolic blood pressure,0,0,1,0,0,0
+1995,911277,265386,Diastolic blood pressure,0,0,1,0,0,0
+1996,997247,300716,Diastolic blood pressure,0,0,1,0,0,0
+1997,618114,215446,Diastolic blood pressure,0,0,1,0,0,0
+1998,760284,157800,Diastolic blood pressure,0,0,1,0,0,0
+1999,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+2000,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+2001,568652,251636,Diastolic blood pressure,0,0,1,0,0,0
+2002,653584,152609,Diastolic blood pressure,0,0,1,0,0,0
+2003,773545,2240,Diastolic blood pressure,0,0,1,0,0,0
+2004,880251,190751,Diastolic blood pressure,0,0,1,0,0,0
+2005,916829,142118,Diastolic blood pressure,0,0,1,0,0,0
+2006,621264,164091,Diastolic blood pressure,0,0,1,0,0,0
+2007,701478,180662,Diastolic blood pressure,0,0,1,0,0,0
+2008,909953,6507,Diastolic blood pressure,0,0,1,0,0,0
+2009,629570,201306,Diastolic blood pressure,0,0,1,0,0,0
+2010,794827,214673,Diastolic blood pressure,0,0,1,0,0,0
+2011,701249,98275,Diastolic blood pressure,0,0,1,0,0,0
+2012,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+2013,970286,113766,Diastolic blood pressure,0,0,1,0,0,0
+2014,530931,189147,Diastolic blood pressure,0,0,1,0,0,0
+2015,875732,191551,Diastolic blood pressure,0,0,1,0,0,0
+2016,618205,239234,Diastolic blood pressure,0,0,1,0,0,0
+2017,990520,268841,Diastolic blood pressure,0,0,1,0,0,0
+2018,832995,330481,Diastolic blood pressure,0,0,1,0,0,0
+2019,677398,217989,Diastolic blood pressure,0,0,1,0,0,0
+2020,513624,156227,Diastolic blood pressure,0,0,1,0,0,0
+2021,692703,62611,Diastolic blood pressure,0,0,1,0,0,0
+2022,581626,40044,Diastolic blood pressure,0,0,1,0,0,0
+2023,793763,273980,Diastolic blood pressure,0,0,1,0,0,0
+2024,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+2025,714649,59031,Diastolic blood pressure,0,0,1,0,0,0
+2026,891320,1245,Diastolic blood pressure,0,0,1,0,0,0
+2027,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+2028,962414,124957,Diastolic blood pressure,0,0,1,0,0,0
+2029,858567,344136,Diastolic blood pressure,0,0,1,0,0,0
+2030,602942,121640,Diastolic blood pressure,0,0,1,0,0,0
+2031,808957,337350,Diastolic blood pressure,0,0,1,0,0,0
+2032,563823,320358,Diastolic blood pressure,0,0,1,0,0,0
+2033,627892,289981,Diastolic blood pressure,0,0,1,0,0,0
+2034,966824,71569,Diastolic blood pressure,0,0,1,0,0,0
+2035,637982,117706,Diastolic blood pressure,0,0,1,0,0,0
+2036,1027862,37426,Diastolic blood pressure,0,0,1,0,0,0
+2037,917400,13857,Diastolic blood pressure,0,0,1,0,0,0
+2038,952405,177996,Diastolic blood pressure,0,0,1,0,0,0
+2039,705812,141861,Diastolic blood pressure,0,0,1,0,0,0
+2040,597571,234770,Diastolic blood pressure,0,0,1,0,0,0
+2041,601656,162393,Diastolic blood pressure,0,0,1,0,0,0
+2042,1037989,50033,Diastolic blood pressure,0,0,1,0,0,0
+2043,572781,275418,Diastolic blood pressure,0,0,1,0,0,0
+2044,796360,15995,Diastolic blood pressure,0,0,1,0,0,0
+2045,909953,6507,Diastolic blood pressure,0,0,1,0,0,0
+2046,728794,272807,Diastolic blood pressure,0,0,1,0,0,0
+2047,747423,89965,Diastolic blood pressure,0,0,1,0,0,0
+2048,893318,235414,Diastolic blood pressure,0,0,1,0,0,0
+2049,694434,40433,Diastolic blood pressure,0,0,1,0,0,0
+2050,738951,168879,Diastolic blood pressure,0,0,1,0,0,0
+2051,700642,283628,Diastolic blood pressure,0,0,1,0,0,0
+2052,928477,179426,Diastolic blood pressure,0,0,1,0,0,0
+2053,868258,308554,Diastolic blood pressure,0,0,1,0,0,0
+2054,762805,64355,Diastolic blood pressure,0,0,1,0,0,0
+2055,694332,23416,Diastolic blood pressure,0,0,1,0,0,0
+2056,555329,84799,Diastolic blood pressure,0,0,1,0,0,0
+2057,712160,349764,Diastolic blood pressure,0,0,1,0,0,0
+2058,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2059,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2060,735503,217221,Systolic blood pressure,0,0,0,1,0,0
+2061,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2062,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2063,903168,139622,Systolic blood pressure,0,0,0,1,0,0
+2064,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2065,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2066,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2067,899440,161988,Systolic blood pressure,0,0,0,1,0,0
+2068,894693,323580,Systolic blood pressure,0,0,0,1,0,0
+2069,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2070,578159,210184,Systolic blood pressure,0,0,0,1,0,0
+2071,718391,14339,Systolic blood pressure,0,0,0,1,0,0
+2072,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2073,645721,348228,Systolic blood pressure,0,0,0,1,0,0
+2074,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2075,532709,34976,Systolic blood pressure,0,0,0,1,0,0
+2076,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2077,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2078,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2079,1028329,17581,Systolic blood pressure,0,0,0,1,0,0
+2080,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2081,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2082,539658,240364,Systolic blood pressure,0,0,0,1,0,0
+2083,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2084,820169,61775,Systolic blood pressure,0,0,0,1,0,0
+2085,577538,242039,Systolic blood pressure,0,0,0,1,0,0
+2086,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2087,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2088,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2089,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2090,645309,241859,Systolic blood pressure,0,0,0,1,0,0
+2091,589368,225683,Systolic blood pressure,0,0,0,1,0,0
+2092,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2093,585014,17761,Systolic blood pressure,0,0,0,1,0,0
+2094,578746,20851,Systolic blood pressure,0,0,0,1,0,0
+2095,789997,50661,Systolic blood pressure,0,0,0,1,0,0
+2096,868823,114832,Systolic blood pressure,0,0,0,1,0,0
+2097,856040,44790,Systolic blood pressure,0,0,0,1,0,0
+2098,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2099,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2100,693992,340761,Systolic blood pressure,0,0,0,1,0,0
+2101,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2102,519519,171660,Systolic blood pressure,0,0,0,1,0,0
+2103,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2104,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2105,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+2106,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2107,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2108,788642,117557,Systolic blood pressure,0,0,0,1,0,0
+2109,807511,257895,Systolic blood pressure,0,0,0,1,0,0
+2110,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2111,620932,329897,Systolic blood pressure,0,0,0,1,0,0
+2112,813456,200334,Systolic blood pressure,0,0,0,1,0,0
+2113,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2114,807511,257895,Systolic blood pressure,0,0,0,1,0,0
+2115,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2116,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2117,827115,345841,Systolic blood pressure,0,0,0,1,0,0
+2118,737822,62118,Systolic blood pressure,0,0,0,1,0,0
+2119,978026,71823,Systolic blood pressure,0,0,0,1,0,0
+2120,585903,337004,Systolic blood pressure,0,0,0,1,0,0
+2121,644445,303470,Systolic blood pressure,0,0,0,1,0,0
+2122,884237,285798,Systolic blood pressure,0,0,0,1,0,0
+2123,673192,115202,Systolic blood pressure,0,0,0,1,0,0
+2124,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+2125,660892,138185,Systolic blood pressure,0,0,0,1,0,0
+2126,928477,179426,Systolic blood pressure,0,0,0,1,0,0
+2127,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2128,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2129,1049034,156054,Systolic blood pressure,0,0,0,1,0,0
+2130,884237,285798,Systolic blood pressure,0,0,0,1,0,0
+2131,606832,281066,Systolic blood pressure,0,0,0,1,0,0
+2132,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2133,937407,81296,Systolic blood pressure,0,0,0,1,0,0
+2134,1022237,272672,Systolic blood pressure,0,0,0,1,0,0
+2135,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2136,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2137,758165,96365,Systolic blood pressure,0,0,0,1,0,0
+2138,656660,318575,Systolic blood pressure,0,0,0,1,0,0
+2139,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2140,863693,52709,Systolic blood pressure,0,0,0,1,0,0
+2141,918934,32154,Systolic blood pressure,0,0,0,1,0,0
+2142,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2143,906908,22959,Systolic blood pressure,0,0,0,1,0,0
+2144,561225,278915,Systolic blood pressure,0,0,0,1,0,0
+2145,626295,352892,Systolic blood pressure,0,0,0,1,0,0
+2146,533104,346288,Systolic blood pressure,0,0,0,1,0,0
+2147,518385,88239,Systolic blood pressure,0,0,0,1,0,0
+2148,915721,312229,Systolic blood pressure,0,0,0,1,0,0
+2149,841757,124957,Systolic blood pressure,0,0,0,1,0,0
+2150,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2151,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+2152,526369,96585,Systolic blood pressure,0,0,0,1,0,0
+2153,812423,205693,Systolic blood pressure,0,0,0,1,0,0
+2154,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2155,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2156,532625,266534,Systolic blood pressure,0,0,0,1,0,0
+2157,1007731,104820,Systolic blood pressure,0,0,0,1,0,0
+2158,816828,111811,Systolic blood pressure,0,0,0,1,0,0
+2159,816936,142456,Systolic blood pressure,0,0,0,1,0,0
+2160,781881,139622,Systolic blood pressure,0,0,0,1,0,0
+2161,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2162,504280,219880,Systolic blood pressure,0,0,0,1,0,0
+2163,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2164,872107,102255,Systolic blood pressure,0,0,0,1,0,0
+2165,562125,112734,Systolic blood pressure,0,0,0,1,0,0
+2166,525326,259074,Systolic blood pressure,0,0,0,1,0,0
+2167,648317,29132,Systolic blood pressure,0,0,0,1,0,0
+2168,943503,29513,Systolic blood pressure,0,0,0,1,0,0
+2169,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2170,906793,244531,Systolic blood pressure,0,0,0,1,0,0
+2171,547153,120840,Systolic blood pressure,0,0,0,1,0,0
+2172,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2173,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2174,773622,80184,Systolic blood pressure,0,0,0,1,0,0
+2175,872311,261946,Systolic blood pressure,0,0,0,1,0,0
+2176,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2177,900083,137785,Systolic blood pressure,0,0,0,1,0,0
+2178,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2179,1034614,326723,Systolic blood pressure,0,0,0,1,0,0
+2180,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2181,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2182,567085,296462,Systolic blood pressure,0,0,0,1,0,0
+2183,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2184,503898,245502,Systolic blood pressure,0,0,0,1,0,0
+2185,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2186,840483,136392,Systolic blood pressure,0,0,0,1,0,0
+2187,643927,13170,Systolic blood pressure,0,0,0,1,0,0
+2188,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2189,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2190,503298,183915,Systolic blood pressure,0,0,0,1,0,0
+2191,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2192,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2193,676853,104239,Systolic blood pressure,0,0,0,1,0,0
+2194,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2195,658854,204485,Systolic blood pressure,0,0,0,1,0,0
+2196,595970,71823,Systolic blood pressure,0,0,0,1,0,0
+2197,856386,183663,Systolic blood pressure,0,0,0,1,0,0
+2198,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2199,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2200,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2201,794396,129231,Systolic blood pressure,0,0,0,1,0,0
+2202,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2203,580310,39186,Systolic blood pressure,0,0,0,1,0,0
+2204,1026161,22959,Systolic blood pressure,0,0,0,1,0,0
+2205,561225,278915,Systolic blood pressure,0,0,0,1,0,0
+2206,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2207,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2208,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2209,553188,181739,Systolic blood pressure,0,0,0,1,0,0
+2210,890190,178768,Systolic blood pressure,0,0,0,1,0,0
+2211,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2212,701271,96585,Systolic blood pressure,0,0,0,1,0,0
+2213,614209,241395,Systolic blood pressure,0,0,0,1,0,0
+2214,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2215,883176,321363,Systolic blood pressure,0,0,0,1,0,0
+2216,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2217,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2218,837168,172884,Systolic blood pressure,0,0,0,1,0,0
+2219,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2220,919944,238091,Systolic blood pressure,0,0,0,1,0,0
+2221,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2222,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2223,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2224,585800,353022,Systolic blood pressure,0,0,0,1,0,0
+2225,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2226,713516,61191,Systolic blood pressure,0,0,0,1,0,0
+2227,915571,244259,Systolic blood pressure,0,0,0,1,0,0
+2228,874958,154353,Systolic blood pressure,0,0,0,1,0,0
+2229,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2230,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2231,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2232,612249,109718,Systolic blood pressure,0,0,0,1,0,0
+2233,681697,57008,Systolic blood pressure,0,0,0,1,0,0
+2234,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2235,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2236,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2237,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2238,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2239,729874,62934,Systolic blood pressure,0,0,0,1,0,0
+2240,891880,292190,Systolic blood pressure,0,0,0,1,0,0
+2241,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2242,896827,142118,Systolic blood pressure,0,0,0,1,0,0
+2243,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2244,880360,241013,Systolic blood pressure,0,0,0,1,0,0
+2245,714982,13566,Systolic blood pressure,0,0,0,1,0,0
+2246,711066,180327,Systolic blood pressure,0,0,0,1,0,0
+2247,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2248,802897,24051,Systolic blood pressure,0,0,0,1,0,0
+2249,500479,267076,Systolic blood pressure,0,0,0,1,0,0
+2250,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2251,706092,281665,Systolic blood pressure,0,0,0,1,0,0
+2252,524167,138185,Systolic blood pressure,0,0,0,1,0,0
+2253,869206,184599,Systolic blood pressure,0,0,0,1,0,0
+2254,863291,108398,Systolic blood pressure,0,0,0,1,0,0
+2255,907561,227748,Systolic blood pressure,0,0,0,1,0,0
+2256,568267,124957,Systolic blood pressure,0,0,0,1,0,0
+2257,803458,349561,Systolic blood pressure,0,0,0,1,0,0
+2258,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2259,755066,179154,Systolic blood pressure,0,0,0,1,0,0
+2260,662275,211760,Systolic blood pressure,0,0,0,1,0,0
+2261,916406,22872,Systolic blood pressure,0,0,0,1,0,0
+2262,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2263,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2264,717929,154715,Systolic blood pressure,0,0,0,1,0,0
+2265,946491,156745,Systolic blood pressure,0,0,0,1,0,0
+2266,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2267,520865,327271,Systolic blood pressure,0,0,0,1,0,0
+2268,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2269,712377,55850,Systolic blood pressure,0,0,0,1,0,0
+2270,993684,62420,Systolic blood pressure,0,0,0,1,0,0
+2271,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2272,582203,330352,Systolic blood pressure,0,0,0,1,0,0
+2273,1031095,111857,Systolic blood pressure,0,0,0,1,0,0
+2274,763179,231500,Systolic blood pressure,0,0,0,1,0,0
+2275,531240,215942,Systolic blood pressure,0,0,0,1,0,0
+2276,949799,84799,Systolic blood pressure,0,0,0,1,0,0
+2277,673192,115202,Systolic blood pressure,0,0,0,1,0,0
+2278,915442,148602,Systolic blood pressure,0,0,0,1,0,0
+2279,894377,181822,Systolic blood pressure,0,0,0,1,0,0
+2280,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2281,1009351,51914,Systolic blood pressure,0,0,0,1,0,0
+2282,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2283,990520,268841,Systolic blood pressure,0,0,0,1,0,0
+2284,565130,75677,Systolic blood pressure,0,0,0,1,0,0
+2285,992334,229453,Systolic blood pressure,0,0,0,1,0,0
+2286,810375,180826,Systolic blood pressure,0,0,0,1,0,0
+2287,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2288,930572,2779,Systolic blood pressure,0,0,0,1,0,0
+2289,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2290,807511,257895,Systolic blood pressure,0,0,0,1,0,0
+2291,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2292,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2293,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2294,500479,267076,Systolic blood pressure,0,0,0,1,0,0
+2295,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2296,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2297,504680,190109,Systolic blood pressure,0,0,0,1,0,0
+2298,693945,220372,Systolic blood pressure,0,0,0,1,0,0
+2299,797558,249847,Systolic blood pressure,0,0,0,1,0,0
+2300,514136,93988,Systolic blood pressure,0,0,0,1,0,0
+2301,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2302,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2303,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2304,862223,181048,Systolic blood pressure,0,0,0,1,0,0
+2305,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2306,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2307,998323,197801,Systolic blood pressure,0,0,0,1,0,0
+2308,724799,58936,Systolic blood pressure,0,0,0,1,0,0
+2309,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2310,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2311,752661,202596,Systolic blood pressure,0,0,0,1,0,0
+2312,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2313,512836,215942,Systolic blood pressure,0,0,0,1,0,0
+2314,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2315,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2316,900083,137785,Systolic blood pressure,0,0,0,1,0,0
+2317,693686,155084,Systolic blood pressure,0,0,0,1,0,0
+2318,1037934,296865,Systolic blood pressure,0,0,0,1,0,0
+2319,728071,257567,Systolic blood pressure,0,0,0,1,0,0
+2320,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2321,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2322,923872,171660,Systolic blood pressure,0,0,0,1,0,0
+2323,1020890,350393,Systolic blood pressure,0,0,0,1,0,0
+2324,1049827,212446,Systolic blood pressure,0,0,0,1,0,0
+2325,755463,180327,Systolic blood pressure,0,0,0,1,0,0
+2326,911484,313404,Systolic blood pressure,0,0,0,1,0,0
+2327,1049681,120840,Systolic blood pressure,0,0,0,1,0,0
+2328,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2329,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2330,881022,102076,Systolic blood pressure,0,0,0,1,0,0
+2331,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2332,601631,181822,Systolic blood pressure,0,0,0,1,0,0
+2333,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2334,915782,142118,Systolic blood pressure,0,0,0,1,0,0
+2335,788589,191551,Systolic blood pressure,0,0,0,1,0,0
+2336,970907,259071,Systolic blood pressure,0,0,0,1,0,0
+2337,642979,24800,Systolic blood pressure,0,0,0,1,0,0
+2338,672191,214842,Systolic blood pressure,0,0,0,1,0,0
+2339,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2340,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2341,1008565,130461,Systolic blood pressure,0,0,0,1,0,0
+2342,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2343,697116,62853,Systolic blood pressure,0,0,0,1,0,0
+2344,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2345,526369,96585,Systolic blood pressure,0,0,0,1,0,0
+2346,891880,292190,Systolic blood pressure,0,0,0,1,0,0
+2347,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2348,552825,161328,Systolic blood pressure,0,0,0,1,0,0
+2349,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2350,799034,177689,Systolic blood pressure,0,0,0,1,0,0
+2351,937702,208104,Systolic blood pressure,0,0,0,1,0,0
+2352,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2353,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2354,709263,19675,Systolic blood pressure,0,0,0,1,0,0
+2355,554635,57350,Systolic blood pressure,0,0,0,1,0,0
+2356,1031266,220,Systolic blood pressure,0,0,0,1,0,0
+2357,641684,257567,Systolic blood pressure,0,0,0,1,0,0
+2358,976668,67856,Systolic blood pressure,0,0,0,1,0,0
+2359,599644,142118,Systolic blood pressure,0,0,0,1,0,0
+2360,953780,23016,Systolic blood pressure,0,0,0,1,0,0
+2361,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2362,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2363,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2364,973374,235299,Systolic blood pressure,0,0,0,1,0,0
+2365,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2366,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2367,845670,233444,Systolic blood pressure,0,0,0,1,0,0
+2368,1004743,113836,Systolic blood pressure,0,0,0,1,0,0
+2369,618105,62587,Systolic blood pressure,0,0,0,1,0,0
+2370,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2371,981079,225683,Systolic blood pressure,0,0,0,1,0,0
+2372,611870,47516,Systolic blood pressure,0,0,0,1,0,0
+2373,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2374,937198,259074,Systolic blood pressure,0,0,0,1,0,0
+2375,702833,238091,Systolic blood pressure,0,0,0,1,0,0
+2376,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2377,820490,166128,Systolic blood pressure,0,0,0,1,0,0
+2378,645309,241859,Systolic blood pressure,0,0,0,1,0,0
+2379,985544,184599,Systolic blood pressure,0,0,0,1,0,0
+2380,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2381,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2382,584189,208077,Systolic blood pressure,0,0,0,1,0,0
+2383,877955,215942,Systolic blood pressure,0,0,0,1,0,0
+2384,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2385,575909,138185,Systolic blood pressure,0,0,0,1,0,0
+2386,945017,243478,Systolic blood pressure,0,0,0,1,0,0
+2387,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2388,892950,142118,Systolic blood pressure,0,0,0,1,0,0
+2389,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2390,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2391,1015047,102230,Systolic blood pressure,0,0,0,1,0,0
+2392,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2393,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2394,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2395,846911,321363,Systolic blood pressure,0,0,0,1,0,0
+2396,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2397,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2398,1025500,113836,Systolic blood pressure,0,0,0,1,0,0
+2399,993684,62420,Systolic blood pressure,0,0,0,1,0,0
+2400,839608,135646,Systolic blood pressure,0,0,0,1,0,0
+2401,739339,322969,Systolic blood pressure,0,0,0,1,0,0
+2402,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2403,619803,157566,Systolic blood pressure,0,0,0,1,0,0
+2404,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+2405,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2406,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2407,951723,156227,Systolic blood pressure,0,0,0,1,0,0
+2408,555563,275312,Systolic blood pressure,0,0,0,1,0,0
+2409,838182,216027,Systolic blood pressure,0,0,0,1,0,0
+2410,977817,108970,Systolic blood pressure,0,0,0,1,0,0
+2411,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2412,794396,129231,Systolic blood pressure,0,0,0,1,0,0
+2413,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2414,982887,351778,Systolic blood pressure,0,0,0,1,0,0
+2415,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2416,1003014,47516,Systolic blood pressure,0,0,0,1,0,0
+2417,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2418,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2419,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2420,630976,131416,Systolic blood pressure,0,0,0,1,0,0
+2421,884490,118752,Systolic blood pressure,0,0,0,1,0,0
+2422,698287,124957,Systolic blood pressure,0,0,0,1,0,0
+2423,1038721,106952,Systolic blood pressure,0,0,0,1,0,0
+2424,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2425,874898,37907,Systolic blood pressure,0,0,0,1,0,0
+2426,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+2427,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2428,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2429,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2430,1001959,156054,Systolic blood pressure,0,0,0,1,0,0
+2431,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2432,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2433,1034238,346288,Systolic blood pressure,0,0,0,1,0,0
+2434,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2435,916843,136025,Systolic blood pressure,0,0,0,1,0,0
+2436,514136,93988,Systolic blood pressure,0,0,0,1,0,0
+2437,829856,318575,Systolic blood pressure,0,0,0,1,0,0
+2438,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2439,752871,60043,Systolic blood pressure,0,0,0,1,0,0
+2440,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2441,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2442,504592,314531,Systolic blood pressure,0,0,0,1,0,0
+2443,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2444,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2445,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2446,899941,102255,Systolic blood pressure,0,0,0,1,0,0
+2447,807511,257895,Systolic blood pressure,0,0,0,1,0,0
+2448,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2449,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2450,805093,49049,Systolic blood pressure,0,0,0,1,0,0
+2451,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2452,983835,261946,Systolic blood pressure,0,0,0,1,0,0
+2453,737118,308852,Systolic blood pressure,0,0,0,1,0,0
+2454,526472,168879,Systolic blood pressure,0,0,0,1,0,0
+2455,814094,312338,Systolic blood pressure,0,0,0,1,0,0
+2456,719887,43487,Systolic blood pressure,0,0,0,1,0,0
+2457,727351,126548,Systolic blood pressure,0,0,0,1,0,0
+2458,800309,171660,Systolic blood pressure,0,0,0,1,0,0
+2459,823126,279591,Systolic blood pressure,0,0,0,1,0,0
+2460,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2461,841957,342248,Systolic blood pressure,0,0,0,1,0,0
+2462,564166,55850,Systolic blood pressure,0,0,0,1,0,0
+2463,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2464,709486,19675,Systolic blood pressure,0,0,0,1,0,0
+2465,795293,18461,Systolic blood pressure,0,0,0,1,0,0
+2466,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2467,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2468,638402,349213,Systolic blood pressure,0,0,0,1,0,0
+2469,606085,230225,Systolic blood pressure,0,0,0,1,0,0
+2470,1051069,223971,Systolic blood pressure,0,0,0,1,0,0
+2471,921995,23416,Systolic blood pressure,0,0,0,1,0,0
+2472,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2473,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2474,723735,254313,Systolic blood pressure,0,0,0,1,0,0
+2475,553188,181739,Systolic blood pressure,0,0,0,1,0,0
+2476,543282,2824,Systolic blood pressure,0,0,0,1,0,0
+2477,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2478,1038721,106952,Systolic blood pressure,0,0,0,1,0,0
+2479,602996,327215,Systolic blood pressure,0,0,0,1,0,0
+2480,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2481,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2482,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2483,859041,320794,Systolic blood pressure,0,0,0,1,0,0
+2484,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2485,1036917,142118,Systolic blood pressure,0,0,0,1,0,0
+2486,894660,224486,Systolic blood pressure,0,0,0,1,0,0
+2487,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2488,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2489,917110,220703,Systolic blood pressure,0,0,0,1,0,0
+2490,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2491,1044019,310278,Systolic blood pressure,0,0,0,1,0,0
+2492,935511,121640,Systolic blood pressure,0,0,0,1,0,0
+2493,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2494,842615,82085,Systolic blood pressure,0,0,0,1,0,0
+2495,747471,57350,Systolic blood pressure,0,0,0,1,0,0
+2496,807459,81296,Systolic blood pressure,0,0,0,1,0,0
+2497,856233,180374,Systolic blood pressure,0,0,0,1,0,0
+2498,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2499,924298,346288,Systolic blood pressure,0,0,0,1,0,0
+2500,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2501,981204,107415,Systolic blood pressure,0,0,0,1,0,0
+2502,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2503,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2504,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2505,555280,124480,Systolic blood pressure,0,0,0,1,0,0
+2506,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2507,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2508,672191,214842,Systolic blood pressure,0,0,0,1,0,0
+2509,606085,230225,Systolic blood pressure,0,0,0,1,0,0
+2510,812447,144433,Systolic blood pressure,0,0,0,1,0,0
+2511,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2512,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2513,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2514,645309,241859,Systolic blood pressure,0,0,0,1,0,0
+2515,644069,37426,Systolic blood pressure,0,0,0,1,0,0
+2516,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2517,693649,351629,Systolic blood pressure,0,0,0,1,0,0
+2518,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2519,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2520,625110,272847,Systolic blood pressure,0,0,0,1,0,0
+2521,602959,6017,Systolic blood pressure,0,0,0,1,0,0
+2522,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2523,1018814,19675,Systolic blood pressure,0,0,0,1,0,0
+2524,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2525,672191,214842,Systolic blood pressure,0,0,0,1,0,0
+2526,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2527,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2528,990520,268841,Systolic blood pressure,0,0,0,1,0,0
+2529,981651,139622,Systolic blood pressure,0,0,0,1,0,0
+2530,830573,171660,Systolic blood pressure,0,0,0,1,0,0
+2531,583088,306439,Systolic blood pressure,0,0,0,1,0,0
+2532,792282,213017,Systolic blood pressure,0,0,0,1,0,0
+2533,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2534,515503,292190,Systolic blood pressure,0,0,0,1,0,0
+2535,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+2536,898865,237353,Systolic blood pressure,0,0,0,1,0,0
+2537,722751,124957,Systolic blood pressure,0,0,0,1,0,0
+2538,593284,350494,Systolic blood pressure,0,0,0,1,0,0
+2539,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2540,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2541,555075,108742,Systolic blood pressure,0,0,0,1,0,0
+2542,647677,322969,Systolic blood pressure,0,0,0,1,0,0
+2543,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2544,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2545,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2546,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2547,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2548,914786,42374,Systolic blood pressure,0,0,0,1,0,0
+2549,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2550,954837,280470,Systolic blood pressure,0,0,0,1,0,0
+2551,561225,278915,Systolic blood pressure,0,0,0,1,0,0
+2552,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2553,589756,90031,Systolic blood pressure,0,0,0,1,0,0
+2554,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2555,941801,114832,Systolic blood pressure,0,0,0,1,0,0
+2556,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2557,655035,78132,Systolic blood pressure,0,0,0,1,0,0
+2558,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2559,626295,352892,Systolic blood pressure,0,0,0,1,0,0
+2560,521715,179426,Systolic blood pressure,0,0,0,1,0,0
+2561,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2562,909953,6507,Systolic blood pressure,0,0,0,1,0,0
+2563,677854,73597,Systolic blood pressure,0,0,0,1,0,0
+2564,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2565,555505,146310,Systolic blood pressure,0,0,0,1,0,0
+2566,892556,85549,Systolic blood pressure,0,0,0,1,0,0
+2567,817664,184387,Systolic blood pressure,0,0,0,1,0,0
+2568,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2569,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2570,690613,306865,Systolic blood pressure,0,0,0,1,0,0
+2571,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2572,611967,235299,Systolic blood pressure,0,0,0,1,0,0
+2573,867446,155397,Systolic blood pressure,0,0,0,1,0,0
+2574,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2575,895262,48862,Systolic blood pressure,0,0,0,1,0,0
+2576,754731,201306,Systolic blood pressure,0,0,0,1,0,0
+2577,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2578,836385,163148,Systolic blood pressure,0,0,0,1,0,0
+2579,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2580,640953,30095,Systolic blood pressure,0,0,0,1,0,0
+2581,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2582,1008519,346057,Systolic blood pressure,0,0,0,1,0,0
+2583,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2584,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2585,1000285,215528,Systolic blood pressure,0,0,0,1,0,0
+2586,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2587,526369,96585,Systolic blood pressure,0,0,0,1,0,0
+2588,806488,156745,Systolic blood pressure,0,0,0,1,0,0
+2589,1000765,204485,Systolic blood pressure,0,0,0,1,0,0
+2590,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2591,609365,55850,Systolic blood pressure,0,0,0,1,0,0
+2592,560768,322969,Systolic blood pressure,0,0,0,1,0,0
+2593,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2594,675507,225683,Systolic blood pressure,0,0,0,1,0,0
+2595,730749,25869,Systolic blood pressure,0,0,0,1,0,0
+2596,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2597,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2598,736840,129493,Systolic blood pressure,0,0,0,1,0,0
+2599,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2600,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2601,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2602,653089,160601,Systolic blood pressure,0,0,0,1,0,0
+2603,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2604,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2605,806595,22872,Systolic blood pressure,0,0,0,1,0,0
+2606,760020,324692,Systolic blood pressure,0,0,0,1,0,0
+2607,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2608,931944,256876,Systolic blood pressure,0,0,0,1,0,0
+2609,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2610,977137,326515,Systolic blood pressure,0,0,0,1,0,0
+2611,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2612,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2613,606085,230225,Systolic blood pressure,0,0,0,1,0,0
+2614,772665,145397,Systolic blood pressure,0,0,0,1,0,0
+2615,620553,129731,Systolic blood pressure,0,0,0,1,0,0
+2616,921995,23416,Systolic blood pressure,0,0,0,1,0,0
+2617,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2618,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2619,654872,285640,Systolic blood pressure,0,0,0,1,0,0
+2620,875831,329891,Systolic blood pressure,0,0,0,1,0,0
+2621,996273,118912,Systolic blood pressure,0,0,0,1,0,0
+2622,812773,40639,Systolic blood pressure,0,0,0,1,0,0
+2623,749550,235299,Systolic blood pressure,0,0,0,1,0,0
+2624,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2625,971625,108213,Systolic blood pressure,0,0,0,1,0,0
+2626,957006,254649,Systolic blood pressure,0,0,0,1,0,0
+2627,884346,128261,Systolic blood pressure,0,0,0,1,0,0
+2628,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2629,800957,169564,Systolic blood pressure,0,0,0,1,0,0
+2630,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2631,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2632,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2633,590768,123642,Systolic blood pressure,0,0,0,1,0,0
+2634,824481,16210,Systolic blood pressure,0,0,0,1,0,0
+2635,725825,302170,Systolic blood pressure,0,0,0,1,0,0
+2636,639508,224486,Systolic blood pressure,0,0,0,1,0,0
+2637,982830,70792,Systolic blood pressure,0,0,0,1,0,0
+2638,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2639,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2640,591280,329678,Systolic blood pressure,0,0,0,1,0,0
+2641,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+2642,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2643,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2644,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2645,809402,157048,Systolic blood pressure,0,0,0,1,0,0
+2646,807511,257895,Systolic blood pressure,0,0,0,1,0,0
+2647,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2648,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2649,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2650,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2651,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2652,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2653,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2654,688582,40639,Systolic blood pressure,0,0,0,1,0,0
+2655,528590,47469,Systolic blood pressure,0,0,0,1,0,0
+2656,720938,235299,Systolic blood pressure,0,0,0,1,0,0
+2657,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+2658,1000112,152114,Systolic blood pressure,0,0,0,1,0,0
+2659,705060,134264,Systolic blood pressure,0,0,0,1,0,0
+2660,910278,313252,Systolic blood pressure,0,0,0,1,0,0
+2661,969698,197183,Systolic blood pressure,0,0,0,1,0,0
+2662,1041182,31729,Systolic blood pressure,0,0,0,1,0,0
+2663,667950,143521,Systolic blood pressure,0,0,0,1,0,0
+2664,778308,328337,Systolic blood pressure,0,0,0,1,0,0
+2665,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2666,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2667,1027772,39186,Systolic blood pressure,0,0,0,1,0,0
+2668,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2669,547146,229125,Systolic blood pressure,0,0,0,1,0,0
+2670,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2671,635860,122116,Systolic blood pressure,0,0,0,1,0,0
+2672,1038721,106952,Systolic blood pressure,0,0,0,1,0,0
+2673,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2674,618105,62587,Systolic blood pressure,0,0,0,1,0,0
+2675,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2676,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2677,775718,39186,Systolic blood pressure,0,0,0,1,0,0
+2678,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2679,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2680,1034518,51326,Systolic blood pressure,0,0,0,1,0,0
+2681,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2682,954671,68157,Systolic blood pressure,0,0,0,1,0,0
+2683,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2684,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2685,990520,268841,Systolic blood pressure,0,0,0,1,0,0
+2686,525715,316943,Systolic blood pressure,0,0,0,1,0,0
+2687,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2688,673192,115202,Systolic blood pressure,0,0,0,1,0,0
+2689,547358,252459,Systolic blood pressure,0,0,0,1,0,0
+2690,991548,270700,Systolic blood pressure,0,0,0,1,0,0
+2691,804193,305063,Systolic blood pressure,0,0,0,1,0,0
+2692,736708,8137,Systolic blood pressure,0,0,0,1,0,0
+2693,521091,75891,Systolic blood pressure,0,0,0,1,0,0
+2694,973665,176296,Systolic blood pressure,0,0,0,1,0,0
+2695,879968,343248,Systolic blood pressure,0,0,0,1,0,0
+2696,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2697,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2698,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2699,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2700,851094,156439,Systolic blood pressure,0,0,0,1,0,0
+2701,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2702,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2703,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2704,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2705,860031,144021,Systolic blood pressure,0,0,0,1,0,0
+2706,884988,50033,Systolic blood pressure,0,0,0,1,0,0
+2707,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2708,923578,22959,Systolic blood pressure,0,0,0,1,0,0
+2709,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2710,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2711,866477,239234,Systolic blood pressure,0,0,0,1,0,0
+2712,748254,88285,Systolic blood pressure,0,0,0,1,0,0
+2713,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2714,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2715,658855,24694,Systolic blood pressure,0,0,0,1,0,0
+2716,742399,59469,Systolic blood pressure,0,0,0,1,0,0
+2717,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2718,555926,308,Systolic blood pressure,0,0,0,1,0,0
+2719,850501,328496,Systolic blood pressure,0,0,0,1,0,0
+2720,576927,22959,Systolic blood pressure,0,0,0,1,0,0
+2721,717681,307504,Systolic blood pressure,0,0,0,1,0,0
+2722,615525,55850,Systolic blood pressure,0,0,0,1,0,0
+2723,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2724,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2725,553808,300425,Systolic blood pressure,0,0,0,1,0,0
+2726,504680,190109,Systolic blood pressure,0,0,0,1,0,0
+2727,757109,39186,Systolic blood pressure,0,0,0,1,0,0
+2728,918839,142118,Systolic blood pressure,0,0,0,1,0,0
+2729,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2730,696471,321181,Systolic blood pressure,0,0,0,1,0,0
+2731,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2732,910400,172884,Systolic blood pressure,0,0,0,1,0,0
+2733,1001600,348228,Systolic blood pressure,0,0,0,1,0,0
+2734,796988,102321,Systolic blood pressure,0,0,0,1,0,0
+2735,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2736,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2737,520817,105037,Systolic blood pressure,0,0,0,1,0,0
+2738,970686,321363,Systolic blood pressure,0,0,0,1,0,0
+2739,746247,226349,Systolic blood pressure,0,0,0,1,0,0
+2740,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2741,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2742,804067,93098,Systolic blood pressure,0,0,0,1,0,0
+2743,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2744,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+2745,520817,105037,Systolic blood pressure,0,0,0,1,0,0
+2746,520817,105037,Systolic blood pressure,0,0,0,1,0,0
+2747,1008706,30930,Systolic blood pressure,0,0,0,1,0,0
+2748,866873,30930,Systolic blood pressure,0,0,0,1,0,0
+2749,1001524,207652,Systolic blood pressure,0,0,0,1,0,0
+2750,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2751,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2752,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2753,970594,93098,Systolic blood pressure,0,0,0,1,0,0
+2754,897908,119859,Systolic blood pressure,0,0,0,1,0,0
+2755,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2756,1008706,30930,Systolic blood pressure,0,0,0,1,0,0
+2757,742413,65478,Systolic blood pressure,0,0,0,1,0,0
+2758,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2759,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2760,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2761,521715,179426,Systolic blood pressure,0,0,0,1,0,0
+2762,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2763,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2764,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2765,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2766,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2767,656065,104820,Systolic blood pressure,0,0,0,1,0,0
+2768,823497,124789,Systolic blood pressure,0,0,0,1,0,0
+2769,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2770,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2771,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2772,830726,119859,Systolic blood pressure,0,0,0,1,0,0
+2773,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2774,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2775,785378,10064,Systolic blood pressure,0,0,0,1,0,0
+2776,884553,19624,Systolic blood pressure,0,0,0,1,0,0
+2777,660585,151226,Systolic blood pressure,0,0,0,1,0,0
+2778,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2779,892324,351661,Systolic blood pressure,0,0,0,1,0,0
+2780,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2781,1006864,243773,Systolic blood pressure,0,0,0,1,0,0
+2782,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+2783,500218,133287,Systolic blood pressure,0,0,0,1,0,0
+2784,996557,37426,Systolic blood pressure,0,0,0,1,0,0
+2785,501337,289281,Systolic blood pressure,0,0,0,1,0,0
+2786,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2787,1036582,254649,Systolic blood pressure,0,0,0,1,0,0
+2788,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+2789,800309,171660,Systolic blood pressure,0,0,0,1,0,0
+2790,787051,45568,Systolic blood pressure,0,0,0,1,0,0
+2791,931074,29569,Systolic blood pressure,0,0,0,1,0,0
+2792,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2793,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+2794,807459,81296,Systolic blood pressure,0,0,0,1,0,0
+2795,859589,190983,Systolic blood pressure,0,0,0,1,0,0
+2796,1038721,106952,Systolic blood pressure,0,0,0,1,0,0
+2797,664223,70929,Systolic blood pressure,0,0,0,1,0,0
+2798,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2799,987398,45978,Systolic blood pressure,0,0,0,1,0,0
+2800,939390,321990,Systolic blood pressure,0,0,0,1,0,0
+2801,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2802,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2803,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2804,911359,76283,Systolic blood pressure,0,0,0,1,0,0
+2805,517806,337004,Systolic blood pressure,0,0,0,1,0,0
+2806,952396,10180,Systolic blood pressure,0,0,0,1,0,0
+2807,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+2808,738071,182406,Systolic blood pressure,0,0,0,1,0,0
+2809,971861,273254,Systolic blood pressure,0,0,0,1,0,0
+2810,989721,74039,Systolic blood pressure,0,0,0,1,0,0
+2811,1008227,219880,Systolic blood pressure,0,0,0,1,0,0
+2812,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2813,858887,110127,Systolic blood pressure,0,0,0,1,0,0
+2814,846652,191585,Systolic blood pressure,0,0,0,1,0,0
+2815,576629,256393,Systolic blood pressure,0,0,0,1,0,0
+2816,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2817,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2818,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2819,694332,23416,Systolic blood pressure,0,0,0,1,0,0
+2820,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2821,901645,169226,Systolic blood pressure,0,0,0,1,0,0
+2822,659616,267993,Systolic blood pressure,0,0,0,1,0,0
+2823,722651,158642,Systolic blood pressure,0,0,0,1,0,0
+2824,556125,346288,Systolic blood pressure,0,0,0,1,0,0
+2825,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2826,500479,267076,Systolic blood pressure,0,0,0,1,0,0
+2827,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2828,570036,249004,Systolic blood pressure,0,0,0,1,0,0
+2829,795416,171660,Systolic blood pressure,0,0,0,1,0,0
+2830,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2831,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2832,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2833,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2834,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2835,891880,292190,Systolic blood pressure,0,0,0,1,0,0
+2836,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2837,1022162,114383,Systolic blood pressure,0,0,0,1,0,0
+2838,1015065,314340,Systolic blood pressure,0,0,0,1,0,0
+2839,944724,112314,Systolic blood pressure,0,0,0,1,0,0
+2840,500479,267076,Systolic blood pressure,0,0,0,1,0,0
+2841,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2842,723911,181171,Systolic blood pressure,0,0,0,1,0,0
+2843,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2844,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+2845,610267,143209,Systolic blood pressure,0,0,0,1,0,0
+2846,514136,93988,Systolic blood pressure,0,0,0,1,0,0
+2847,839608,135646,Systolic blood pressure,0,0,0,1,0,0
+2848,526369,96585,Systolic blood pressure,0,0,0,1,0,0
+2849,872256,262810,Systolic blood pressure,0,0,0,1,0,0
+2850,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2851,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2852,701271,96585,Systolic blood pressure,0,0,0,1,0,0
+2853,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+2854,725121,321990,Systolic blood pressure,0,0,0,1,0,0
+2855,661142,76077,Systolic blood pressure,0,0,0,1,0,0
+2856,807459,81296,Systolic blood pressure,0,0,0,1,0,0
+2857,907360,324308,Systolic blood pressure,0,0,0,1,0,0
+2858,786525,331315,Systolic blood pressure,0,0,0,1,0,0
+2859,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2860,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+2861,798314,201821,Systolic blood pressure,0,0,0,1,0,0
+2862,676838,124957,Systolic blood pressure,0,0,0,1,0,0
+2863,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2864,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2865,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+2866,934359,166128,Systolic blood pressure,0,0,0,1,0,0
+2867,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2868,791964,50033,Systolic blood pressure,0,0,0,1,0,0
+2869,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2870,673192,115202,Systolic blood pressure,0,0,0,1,0,0
+2871,657126,290623,Systolic blood pressure,0,0,0,1,0,0
+2872,848255,74732,Systolic blood pressure,0,0,0,1,0,0
+2873,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2874,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2875,702856,2779,Systolic blood pressure,0,0,0,1,0,0
+2876,909953,6507,Systolic blood pressure,0,0,0,1,0,0
+2877,514945,238422,Systolic blood pressure,0,0,0,1,0,0
+2878,765628,276929,Systolic blood pressure,0,0,0,1,0,0
+2879,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2880,823466,116529,Systolic blood pressure,0,0,0,1,0,0
+2881,717534,88239,Systolic blood pressure,0,0,0,1,0,0
+2882,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2883,595137,337004,Systolic blood pressure,0,0,0,1,0,0
+2884,637482,288759,Systolic blood pressure,0,0,0,1,0,0
+2885,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2886,933107,311298,Systolic blood pressure,0,0,0,1,0,0
+2887,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2888,510957,128323,Systolic blood pressure,0,0,0,1,0,0
+2889,806595,22872,Systolic blood pressure,0,0,0,1,0,0
+2890,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+2891,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2892,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2893,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+2894,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2895,648289,47516,Systolic blood pressure,0,0,0,1,0,0
+2896,625500,19407,Systolic blood pressure,0,0,0,1,0,0
+2897,909236,149723,Systolic blood pressure,0,0,0,1,0,0
+2898,761657,185563,Systolic blood pressure,0,0,0,1,0,0
+2899,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2900,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2901,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+2902,807246,300384,Systolic blood pressure,0,0,0,1,0,0
+2903,756756,330054,Systolic blood pressure,0,0,0,1,0,0
+2904,660311,51326,Systolic blood pressure,0,0,0,1,0,0
+2905,672191,214842,Systolic blood pressure,0,0,0,1,0,0
+2906,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2907,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2908,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2909,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2910,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2911,781375,71823,Systolic blood pressure,0,0,0,1,0,0
+2912,846300,18047,Systolic blood pressure,0,0,0,1,0,0
+2913,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+2914,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2915,795958,78341,Systolic blood pressure,0,0,0,1,0,0
+2916,886727,89794,Systolic blood pressure,0,0,0,1,0,0
+2917,991548,270700,Systolic blood pressure,0,0,0,1,0,0
+2918,504725,275312,Systolic blood pressure,0,0,0,1,0,0
+2919,720954,297608,Systolic blood pressure,0,0,0,1,0,0
+2920,830554,177689,Systolic blood pressure,0,0,0,1,0,0
+2921,674981,331741,Systolic blood pressure,0,0,0,1,0,0
+2922,888593,80702,Systolic blood pressure,0,0,0,1,0,0
+2923,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2924,845607,45568,Systolic blood pressure,0,0,0,1,0,0
+2925,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2926,735978,9899,Systolic blood pressure,0,0,0,1,0,0
+2927,593091,211086,Systolic blood pressure,0,0,0,1,0,0
+2928,793524,351560,Systolic blood pressure,0,0,0,1,0,0
+2929,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2930,1035123,245476,Systolic blood pressure,0,0,0,1,0,0
+2931,662549,2824,Systolic blood pressure,0,0,0,1,0,0
+2932,936560,289071,Systolic blood pressure,0,0,0,1,0,0
+2933,502921,45268,Systolic blood pressure,0,0,0,1,0,0
+2934,730200,55850,Systolic blood pressure,0,0,0,1,0,0
+2935,604797,142118,Systolic blood pressure,0,0,0,1,0,0
+2936,1009223,73795,Systolic blood pressure,0,0,0,1,0,0
+2937,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+2938,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2939,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+2940,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2941,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2942,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+2943,742678,84799,Systolic blood pressure,0,0,0,1,0,0
+2944,1032784,80281,Systolic blood pressure,0,0,0,1,0,0
+2945,618541,50033,Systolic blood pressure,0,0,0,1,0,0
+2946,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2947,725918,148896,Systolic blood pressure,0,0,0,1,0,0
+2948,934412,247289,Systolic blood pressure,0,0,0,1,0,0
+2949,600502,289217,Systolic blood pressure,0,0,0,1,0,0
+2950,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+2951,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+2952,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+2953,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+2954,953513,9020,Systolic blood pressure,0,0,0,1,0,0
+2955,561225,278915,Systolic blood pressure,0,0,0,1,0,0
+2956,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+2957,543304,156219,Systolic blood pressure,0,0,0,1,0,0
+2958,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2959,520817,105037,Systolic blood pressure,0,0,0,1,0,0
+2960,705728,108309,Systolic blood pressure,0,0,0,1,0,0
+2961,717497,62611,Systolic blood pressure,0,0,0,1,0,0
+2962,553671,215942,Systolic blood pressure,0,0,0,1,0,0
+2963,703515,105398,Systolic blood pressure,0,0,0,1,0,0
+2964,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2965,626264,232286,Systolic blood pressure,0,0,0,1,0,0
+2966,685772,204494,Systolic blood pressure,0,0,0,1,0,0
+2967,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2968,531679,272954,Systolic blood pressure,0,0,0,1,0,0
+2969,872256,262810,Systolic blood pressure,0,0,0,1,0,0
+2970,915446,138886,Systolic blood pressure,0,0,0,1,0,0
+2971,1011948,270700,Systolic blood pressure,0,0,0,1,0,0
+2972,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2973,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2974,756522,157566,Systolic blood pressure,0,0,0,1,0,0
+2975,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+2976,1047340,171660,Systolic blood pressure,0,0,0,1,0,0
+2977,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+2978,739487,236177,Systolic blood pressure,0,0,0,1,0,0
+2979,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+2980,691471,277818,Systolic blood pressure,0,0,0,1,0,0
+2981,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+2982,503898,245502,Systolic blood pressure,0,0,0,1,0,0
+2983,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+2984,516292,143744,Systolic blood pressure,0,0,0,1,0,0
+2985,803699,121733,Systolic blood pressure,0,0,0,1,0,0
+2986,838784,330352,Systolic blood pressure,0,0,0,1,0,0
+2987,914522,62118,Systolic blood pressure,0,0,0,1,0,0
+2988,990520,268841,Systolic blood pressure,0,0,0,1,0,0
+2989,940817,4022,Systolic blood pressure,0,0,0,1,0,0
+2990,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2991,732479,168879,Systolic blood pressure,0,0,0,1,0,0
+2992,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+2993,934412,247289,Systolic blood pressure,0,0,0,1,0,0
+2994,891880,292190,Systolic blood pressure,0,0,0,1,0,0
+2995,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+2996,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+2997,815905,236681,Systolic blood pressure,0,0,0,1,0,0
+2998,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+2999,578846,289529,Systolic blood pressure,0,0,0,1,0,0
+3000,787879,124957,Systolic blood pressure,0,0,0,1,0,0
+3001,1021857,289704,Systolic blood pressure,0,0,0,1,0,0
+3002,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3003,973626,164366,Systolic blood pressure,0,0,0,1,0,0
+3004,723509,154622,Systolic blood pressure,0,0,0,1,0,0
+3005,789487,314069,Systolic blood pressure,0,0,0,1,0,0
+3006,1022237,272672,Systolic blood pressure,0,0,0,1,0,0
+3007,564124,203046,Systolic blood pressure,0,0,0,1,0,0
+3008,825350,254313,Systolic blood pressure,0,0,0,1,0,0
+3009,930346,167629,Systolic blood pressure,0,0,0,1,0,0
+3010,709779,108309,Systolic blood pressure,0,0,0,1,0,0
+3011,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+3012,785805,142118,Systolic blood pressure,0,0,0,1,0,0
+3013,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+3014,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+3015,995650,181822,Systolic blood pressure,0,0,0,1,0,0
+3016,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+3017,819650,243773,Systolic blood pressure,0,0,0,1,0,0
+3018,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+3019,676853,104239,Systolic blood pressure,0,0,0,1,0,0
+3020,861014,47322,Systolic blood pressure,0,0,0,1,0,0
+3021,1008706,30930,Systolic blood pressure,0,0,0,1,0,0
+3022,916541,216928,Systolic blood pressure,0,0,0,1,0,0
+3023,807459,81296,Systolic blood pressure,0,0,0,1,0,0
+3024,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3025,752871,60043,Systolic blood pressure,0,0,0,1,0,0
+3026,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+3027,832495,76471,Systolic blood pressure,0,0,0,1,0,0
+3028,654274,184211,Systolic blood pressure,0,0,0,1,0,0
+3029,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+3030,867242,246175,Systolic blood pressure,0,0,0,1,0,0
+3031,618114,215446,Systolic blood pressure,0,0,0,1,0,0
+3032,940358,19407,Systolic blood pressure,0,0,0,1,0,0
+3033,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+3034,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+3035,616796,102076,Systolic blood pressure,0,0,0,1,0,0
+3036,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3037,780344,136784,Systolic blood pressure,0,0,0,1,0,0
+3038,837027,301006,Systolic blood pressure,0,0,0,1,0,0
+3039,606085,230225,Systolic blood pressure,0,0,0,1,0,0
+3040,928452,230195,Systolic blood pressure,0,0,0,1,0,0
+3041,752871,60043,Systolic blood pressure,0,0,0,1,0,0
+3042,770247,273923,Systolic blood pressure,0,0,0,1,0,0
+3043,880623,201306,Systolic blood pressure,0,0,0,1,0,0
+3044,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+3045,561225,278915,Systolic blood pressure,0,0,0,1,0,0
+3046,537944,143624,Systolic blood pressure,0,0,0,1,0,0
+3047,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+3048,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+3049,850005,241854,Systolic blood pressure,0,0,0,1,0,0
+3050,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+3051,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+3052,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+3053,657565,40818,Systolic blood pressure,0,0,0,1,0,0
+3054,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+3055,500479,267076,Systolic blood pressure,0,0,0,1,0,0
+3056,539396,286176,Systolic blood pressure,0,0,0,1,0,0
+3057,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+3058,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3059,794396,129231,Systolic blood pressure,0,0,0,1,0,0
+3060,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+3061,742575,237106,Systolic blood pressure,0,0,0,1,0,0
+3062,695565,246275,Systolic blood pressure,0,0,0,1,0,0
+3063,880077,289704,Systolic blood pressure,0,0,0,1,0,0
+3064,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+3065,924720,16570,Systolic blood pressure,0,0,0,1,0,0
+3066,879470,63464,Systolic blood pressure,0,0,0,1,0,0
+3067,955997,13449,Systolic blood pressure,0,0,0,1,0,0
+3068,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+3069,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+3070,903972,119656,Systolic blood pressure,0,0,0,1,0,0
+3071,811674,212662,Systolic blood pressure,0,0,0,1,0,0
+3072,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3073,666066,119859,Systolic blood pressure,0,0,0,1,0,0
+3074,807886,344567,Systolic blood pressure,0,0,0,1,0,0
+3075,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3076,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3077,956709,90899,Systolic blood pressure,0,0,0,1,0,0
+3078,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+3079,1035841,37907,Systolic blood pressure,0,0,0,1,0,0
+3080,702067,118352,Systolic blood pressure,0,0,0,1,0,0
+3081,831121,140318,Systolic blood pressure,0,0,0,1,0,0
+3082,710519,11201,Systolic blood pressure,0,0,0,1,0,0
+3083,935972,203046,Systolic blood pressure,0,0,0,1,0,0
+3084,680226,328250,Systolic blood pressure,0,0,0,1,0,0
+3085,938291,147202,Systolic blood pressure,0,0,0,1,0,0
+3086,525197,313048,Systolic blood pressure,0,0,0,1,0,0
+3087,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+3088,659067,19675,Systolic blood pressure,0,0,0,1,0,0
+3089,1022237,272672,Systolic blood pressure,0,0,0,1,0,0
+3090,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+3091,529187,72698,Systolic blood pressure,0,0,0,1,0,0
+3092,700642,283628,Systolic blood pressure,0,0,0,1,0,0
+3093,661982,13857,Systolic blood pressure,0,0,0,1,0,0
+3094,971861,273254,Systolic blood pressure,0,0,0,1,0,0
+3095,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+3096,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+3097,899754,215446,Systolic blood pressure,0,0,0,1,0,0
+3098,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3099,768951,142118,Systolic blood pressure,0,0,0,1,0,0
+3100,951876,192107,Systolic blood pressure,0,0,0,1,0,0
+3101,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+3102,1016525,197801,Systolic blood pressure,0,0,0,1,0,0
+3103,682515,164634,Systolic blood pressure,0,0,0,1,0,0
+3104,641650,35971,Systolic blood pressure,0,0,0,1,0,0
+3105,1047143,181739,Systolic blood pressure,0,0,0,1,0,0
+3106,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+3107,526785,185579,Systolic blood pressure,0,0,0,1,0,0
+3108,520904,106207,Systolic blood pressure,0,0,0,1,0,0
+3109,900064,2824,Systolic blood pressure,0,0,0,1,0,0
+3110,748869,337004,Systolic blood pressure,0,0,0,1,0,0
+3111,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3112,515419,350494,Systolic blood pressure,0,0,0,1,0,0
+3113,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3114,695238,15261,Systolic blood pressure,0,0,0,1,0,0
+3115,869564,262810,Systolic blood pressure,0,0,0,1,0,0
+3116,908711,17581,Systolic blood pressure,0,0,0,1,0,0
+3117,890097,322969,Systolic blood pressure,0,0,0,1,0,0
+3118,850258,169530,Systolic blood pressure,0,0,0,1,0,0
+3119,820024,78881,Systolic blood pressure,0,0,0,1,0,0
+3120,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+3121,687004,29513,Systolic blood pressure,0,0,0,1,0,0
+3122,560215,34472,Systolic blood pressure,0,0,0,1,0,0
+3123,745487,90258,Systolic blood pressure,0,0,0,1,0,0
+3124,520817,105037,Systolic blood pressure,0,0,0,1,0,0
+3125,969334,88285,Systolic blood pressure,0,0,0,1,0,0
+3126,801881,44719,Systolic blood pressure,0,0,0,1,0,0
+3127,715764,82085,Systolic blood pressure,0,0,0,1,0,0
+3128,572001,301006,Systolic blood pressure,0,0,0,1,0,0
+3129,911277,265386,Systolic blood pressure,0,0,0,1,0,0
+3130,997247,300716,Systolic blood pressure,0,0,0,1,0,0
+3131,760284,157800,Systolic blood pressure,0,0,0,1,0,0
+3132,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+3133,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+3134,568652,251636,Systolic blood pressure,0,0,0,1,0,0
+3135,653584,152609,Systolic blood pressure,0,0,0,1,0,0
+3136,773545,2240,Systolic blood pressure,0,0,0,1,0,0
+3137,880251,190751,Systolic blood pressure,0,0,0,1,0,0
+3138,916829,142118,Systolic blood pressure,0,0,0,1,0,0
+3139,621264,164091,Systolic blood pressure,0,0,0,1,0,0
+3140,701478,180662,Systolic blood pressure,0,0,0,1,0,0
+3141,909953,6507,Systolic blood pressure,0,0,0,1,0,0
+3142,629570,201306,Systolic blood pressure,0,0,0,1,0,0
+3143,794827,214673,Systolic blood pressure,0,0,0,1,0,0
+3144,701249,98275,Systolic blood pressure,0,0,0,1,0,0
+3145,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+3146,970286,113766,Systolic blood pressure,0,0,0,1,0,0
+3147,530931,189147,Systolic blood pressure,0,0,0,1,0,0
+3148,875732,191551,Systolic blood pressure,0,0,0,1,0,0
+3149,618205,239234,Systolic blood pressure,0,0,0,1,0,0
+3150,990520,268841,Systolic blood pressure,0,0,0,1,0,0
+3151,832995,330481,Systolic blood pressure,0,0,0,1,0,0
+3152,677398,217989,Systolic blood pressure,0,0,0,1,0,0
+3153,513624,156227,Systolic blood pressure,0,0,0,1,0,0
+3154,692703,62611,Systolic blood pressure,0,0,0,1,0,0
+3155,581626,40044,Systolic blood pressure,0,0,0,1,0,0
+3156,793763,273980,Systolic blood pressure,0,0,0,1,0,0
+3157,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+3158,714649,59031,Systolic blood pressure,0,0,0,1,0,0
+3159,891320,1245,Systolic blood pressure,0,0,0,1,0,0
+3160,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+3161,962414,124957,Systolic blood pressure,0,0,0,1,0,0
+3162,858567,344136,Systolic blood pressure,0,0,0,1,0,0
+3163,602942,121640,Systolic blood pressure,0,0,0,1,0,0
+3164,808957,337350,Systolic blood pressure,0,0,0,1,0,0
+3165,563823,320358,Systolic blood pressure,0,0,0,1,0,0
+3166,625682,32841,Systolic blood pressure,0,0,0,1,0,0
+3167,627892,289981,Systolic blood pressure,0,0,0,1,0,0
+3168,966824,71569,Systolic blood pressure,0,0,0,1,0,0
+3169,637982,117706,Systolic blood pressure,0,0,0,1,0,0
+3170,1027862,37426,Systolic blood pressure,0,0,0,1,0,0
+3171,917400,13857,Systolic blood pressure,0,0,0,1,0,0
+3172,952405,177996,Systolic blood pressure,0,0,0,1,0,0
+3173,705812,141861,Systolic blood pressure,0,0,0,1,0,0
+3174,597571,234770,Systolic blood pressure,0,0,0,1,0,0
+3175,601656,162393,Systolic blood pressure,0,0,0,1,0,0
+3176,1037989,50033,Systolic blood pressure,0,0,0,1,0,0
+3177,572781,275418,Systolic blood pressure,0,0,0,1,0,0
+3178,796360,15995,Systolic blood pressure,0,0,0,1,0,0
+3179,909953,6507,Systolic blood pressure,0,0,0,1,0,0
+3180,984410,129493,Systolic blood pressure,0,0,0,1,0,0
+3181,728794,272807,Systolic blood pressure,0,0,0,1,0,0
+3182,747423,89965,Systolic blood pressure,0,0,0,1,0,0
+3183,893318,235414,Systolic blood pressure,0,0,0,1,0,0
+3184,694434,40433,Systolic blood pressure,0,0,0,1,0,0
+3185,738951,168879,Systolic blood pressure,0,0,0,1,0,0
+3186,928477,179426,Systolic blood pressure,0,0,0,1,0,0
+3187,868258,308554,Systolic blood pressure,0,0,0,1,0,0
+3188,762805,64355,Systolic blood pressure,0,0,0,1,0,0
+3189,694332,23416,Systolic blood pressure,0,0,0,1,0,0
+3190,555329,84799,Systolic blood pressure,0,0,0,1,0,0
+3191,716272,318575,Systolic blood pressure,0,0,0,1,0,0
+3192,712160,349764,Systolic blood pressure,0,0,0,1,0,0

@@ -1,0 +1,1001 @@
+patient_id,gender,birth_date,race,zip_code,state,deceased_flag,death_date,data_source
+1320,female,1928-10-11,white,,Oklahoma,0,,cclf
+13204,female,1954-05-26,black,,New Mexico,0,,cclf
+13208,female,1951-10-28,white,,Tennessee,0,,cclf
+13209,male,1950-04-24,white,,Kansas,0,,cclf
+13214,female,1940-02-29,white,,Hawaii,0,,cclf
+13230,female,1954-11-07,black,,Vermont,0,,cclf
+13231,female,1937-06-11,white,,Virgin Islands,0,,cclf
+13235,female,1943-03-24,white,,Virgin Islands,0,,cclf
+13237,female,1946-06-26,black,,North Carolina,0,,cclf
+13238,female,1947-12-27,white,,Hawaii,0,,cclf
+1324,female,1951-09-08,black,,Alabama,0,,cclf
+13248,female,1952-07-05,white,,Pennsylvania,0,,cclf
+1325,female,1965-06-12,white,,Maryland,0,,cclf
+13257,male,1939-05-02,black,,Colorado,0,,cclf
+13261,female,1933-01-13,black,,Pennsylvania,0,,cclf
+13269,female,1978-10-15,white,,Tennessee,0,,cclf
+13272,male,1949-06-15,unknown,,Missouri,1,,cclf
+13277,female,1945-03-09,white,,Missouri,0,,cclf
+13280,male,1966-06-30,white,,West Virginia,0,,cclf
+13289,female,1953-02-22,white,,Ohio,0,,cclf
+13290,male,1938-08-06,other,,North Carolina,0,,cclf
+13293,female,1950-08-08,white,,Maryland,0,,cclf
+13296,female,1939-10-16,white,,North Carolina,0,,cclf
+13298,female,1966-02-11,white,,Hawaii,1,2018-12-21,cclf
+133,male,1963-11-09,white,,Kentucky,0,,cclf
+13306,female,1946-10-11,white,,Oklahoma,1,2018-02-14,cclf
+13309,male,1946-02-18,white,,Mississippi,0,,cclf
+1331,female,1933-11-23,white,,Pennsylvania,0,,cclf
+13311,male,1949-06-14,white,,Hawaii,0,,cclf
+13313,female,1973-06-16,black,,Missouri,0,,cclf
+13317,female,1942-12-03,black,,Hawaii,0,,cclf
+13318,male,1964-11-27,white,,Pennsylvania,0,,cclf
+1332,male,1945-10-01,white,,Kansas,0,,cclf
+13320,male,1941-08-16,white,,Ohio,0,,cclf
+13322,female,1922-10-21,white,,North Carolina,1,2018-09-05,cclf
+13324,female,1950-01-10,white,,Nebraska,0,,cclf
+13345,male,1931-12-11,white,,Colorado,0,,cclf
+13348,male,1960-03-13,hispanic,,Colorado,0,,cclf
+13351,male,1950-02-08,other,,Idaho,1,2017-06-08,cclf
+13359,female,1944-03-01,white,,Vermont,0,,cclf
+13360,female,1941-11-22,white,,California,0,,cclf
+13372,female,1933-08-14,white,,South Carolina,0,,cclf
+13374,female,1948-07-11,white,,New Jersey,0,,cclf
+13376,female,1952-11-28,white,,Pennsylvania,0,,cclf
+13377,male,1956-01-16,black,,Wyoming,1,2016-12-20,cclf
+13379,female,1926-12-10,white,,Pennsylvania,0,,cclf
+13380,female,1947-03-31,white,,Tennessee,0,,cclf
+10,male,1945-05-16,white,,California,0,,cclf
+10007,female,1956-01-04,white,,South Carolina,0,,cclf
+10010,female,1932-12-03,white,,Massachusetts,0,,cclf
+10013,female,1952-08-23,white,,District of Columbia,0,,cclf
+10017,male,1984-11-23,white,,Oklahoma,0,,cclf
+10022,female,1938-05-18,white,,Idaho,0,,cclf
+10025,female,1948-03-01,white,,Arkansas,0,,cclf
+10026,female,1945-09-26,white,,Arkansas,0,,cclf
+1003,male,1946-02-09,white,,Oklahoma,0,,cclf
+10033,male,1950-05-01,unknown,,South Carolina,1,,cclf
+10042,female,1950-07-11,white,,West Virginia,0,,cclf
+10046,female,1938-06-10,white,,Virginia,0,,cclf
+10049,female,1931-11-10,other,,Ohio,0,,cclf
+1005,female,1949-03-31,white,,Wyoming,0,,cclf
+10052,male,1944-01-09,white,,California,0,,cclf
+10058,female,1947-07-07,hispanic,,Colorado,0,,cclf
+10072,male,1933-11-23,white,,Arkansas,0,,cclf
+10073,female,1953-03-14,other,,Colorado,0,,cclf
+10075,female,1940-11-07,white,,Colorado,0,,cclf
+1008,female,1951-04-29,white,,Maryland,0,,cclf
+10081,female,1940-02-23,white,,West Virginia,0,,cclf
+10085,male,1930-04-17,white,,Florida,1,2016-09-07,cclf
+1009,male,1932-09-13,white,,Hawaii,0,,cclf
+10093,female,1923-08-01,white,,Missouri,0,,cclf
+10106,female,1940-08-16,white,,Nebraska,0,,cclf
+1011,female,1952-05-20,unknown,,Hawaii,0,,cclf
+10113,male,1944-06-08,white,,Missouri,0,,cclf
+10114,female,1955-03-13,white,,Vermont,0,,cclf
+10125,female,1918-08-17,white,,Colorado,0,,cclf
+10126,female,1948-12-30,white,,Florida,0,,cclf
+10133,male,1949-06-04,white,,Kentucky,0,,cclf
+10134,male,1943-01-21,white,,Virgin Islands,0,,cclf
+10137,female,1944-03-10,white,,Africa,0,,cclf
+10139,female,1934-07-31,white,,Colorado,0,,cclf
+10144,female,1945-03-25,white,,Pennsylvania,0,,cclf
+10159,male,1921-11-14,white,,Rhode Island,0,,cclf
+10163,male,1944-12-25,white,,Hawaii,0,,cclf
+10167,male,1922-11-16,white,,Utah,0,,cclf
+10174,male,1954-04-13,white,,Louisiana,0,,cclf
+10177,male,1949-02-21,black,,Alabama,0,,cclf
+10178,female,1943-11-06,white,,Oklahoma,0,,cclf
+1018,male,1959-06-07,white,,Virgin Islands,0,,cclf
+10186,female,1963-06-25,black,,Virgin Islands,0,,cclf
+10187,male,1937-02-13,white,,Minnesota,0,,cclf
+1020,male,1950-07-12,white,,Oklahoma,0,,cclf
+10200,male,1931-04-20,white,,District of Columbia,0,,cclf
+10202,female,1973-06-26,unknown,,California,1,,cclf
+10203,female,1949-07-05,white,,Colorado,0,,cclf
+11857,female,1950-08-12,white,,West Virginia,0,,cclf
+11858,female,1965-10-20,white,,Arkansas,0,,cclf
+1186,female,1930-06-26,white,,Puerto Rico,0,,cclf
+11862,female,1939-09-04,white,,Nebraska,0,,cclf
+11864,female,1950-09-17,white,,Arkansas,0,,cclf
+11867,female,1946-07-03,asian,,Colorado,0,,cclf
+11873,female,1948-03-21,white,,South Carolina,0,,cclf
+11875,male,1951-03-25,white,,Vermont,0,,cclf
+11876,female,1953-07-12,hispanic,,Colorado,1,,cclf
+1188,female,1948-02-03,hispanic,,Colorado,0,,cclf
+11880,female,1950-04-14,white,,Virgin Islands,0,,cclf
+11883,male,1947-03-09,white,,New Jersey,0,,cclf
+11887,female,1947-03-31,white,,Kentucky,0,,cclf
+1189,female,1947-07-13,white,,West Virginia,0,,cclf
+11890,male,1946-12-17,white,,Ohio,0,,cclf
+11893,female,1931-04-02,white,,Kansas,0,,cclf
+1190,male,1943-11-18,white,,Kansas,0,,cclf
+11906,female,1939-12-08,white,,Kentucky,1,2018-12-17,cclf
+11907,female,1950-12-19,white,,Hawaii,0,,cclf
+11908,female,1952-08-31,white,,South Carolina,0,,cclf
+1191,male,1980-12-24,hispanic,,Ohio,0,,cclf
+11912,male,1949-07-17,white,,West Virginia,0,,cclf
+11917,female,1950-08-09,white,,Missouri,0,,cclf
+11918,female,1931-03-10,white,,Colorado,0,,cclf
+11919,female,1927-10-14,white,,Hawaii,0,,cclf
+1192,female,1935-06-29,white,,Missouri,0,,cclf
+11921,male,1947-01-15,white,,Pennsylvania,0,,cclf
+11923,female,1947-01-05,white,,Alabama,0,,cclf
+11924,female,1931-08-01,white,,Puerto Rico,0,,cclf
+11929,female,1952-02-18,white,,Maryland,0,,cclf
+1193,male,1949-04-07,white,,Colorado,0,,cclf
+11934,female,1936-11-05,white,,Louisiana,0,,cclf
+11935,female,1975-01-25,white,,Virgin Islands,0,,cclf
+11936,female,1959-11-10,unknown,,South Carolina,1,,cclf
+11937,female,1945-05-17,black,,Pennsylvania,0,,cclf
+11938,female,1944-07-14,white,,Vermont,0,,cclf
+11940,male,1948-02-09,white,,Hawaii,0,,cclf
+11942,female,1947-01-18,other,,Colorado,0,,cclf
+11953,female,1924-09-03,white,,Hawaii,0,,cclf
+11956,female,1939-12-16,asian,,Colorado,0,,cclf
+11962,female,1961-11-07,white,,Mississippi,0,,cclf
+11965,female,1942-11-23,white,,Puerto Rico,0,,cclf
+11973,female,1939-05-20,white,,Nebraska,0,,cclf
+11977,female,1940-10-06,white,,Hawaii,0,,cclf
+1198,female,1931-03-23,white,,Pennsylvania,0,,cclf
+11982,male,1953-01-05,white,,West Virginia,0,,cclf
+11985,female,1946-07-16,white,,West Virginia,0,,cclf
+11990,female,1931-07-17,white,,North Carolina,0,,cclf
+11992,female,1929-03-27,white,,Missouri,1,2017-08-21,cclf
+11995,male,1941-02-16,white,,Colorado,0,,cclf
+12,female,1952-05-18,white,,California,0,,cclf
+120,male,1931-08-24,white,,California,0,,cclf
+12006,male,1927-08-21,north american native,,Mississippi,1,,cclf
+12009,male,1938-05-07,white,,Virgin Islands,0,,cclf
+12015,male,1926-07-30,other,,Oregon,0,,cclf
+12019,male,1970-09-26,white,,Kansas,0,,cclf
+1202,male,1960-04-12,white,,Missouri,0,,cclf
+12020,female,1936-11-14,asian,,Colorado,0,,cclf
+12029,female,1935-05-02,white,,Delaware,0,,cclf
+12030,male,1964-12-01,black,,Kansas,0,,cclf
+12031,male,1928-10-04,white,,North Carolina,0,,cclf
+12038,male,1940-07-17,white,,Oklahoma,0,,cclf
+12041,male,1953-06-21,black,,Ohio,0,,cclf
+12047,female,1925-10-26,white,,Pennsylvania,0,,cclf
+12050,female,1949-10-14,white,,Tennessee,0,,cclf
+12052,female,1949-06-25,white,,Colorado,0,,cclf
+12053,male,1951-06-15,white,,Vermont,0,,cclf
+12054,male,1948-01-24,white,,Arkansas,0,,cclf
+12056,male,1943-12-25,white,,Idaho,0,,cclf
+12058,female,1951-11-22,white,,Pennsylvania,0,,cclf
+1206,male,1947-10-16,black,,Missouri,0,,cclf
+12063,male,1955-04-19,white,,Missouri,0,,cclf
+12064,male,1945-02-03,white,,Hawaii,0,,cclf
+12068,male,1946-01-24,white,,New York,0,,cclf
+12072,female,1932-09-06,white,,Oklahoma,0,,cclf
+12076,female,1923-06-30,white,,Kansas,1,,cclf
+1208,female,1944-12-25,unknown,,Colorado,0,,cclf
+12083,female,1920-10-26,white,,Virgin Islands,0,,cclf
+12084,female,1946-09-16,black,,Pennsylvania,1,2017-05-30,cclf
+12086,male,1948-03-08,white,,New Jersey,0,,cclf
+12087,male,1949-04-29,unknown,,Missouri,0,,cclf
+1209,male,1946-08-24,white,,New Mexico,0,,cclf
+12090,female,1948-09-22,white,,Montana,0,,cclf
+12093,female,1958-01-29,hispanic,,Virgin Islands,0,,cclf
+12094,male,1933-05-28,black,,Minnesota,0,,cclf
+12099,female,1954-03-26,white,,Colorado,0,,cclf
+121,female,1929-06-28,white,,Vermont,0,,cclf
+12100,female,1943-08-11,black,,Nebraska,0,,cclf
+12102,male,1934-12-12,white,,Missouri,0,,cclf
+12110,male,1936-02-12,other,,Colorado,0,,cclf
+12114,male,1946-07-31,white,,Ohio,0,,cclf
+12118,female,1949-01-18,black,,Kansas,0,,cclf
+12124,male,1933-03-23,white,,Ohio,0,,cclf
+12127,male,1934-10-31,white,,Hawaii,0,,cclf
+12132,female,1943-02-05,white,,South Carolina,0,,cclf
+11486,female,1984-12-04,white,,Colorado,0,,cclf
+11487,female,1934-05-07,white,,Ohio,0,,cclf
+1149,female,1926-08-24,white,,Pennsylvania,0,,cclf
+11496,female,1931-05-22,white,,Pennsylvania,0,,cclf
+115,female,1947-01-23,white,,Colorado,0,,cclf
+11505,female,1932-08-12,white,,Virgin Islands,0,,cclf
+11507,male,1943-07-16,black,,Virgin Islands,0,,cclf
+11512,female,1953-01-27,hispanic,,Virgin Islands,1,,cclf
+11514,male,1952-03-17,white,,Kansas,0,,cclf
+11517,female,1952-02-07,white,,Pennsylvania,0,,cclf
+11520,female,1944-05-19,white,,Colorado,0,,cclf
+11524,female,1947-02-08,asian,,Colorado,0,,cclf
+11526,male,1936-01-09,white,,Colorado,0,,cclf
+11528,female,1953-12-18,white,,Virgin Islands,0,,cclf
+1153,female,1946-03-21,white,,Wyoming,0,,cclf
+11531,female,1949-08-05,white,,Florida,0,,cclf
+11534,female,1948-09-13,white,,Hawaii,0,,cclf
+11537,female,1927-08-04,white,,West Virginia,0,,cclf
+11540,female,1952-03-08,white,,New Jersey,0,,cclf
+11543,male,1940-06-18,white,,Rhode Island,0,,cclf
+11556,female,1955-02-04,asian,,Ohio,0,,cclf
+11561,female,1940-06-30,white,,Montana,0,,cclf
+11573,female,1923-12-07,hispanic,,Virgin Islands,0,,cclf
+11577,female,1957-06-23,unknown,,Colorado,0,,cclf
+11583,male,1944-03-10,white,,Colorado,0,,cclf
+11584,female,1949-06-02,white,,Texas,0,,cclf
+11591,male,1954-06-15,black,,Minnesota,0,,cclf
+11593,male,1965-06-24,white,,Minnesota,0,,cclf
+11594,female,1931-12-07,white,,South Carolina,0,,cclf
+1160,female,1957-09-13,black,,Colorado,0,,cclf
+11600,female,1947-08-19,white,,Kansas,0,,cclf
+11603,male,1939-12-10,white,,North Dakota,0,,cclf
+11605,male,1938-05-16,hispanic,,Colorado,0,,cclf
+11606,female,1957-08-21,black,,Kansas,0,,cclf
+1161,female,1950-06-11,white,,Wyoming,0,,cclf
+11610,male,1946-04-28,white,,California,0,,cclf
+11612,female,1941-06-09,white,,South Carolina,0,,cclf
+11617,female,1975-01-08,white,,California,0,,cclf
+11631,male,1951-04-29,white,,North Carolina,0,,cclf
+11636,male,1950-12-11,white,,Colorado,0,,cclf
+11637,female,1933-09-26,white,,Puerto Rico,0,,cclf
+11642,female,1953-04-06,white,,Minnesota,0,,cclf
+11649,female,1930-01-14,black,,Ohio,0,,cclf
+11651,male,1938-03-01,white,,Missouri,0,,cclf
+11652,male,1953-01-15,white,,Montana,0,,cclf
+11654,male,1977-11-08,white,,South Carolina,0,,cclf
+11655,male,1948-08-03,white,,Ohio,0,,cclf
+11661,female,1953-09-25,white,,Mississippi,0,,cclf
+11662,female,1952-10-28,white,,Virgin Islands,0,,cclf
+11663,male,1955-05-24,black,,Minnesota,0,,cclf
+11670,male,1948-02-11,white,,Oklahoma,0,,cclf
+11672,female,1947-06-19,white,,Virgin Islands,0,,cclf
+11675,female,1936-02-06,white,,Idaho,0,,cclf
+11678,female,1973-06-25,white,,North Carolina,0,,cclf
+11680,female,1947-09-12,white,,Florida,0,,cclf
+11682,female,1943-07-09,white,,Colorado,0,,cclf
+11686,female,1958-02-17,hispanic,,California,0,,cclf
+11689,female,1950-12-04,black,,Massachusetts,0,,cclf
+117,female,1949-05-02,white,,Pennsylvania,0,,cclf
+11704,female,1944-10-28,white,,Virginia,1,2018-03-25,cclf
+11713,female,1945-08-21,white,,California,0,,cclf
+11715,female,1956-02-05,white,,Montana,0,,cclf
+11719,female,1949-01-08,hispanic,,Colorado,1,,cclf
+11720,male,1951-08-13,white,,Kansas,0,,cclf
+11721,female,1950-05-27,white,,Kentucky,0,,cclf
+11724,female,1948-10-28,white,,South Carolina,0,,cclf
+11732,female,1949-09-17,white,,West Virginia,0,,cclf
+11733,male,1956-07-01,white,,Kentucky,0,,cclf
+11736,female,1926-05-18,white,,Virgin Islands,0,,cclf
+11741,female,1944-12-16,white,,Maryland,0,,cclf
+11745,male,1933-10-23,white,,West Virginia,0,,cclf
+11748,female,1941-12-03,white,,Hawaii,0,,cclf
+11755,female,1950-04-27,white,,North Carolina,0,,cclf
+11757,male,1957-11-02,black,,Kentucky,0,,cclf
+11758,female,1948-06-17,black,,Mississippi,0,,cclf
+11759,male,1952-05-12,white,,Minnesota,0,,cclf
+1177,male,1948-09-07,white,,Wyoming,0,,cclf
+11770,female,1949-07-19,white,,Wyoming,0,,cclf
+11774,male,1939-12-04,white,,Hawaii,0,,cclf
+11788,male,1961-11-01,white,,Colorado,0,,cclf
+11789,female,1957-07-06,black,,Kansas,0,,cclf
+11791,male,1951-06-01,white,,Hawaii,1,2017-08-17,cclf
+11794,male,1946-05-29,white,,Massachusetts,0,,cclf
+11798,female,1937-05-09,white,,Virgin Islands,0,,cclf
+1180,male,1951-10-31,white,,Texas,0,,cclf
+11802,female,1941-11-21,white,,Hawaii,0,,cclf
+11810,male,1948-01-10,black,,Nevada,0,,cclf
+11811,female,1935-09-11,black,,Idaho,0,,cclf
+11816,female,1948-10-30,white,,California,0,,cclf
+11817,female,1937-11-28,white,,Vermont,0,,cclf
+11820,female,1952-01-07,white,,Maryland,0,,cclf
+1183,male,1974-12-06,white,,Virgin Islands,0,,cclf
+11830,female,1943-04-10,white,,Vermont,0,,cclf
+11833,male,1948-10-27,white,,Louisiana,0,,cclf
+12549,female,1933-10-09,white,,Pennsylvania,0,,cclf
+1255,male,1952-05-20,black,,Ohio,0,,cclf
+12557,male,1946-11-11,white,,Missouri,0,,cclf
+12559,female,1944-12-22,white,,Colorado,0,,cclf
+12566,male,1938-12-25,white,,Rhode Island,0,,cclf
+12569,female,1950-06-12,white,,North Dakota,0,,cclf
+12572,female,1945-01-08,white,,Nevada,0,,cclf
+12573,male,1949-01-27,white,,Hawaii,0,,cclf
+12579,female,1961-09-16,hispanic,,Colorado,0,,cclf
+12583,female,1947-11-06,white,,Pennsylvania,0,,cclf
+12585,male,1948-04-16,white,,Arkansas,0,,cclf
+12586,female,1938-11-04,white,,Kansas,0,,cclf
+12589,male,1939-02-20,white,,Ohio,0,,cclf
+1259,male,1951-08-29,white,,Montana,0,,cclf
+12591,female,1986-09-09,white,,Colorado,0,,cclf
+12594,female,1949-01-23,white,,Rhode Island,0,,cclf
+12596,female,1926-06-01,white,,Pennsylvania,0,,cclf
+12598,female,1947-05-19,white,,Pennsylvania,0,,cclf
+126,male,1956-08-24,white,,Texas,0,,cclf
+12601,female,1935-11-21,white,,North Carolina,0,,cclf
+12602,female,1936-09-23,white,,District of Columbia,0,,cclf
+12604,female,1961-06-12,white,,Missouri,0,,cclf
+12609,female,1951-06-11,white,,North Carolina,0,,cclf
+1261,female,1934-06-19,white,,Hawaii,1,2018-06-25,cclf
+1262,male,1948-07-25,white,,Idaho,0,,cclf
+12620,female,1936-04-20,white,,West Virginia,0,,cclf
+12621,female,1950-01-03,white,,Kansas,0,,cclf
+12626,female,1936-07-15,white,,Hawaii,0,,cclf
+12628,male,1938-07-26,white,,North Carolina,0,,cclf
+12630,female,1988-12-28,black,,Nebraska,0,,cclf
+12634,female,1925-01-09,white,,North Carolina,0,,cclf
+12637,male,1950-01-22,white,,South Carolina,0,,cclf
+12639,female,1949-06-12,white,,Hawaii,0,,cclf
+1264,male,1945-05-05,white,,Idaho,0,,cclf
+12640,female,1949-12-08,asian,,Ohio,0,,cclf
+12646,male,1943-11-14,white,,Minnesota,1,2018-05-23,cclf
+12649,male,1955-10-05,black,,Nevada,0,,cclf
+12652,female,1950-11-18,white,,Vermont,0,,cclf
+12663,male,1944-05-29,white,,Pennsylvania,0,,cclf
+12664,female,1953-03-23,white,,Alabama,0,,cclf
+12668,female,1943-12-17,white,,Pennsylvania,0,,cclf
+12670,female,1947-10-17,black,,Oklahoma,0,,cclf
+12678,male,1958-03-26,white,,Washington,0,,cclf
+12683,female,1951-06-19,white,,Pennsylvania,0,,cclf
+12684,female,1948-05-11,white,,Pennsylvania,0,,cclf
+12686,male,1956-06-21,white,,Mississippi,0,,cclf
+12687,male,1950-09-20,white,,Colorado,0,,cclf
+1269,female,1939-10-29,white,,Wyoming,0,,cclf
+12692,male,1950-07-26,other,,Ohio,0,,cclf
+12693,female,1940-03-01,white,,Oklahoma,0,,cclf
+12697,female,1939-02-19,white,,South Carolina,0,,cclf
+12704,female,1979-12-17,white,,Canada & Islands,0,,cclf
+12710,female,1940-08-09,white,,West Virginia,0,,cclf
+12713,female,1947-07-19,white,,Delaware,0,,cclf
+12714,female,1941-10-21,black,,Colorado,0,,cclf
+12715,female,1954-03-22,white,,California,0,,cclf
+12717,female,1952-04-10,white,,Colorado,0,,cclf
+12718,male,1951-02-23,white,,South Carolina,0,,cclf
+12720,female,1950-12-23,black,,West Virginia,0,,cclf
+12723,female,1936-06-05,white,,Idaho,0,,cclf
+12728,female,1945-10-11,black,,Kansas,0,,cclf
+12730,female,1947-09-04,white,,Montana,0,,cclf
+12742,male,1942-07-07,white,,Hawaii,0,,cclf
+12743,female,1947-07-13,white,,Rhode Island,0,,cclf
+12745,male,1931-04-02,white,,Missouri,0,,cclf
+12752,female,1959-03-06,white,,Kentucky,0,,cclf
+12755,female,1954-12-07,asian,,Colorado,0,,cclf
+12759,male,1946-05-12,white,,Missouri,0,,cclf
+12761,female,1948-03-18,asian,,Colorado,0,,cclf
+12772,female,1947-07-01,white,,Virgin Islands,0,,cclf
+12779,female,1953-09-17,other,,Wyoming,0,,cclf
+12784,male,1944-08-13,white,,Louisiana,0,,cclf
+12785,female,1981-01-01,asian,,Colorado,1,,cclf
+12795,female,1953-08-25,black,,Minnesota,0,,cclf
+12796,female,1953-12-16,white,,North Carolina,0,,cclf
+12798,male,1945-09-28,white,,South Carolina,0,,cclf
+1280,male,1969-11-22,white,,Puerto Rico,0,,cclf
+12812,female,1955-06-01,white,,Ohio,0,,cclf
+12815,male,1927-02-18,white,,Kentucky,0,,cclf
+12822,male,1935-04-10,white,,Iowa,0,,cclf
+12834,male,1951-05-01,white,,Montana,0,,cclf
+12837,female,1936-01-27,white,,Hawaii,0,,cclf
+12838,female,1929-07-15,white,,South Carolina,0,,cclf
+12841,female,1953-06-17,hispanic,,Virgin Islands,0,,cclf
+12844,male,1937-04-30,white,,Missouri,0,,cclf
+12846,female,1944-01-14,white,,Missouri,0,,cclf
+12856,female,1944-02-18,white,,Pennsylvania,0,,cclf
+12867,female,1980-09-27,white,,Nebraska,0,,cclf
+12868,male,1928-09-29,white,,Virgin Islands,1,2018-02-03,cclf
+1287,male,1958-06-14,black,,Colorado,0,,cclf
+12875,female,1937-12-04,white,,South Carolina,0,,cclf
+12876,female,1929-05-26,white,,Alabama,0,,cclf
+12878,female,1952-09-14,white,,Puerto Rico,0,,cclf
+12883,male,1952-04-13,white,,Minnesota,0,,cclf
+12886,female,1943-12-20,white,,North Carolina,0,,cclf
+12139,male,1942-08-22,white,,Kansas,0,,cclf
+12140,male,1930-05-19,white,,Hawaii,0,,cclf
+12142,female,1926-08-07,white,,Kansas,0,,cclf
+12145,male,1939-05-26,hispanic,,Hawaii,0,,cclf
+12152,female,1930-07-17,white,,California,0,,cclf
+12154,female,1939-03-03,white,,Wyoming,0,,cclf
+12157,male,1943-03-21,white,,Colorado,0,,cclf
+12159,male,1935-08-07,white,,South Carolina,0,,cclf
+12160,male,1966-03-16,white,,Rhode Island,0,,cclf
+12161,female,1940-10-31,white,,Mississippi,0,,cclf
+12164,male,1957-01-20,black,,Ohio,0,,cclf
+12167,female,1948-09-27,asian,,Pennsylvania,0,,cclf
+12174,male,1953-03-13,white,,Virgin Islands,0,,cclf
+12176,male,1943-07-21,white,,Mississippi,0,,cclf
+12182,female,1937-01-31,white,,Kansas,0,,cclf
+12183,male,1951-04-15,white,,South Carolina,0,,cclf
+12194,female,1944-08-22,white,,Hawaii,0,,cclf
+12196,female,1935-11-29,white,,Pennsylvania,0,,cclf
+12198,female,1930-02-27,asian,,Ohio,0,,cclf
+12201,female,1943-04-25,white,,Kansas,0,,cclf
+12208,female,1940-12-25,white,,Nevada,0,,cclf
+12211,female,1952-09-08,white,,Virgin Islands,0,,cclf
+12212,male,1961-03-26,white,,Mississippi,0,,cclf
+12215,female,1938-03-28,white,,Mississippi,0,,cclf
+12221,male,1951-03-20,white,,Vermont,0,,cclf
+12230,male,1938-12-13,white,,Kentucky,1,2018-12-06,cclf
+12246,female,1962-07-08,white,,Maryland,0,,cclf
+12247,female,1936-09-25,asian,,Colorado,0,,cclf
+1225,female,1946-11-23,white,,Virginia,0,,cclf
+12272,female,1937-11-30,hispanic,,Hawaii,1,,cclf
+12274,female,1946-03-07,white,,Arkansas,0,,cclf
+12276,male,1941-01-02,white,,Missouri,0,,cclf
+12277,male,1947-03-17,white,,Michigan,0,,cclf
+1228,female,1954-10-09,white,,Idaho,0,,cclf
+12282,male,1950-10-21,white,,Colorado,0,,cclf
+12284,male,1951-11-14,black,,Virgin Islands,0,,cclf
+12288,female,1929-07-27,white,,New York,0,,cclf
+12289,male,1959-09-12,white,,Vermont,0,,cclf
+123,male,1931-01-03,white,,Pennsylvania,0,,cclf
+12306,female,1943-05-11,white,,Ohio,0,,cclf
+12317,male,1963-12-14,black,,Wyoming,0,,cclf
+12320,female,1959-03-26,white,,New Mexico,0,,cclf
+12324,female,1934-02-01,other,,Montana,0,,cclf
+12325,female,1930-02-09,asian,,Colorado,0,,cclf
+12328,male,1946-01-11,white,,Missouri,0,,cclf
+12330,male,1939-02-20,asian,,Massachusetts,0,,cclf
+12337,female,1953-12-20,black,,South Carolina,0,,cclf
+12345,female,1947-01-28,black,,Oklahoma,0,,cclf
+12348,female,1936-07-30,black,,Mississippi,0,,cclf
+12349,female,1935-02-06,white,,Hawaii,0,,cclf
+12350,female,1948-09-21,white,,Colorado,0,,cclf
+12352,female,1938-08-23,white,,Mississippi,0,,cclf
+12356,female,1937-03-19,black,,Nebraska,0,,cclf
+12362,male,1943-01-19,white,,Pennsylvania,0,,cclf
+12363,female,1951-08-29,white,,Arkansas,0,,cclf
+12365,male,1938-12-06,white,,Iowa,0,,cclf
+12373,female,1959-10-17,white,,Montana,0,,cclf
+1238,male,1932-12-10,black,,North Carolina,0,,cclf
+12380,female,1931-04-29,black,,Oklahoma,1,,cclf
+12383,male,1945-10-05,white,,Virgin Islands,0,,cclf
+124,female,1944-09-19,white,,South Carolina,0,,cclf
+12403,male,1966-03-09,white,,Michigan,0,,cclf
+12409,male,1939-03-31,white,,Kentucky,0,,cclf
+12411,male,1937-10-16,white,,Puerto Rico,0,,cclf
+12412,female,1943-07-26,white,,Ohio (eff. 10/2005),1,2017-09-22,cclf
+12415,female,1947-04-13,white,,North Carolina,0,,cclf
+12419,male,1944-03-19,white,,Hawaii,0,,cclf
+1242,female,1935-12-01,white,,New Hampshire,0,,cclf
+12433,male,1934-02-28,white,,New Hampshire,0,,cclf
+12440,male,1949-04-28,white,,New Hampshire,0,,cclf
+12445,female,1945-07-25,white,,Colorado,0,,cclf
+12449,female,1943-09-04,white,,Louisiana,0,,cclf
+12454,male,1977-10-31,black,,Hawaii,0,,cclf
+12455,female,1963-02-24,white,,New Jersey,0,,cclf
+12458,female,1952-01-12,white,,Pennsylvania,0,,cclf
+12461,male,1929-09-27,white,,Oklahoma,0,,cclf
+12467,male,1950-06-09,white,,Oklahoma,0,,cclf
+12473,male,1933-02-21,white,,Virgin Islands,0,,cclf
+12484,female,1948-11-23,white,,District of Columbia,0,,cclf
+12489,female,1951-12-13,white,,Colorado,0,,cclf
+12493,male,1949-12-05,white,,South Carolina,0,,cclf
+12500,female,1950-02-19,white,,Kansas,0,,cclf
+12505,male,1939-06-30,white,,Colorado,0,,cclf
+12506,male,1940-03-11,white,,Africa,0,,cclf
+1251,female,1962-06-22,white,,Nevada,0,,cclf
+12513,male,1933-02-23,white,,Hawaii,0,,cclf
+12514,female,1943-09-27,white,,Hawaii,0,,cclf
+12516,male,1950-08-03,white,,Iowa,0,,cclf
+12519,female,1945-10-03,white,,Colorado,0,,cclf
+12520,female,1943-03-09,white,,Colorado,0,,cclf
+12526,female,1941-09-15,white,,Maryland,0,,cclf
+12527,male,1952-01-18,white,,Ohio,0,,cclf
+12528,female,1945-11-04,white,,Delaware,0,,cclf
+12530,female,1952-03-12,white,,Idaho,0,,cclf
+12531,female,1928-05-29,white,,District of Columbia,0,,cclf
+12541,male,1950-10-05,white,,Missouri,0,,cclf
+12542,male,1935-12-06,white,,Pennsylvania,0,,cclf
+12543,male,1954-03-21,white,,North Carolina,0,,cclf
+12544,male,1945-10-01,white,,Maryland,0,,cclf
+12547,male,1934-01-31,white,,Virgin Islands,0,,cclf
+1289,male,1949-10-19,white,,Hawaii,0,,cclf
+12891,female,1952-03-11,black,,Vermont,0,,cclf
+12893,female,1950-01-01,white,,Delaware,0,,cclf
+12895,male,1953-12-11,white,,Mississippi,0,,cclf
+12896,male,1940-12-02,white,,Nevada,0,,cclf
+11835,female,1948-01-30,black,,Georgia,1,,cclf
+11837,female,1953-08-29,black,,Ohio,0,,cclf
+11839,male,1972-04-01,black,,Hawaii,0,,cclf
+1184,male,1968-03-29,black,,Montana,0,,cclf
+11842,male,1933-03-02,white,,Ohio,0,,cclf
+11850,male,1960-04-01,hispanic,,Indiana,0,,cclf
+12133,male,1935-03-15,white,,Kentucky,0,,cclf
+12135,female,1927-09-08,white,,Arkansas,0,,cclf
+12136,female,1950-10-31,white,,Texas,0,,cclf
+12137,male,1936-12-27,white,,Colorado,0,,cclf
+12138,female,1938-03-06,white,,Mississippi,0,,cclf
+12901,female,1946-11-09,white,,Rhode Island,0,,cclf
+12904,female,1930-03-07,white,,Massachusetts,0,,cclf
+12909,female,1953-07-28,asian,,Colorado,0,,cclf
+12910,female,1945-03-22,white,,Arkansas,0,,cclf
+12913,male,1953-08-22,white,,Hawaii,0,,cclf
+12918,male,1934-03-04,white,,Virgin Islands,0,,cclf
+1292,male,1937-02-25,white,,Oklahoma,0,,cclf
+12922,male,1952-12-01,white,,Minnesota,0,,cclf
+12923,male,1942-04-18,white,,South Carolina,0,,cclf
+12925,male,1947-04-19,white,,South Carolina,0,,cclf
+12926,female,1943-10-14,white,,Kentucky,0,,cclf
+12928,male,1940-09-10,black,,Massachusetts,0,,cclf
+12935,female,1938-05-30,white,,Kansas,0,,cclf
+12936,female,1964-12-21,white,,Hawaii,0,,cclf
+12938,male,1950-07-19,other,,District of Columbia,0,,cclf
+12941,female,1971-06-09,white,,Michigan,0,,cclf
+12947,female,1928-05-20,white,,South Carolina,0,,cclf
+12949,male,1952-09-18,white,,Utah,0,,cclf
+12955,female,1954-05-13,black,,North Carolina,0,,cclf
+12959,female,1951-12-15,white,,Colorado,0,,cclf
+1296,female,1946-08-22,white,,Vermont,0,,cclf
+12961,female,1928-10-05,white,,Mississippi,0,,cclf
+12964,male,1944-08-19,white,,Pennsylvania,0,,cclf
+1297,male,1951-09-24,black,,Georgia,0,,cclf
+12978,male,1932-01-12,white,,Pennsylvania,0,,cclf
+1298,male,1949-05-30,white,,Texas,0,,cclf
+12980,female,1970-12-01,white,,Wyoming,0,,cclf
+12984,male,1938-06-23,white,,Mississippi,0,,cclf
+12990,male,1948-11-24,white,,New Hampshire,0,,cclf
+12991,female,1947-12-21,black,,Vermont,0,,cclf
+12993,female,1939-11-14,white,,Missouri,0,,cclf
+12995,male,1964-05-05,black,,Florida,1,2018-10-07,cclf
+13,female,1944-01-13,white,,Missouri,0,,cclf
+13001,male,1953-09-15,white,,Virgin Islands,0,,cclf
+13003,male,1948-01-22,unknown,,West Virginia,0,,cclf
+13004,male,1966-04-30,hispanic,,Virgin Islands,0,,cclf
+13013,male,1947-10-01,white,,Minnesota,0,,cclf
+13023,male,1933-03-07,white,,Mississippi,0,,cclf
+13031,female,1949-11-24,white,,Virgin Islands,0,,cclf
+13038,male,1954-01-25,white,,New Jersey,0,,cclf
+13042,male,1942-08-14,white,,South Carolina,0,,cclf
+13043,male,1949-01-14,white,,Arkansas,0,,cclf
+13045,male,1951-04-18,white,,Colorado,0,,cclf
+1305,male,1939-04-24,white,,Ohio,0,,cclf
+13052,female,1983-12-21,hispanic,,Colorado,0,,cclf
+13055,female,1975-10-26,white,,Pennsylvania,0,,cclf
+13057,female,1938-09-15,white,,Kentucky,0,,cclf
+1306,female,1945-04-18,white,,Kentucky,0,,cclf
+13060,male,1937-09-21,white,,Pennsylvania,0,,cclf
+13063,female,1953-05-08,white,,Vermont,0,,cclf
+13068,female,1962-05-15,hispanic,,Wyoming,0,,cclf
+13071,male,1923-11-20,white,,Ohio (eff. 10/2005),0,,cclf
+13074,female,1967-11-10,black,,South Carolina,0,,cclf
+13076,male,1946-12-16,unknown,,District of Columbia,0,,cclf
+13079,female,1953-09-17,white,,Maine,0,,cclf
+13081,male,1938-09-19,white,,Missouri,0,,cclf
+13082,female,1951-09-23,white,,Michigan,0,,cclf
+13084,female,1931-03-01,white,,Colorado,0,,cclf
+13087,female,1950-03-13,black,,West Virginia,0,,cclf
+13088,female,1943-12-03,white,,California,0,,cclf
+13089,male,1956-02-17,white,,Ohio,0,,cclf
+13090,male,1960-05-08,black,,Maryland,0,,cclf
+13091,female,1946-01-16,asian,,Colorado,0,,cclf
+13094,male,1959-03-01,white,,Tennessee,0,,cclf
+13096,male,1956-11-15,black,,Idaho,0,,cclf
+13102,female,1948-10-30,black,,Nebraska,0,,cclf
+13103,female,1935-06-10,black,,New Mexico,0,,cclf
+13106,female,1952-02-21,black,,Hawaii,0,,cclf
+1311,female,1944-05-30,white,,Massachusetts,0,,cclf
+13113,male,1946-02-17,white,,Kansas,0,,cclf
+13115,male,1951-08-19,unknown,,New Jersey,0,,cclf
+13121,male,1945-12-28,white,,Canada & Islands,0,,cclf
+13125,female,1945-05-15,white,,Pennsylvania,0,,cclf
+13129,female,1926-08-12,white,,South Carolina,0,,cclf
+13137,male,1963-01-06,white,,North Carolina,0,,cclf
+13139,male,1957-10-24,black,,Montana,0,,cclf
+1314,male,1960-03-11,white,,Georgia,0,,cclf
+13140,male,1943-09-23,black,,Kansas,0,,cclf
+13141,male,1951-06-24,white,,Maryland,0,,cclf
+13143,female,1930-02-04,white,,Texas,0,,cclf
+13145,male,1950-10-31,white,,Colorado,0,,cclf
+13148,female,1942-02-08,white,,Montana,0,,cclf
+13157,female,1953-07-08,white,,Missouri,0,,cclf
+13159,male,1941-09-10,unknown,,New Mexico,0,,cclf
+13160,female,1958-08-16,white,,Michigan,0,,cclf
+13162,male,1964-01-15,other,,Ohio,0,,cclf
+13165,female,1952-05-18,hispanic,,Ohio,0,,cclf
+13167,male,1921-10-21,white,,South Carolina,0,,cclf
+13168,female,1938-05-26,white,,Africa,1,2018-01-19,cclf
+13172,male,1973-02-07,white,,Texas,0,,cclf
+13175,female,1938-06-22,white,,South Carolina,0,,cclf
+13178,female,1944-04-28,white,,Hawaii,0,,cclf
+13180,female,1951-08-05,white,,Arkansas,0,,cclf
+13184,male,1942-08-07,white,,Puerto Rico,0,,cclf
+13187,male,1952-10-06,white,,Hawaii,0,,cclf
+13189,male,1965-07-07,asian,,Ohio,0,,cclf
+1319,female,1944-02-10,white,,Arkansas,0,,cclf
+13191,female,1948-09-17,white,,North Carolina,0,,cclf
+13197,female,1932-02-14,white,,Hawaii,0,,cclf
+132,female,1952-05-07,white,,Virgin Islands,0,,cclf
+10208,female,1944-03-14,white,,Washington,0,,cclf
+10210,female,1950-05-07,white,,Idaho,0,,cclf
+10211,female,1939-11-25,asian,,Colorado,0,,cclf
+10223,male,1950-10-22,hispanic,,North Dakota,0,,cclf
+10226,male,1951-02-27,white,,Ohio,0,,cclf
+11091,female,1948-08-07,white,,Missouri,0,,cclf
+11093,female,1934-09-07,white,,Missouri,0,,cclf
+11096,female,1940-12-29,hispanic,,With 000 county code is American Samoa; otherwise unknown,1,2016-09-30,cclf
+11098,female,1959-10-16,white,,Arkansas,0,,cclf
+11103,female,1939-07-09,white,,Rhode Island,0,,cclf
+11105,male,1941-10-26,white,,Missouri,0,,cclf
+11108,female,1936-04-13,white,,Virgin Islands,0,,cclf
+11116,female,1940-04-02,white,,Arkansas,0,,cclf
+11118,male,1952-04-15,white,,Africa,0,,cclf
+11121,male,1959-06-21,hispanic,,North Dakota,0,,cclf
+11130,female,1942-10-26,white,,Hawaii,0,,cclf
+11134,female,1932-07-01,white,,Missouri,0,,cclf
+11144,female,1941-10-18,white,,Colorado,0,,cclf
+11155,female,1977-03-03,white,,Montana,0,,cclf
+11156,female,1950-02-08,white,,Puerto Rico,0,,cclf
+11165,female,1973-07-13,black,,Minnesota,0,,cclf
+11169,male,1963-08-28,white,,Puerto Rico,0,,cclf
+11170,female,1934-11-06,white,,Arkansas,0,,cclf
+11174,female,1932-01-05,hispanic,,Colorado,0,,cclf
+11177,male,1935-10-05,white,,Missouri,0,,cclf
+11179,female,1946-12-20,black,,Virgin Islands,0,,cclf
+11181,female,1951-03-05,black,,Virgin Islands,0,,cclf
+11186,male,1953-12-30,white,,Arkansas,0,,cclf
+11199,female,1956-06-26,white,,Oklahoma,0,,cclf
+11200,female,1927-03-29,white,,Mississippi,0,,cclf
+11202,female,1947-10-27,white,,Utah,0,,cclf
+11218,female,1954-04-16,asian,,Ohio,0,,cclf
+11219,female,1942-11-03,white,,Hawaii,0,,cclf
+11221,female,1936-03-18,white,,Ohio,0,,cclf
+11225,female,1934-04-20,white,,Africa,0,,cclf
+1123,female,1939-01-02,white,,West Virginia,0,,cclf
+11231,male,1937-07-25,white,,Mississippi,1,2017-11-17,cclf
+11232,female,1930-08-05,white,,North Carolina,0,,cclf
+11236,female,1948-07-12,black,,Virgin Islands,0,,cclf
+11242,female,1937-08-24,white,,Kentucky,0,,cclf
+11245,female,1967-12-26,white,,Kentucky,0,,cclf
+11247,male,1945-12-30,white,,Hawaii,0,,cclf
+1125,male,1949-11-19,black,,South Carolina,0,,cclf
+11251,female,1963-10-08,white,,Maryland,0,,cclf
+11262,female,1953-05-08,white,,West Virginia,0,,cclf
+11265,female,1948-12-17,white,,Louisiana,0,,cclf
+11266,female,1942-03-27,white,,Ohio,0,,cclf
+11270,male,1928-05-21,white,,Pennsylvania,0,,cclf
+11286,male,1951-11-22,white,,Florida,0,,cclf
+11288,male,1949-03-05,white,,Colorado,0,,cclf
+1129,female,1945-12-10,white,,Pennsylvania,0,,cclf
+11295,male,1972-07-09,white,,Maine,0,,cclf
+11298,female,1946-06-30,white,,South Carolina,0,,cclf
+11303,female,1943-12-09,asian,,Colorado,0,,cclf
+11305,female,1943-12-05,white,,Pennsylvania,0,,cclf
+11306,female,1936-08-21,white,,California,1,2018-10-16,cclf
+11308,male,1939-03-25,black,,Oklahoma,0,,cclf
+1131,female,1927-06-23,white,,Colorado,0,,cclf
+11312,male,1939-11-29,white,,Hawaii,0,,cclf
+11314,female,1960-07-16,white,,Hawaii,0,,cclf
+11318,female,1951-08-31,black,,Virgin Islands,0,,cclf
+11334,female,1925-09-05,black,,Ohio,1,2018-12-17,cclf
+11338,female,1945-02-17,white,,Iowa,0,,cclf
+11341,female,1927-09-19,white,,Wyoming,0,,cclf
+11342,female,1948-04-03,white,,California,0,,cclf
+11347,male,1940-06-02,white,,Missouri,0,,cclf
+1135,male,1952-10-23,white,,Alabama,0,,cclf
+11357,female,1951-10-10,white,,Hawaii,0,,cclf
+11363,male,1984-01-09,white,,Vermont,0,,cclf
+11368,female,1968-10-29,white,,North Carolina,0,,cclf
+11369,male,1951-07-10,white,,Texas,0,,cclf
+11370,female,1944-10-30,white,,Pennsylvania,0,,cclf
+11374,female,1937-09-28,white,,South Carolina,0,,cclf
+11383,female,1940-07-01,black,,Minnesota,0,,cclf
+11388,male,1938-02-17,white,,Colorado,0,,cclf
+11391,female,1941-11-22,white,,Idaho,0,,cclf
+11395,female,1944-05-11,white,,Colorado,1,2018-12-11,cclf
+1140,female,1951-11-14,white,,Pennsylvania,0,,cclf
+11403,female,1939-03-20,white,,South Carolina,0,,cclf
+11404,male,1949-04-13,black,,Montana,0,,cclf
+11408,female,1949-02-09,white,,Minnesota,0,,cclf
+11412,female,1940-05-23,white,,Missouri,0,,cclf
+11414,female,1945-07-07,white,,Nevada,0,,cclf
+11415,female,1951-07-02,white,,Colorado,0,,cclf
+11420,male,1928-03-26,white,,District of Columbia,0,,cclf
+11421,female,1922-03-23,white,,Vermont,0,,cclf
+11423,female,1940-09-07,white,,New Jersey,0,,cclf
+11425,female,1948-02-04,black,,Idaho,0,,cclf
+11428,female,1935-10-07,white,,Missouri,0,,cclf
+11429,male,1943-06-09,white,,Ohio (eff. 10/2005),0,,cclf
+1143,female,1960-09-30,black,,Virgin Islands,0,,cclf
+11433,female,1954-03-02,white,,Oklahoma,0,,cclf
+11438,female,1944-05-22,white,,Nevada,0,,cclf
+11440,male,1948-10-20,white,,Wyoming,0,,cclf
+11443,male,1969-08-21,white,,Virgin Islands,0,,cclf
+11445,female,1945-04-03,white,,Oklahoma,0,,cclf
+11446,female,1957-02-21,asian,,Hawaii,0,,cclf
+11450,male,1947-09-29,white,,Ohio,0,,cclf
+11451,female,1942-07-26,white,,Idaho,0,,cclf
+10718,female,1950-02-22,white,,Kansas,0,,cclf
+10725,male,1950-08-04,black,,Wyoming,0,,cclf
+10729,female,1946-04-28,white,,Colorado,0,,cclf
+10731,female,1947-03-24,white,,Colorado,0,,cclf
+10734,female,1950-04-16,white,,West Virginia,0,,cclf
+1074,female,1947-09-13,white,,Kansas,0,,cclf
+10740,male,1949-02-13,white,,Ohio,0,,cclf
+10750,male,1921-12-07,white,,Wyoming,0,,cclf
+10761,female,1949-05-25,asian,,Oklahoma,0,,cclf
+10763,male,1945-07-29,white,,Minnesota,0,,cclf
+10768,female,1948-04-07,white,,Vermont,0,,cclf
+1077,female,1950-02-27,white,,Pennsylvania,0,,cclf
+10773,female,1949-11-03,white,,Colorado,0,,cclf
+10774,female,1968-08-03,white,,Texas,0,,cclf
+10779,female,1926-08-29,white,,Texas,1,2018-11-20,cclf
+10788,male,1946-09-17,white,,South Carolina,0,,cclf
+1079,male,1950-06-15,white,,Hawaii,0,,cclf
+10791,female,1951-02-10,black,,Virgin Islands,0,,cclf
+10792,female,1928-10-22,hispanic,,Virgin Islands,0,,cclf
+10793,male,1948-11-22,white,,West Virginia,0,,cclf
+10796,female,1939-02-19,black,,Massachusetts,0,,cclf
+10798,male,1940-01-02,white,,New Jersey,0,,cclf
+10800,male,1956-01-01,unknown,,Hawaii,0,,cclf
+10803,male,1947-07-02,asian,,Hawaii,0,,cclf
+10805,female,1945-04-09,white,,Ohio,0,,cclf
+10808,female,1951-11-20,white,,Texas,0,,cclf
+10812,female,1955-03-04,hispanic,,Ohio,0,,cclf
+10814,female,1949-10-08,white,,Hawaii,0,,cclf
+10815,male,1951-11-02,white,,Texas,0,,cclf
+10825,female,1945-04-17,white,,Florida,0,,cclf
+10834,male,1963-06-24,black,,Mississippi,0,,cclf
+10837,female,1941-07-01,black,,Virgin Islands,0,,cclf
+10842,male,1963-06-27,white,,Pennsylvania,0,,cclf
+10846,female,1948-11-04,black,,Hawaii,0,,cclf
+10852,male,1949-07-13,white,,Nevada,1,2016-09-09,cclf
+10853,male,1953-06-20,white,,Texas,1,2018-08-17,cclf
+10857,female,1950-07-18,white,,New Mexico,0,,cclf
+1086,female,1921-11-23,white,,Colorado,0,,cclf
+10863,female,1949-02-21,white,,North Carolina,0,,cclf
+10864,female,1952-04-27,white,,Kansas,0,,cclf
+10867,male,1942-03-20,white,,Hawaii,0,,cclf
+10870,male,1952-08-08,white,,Virginia,0,,cclf
+10871,male,1924-02-14,white,,Nevada,0,,cclf
+10873,female,1945-04-08,white,,Virgin Islands,0,,cclf
+10875,male,1948-12-13,white,,Maryland,0,,cclf
+10878,male,1948-01-05,white,,Kansas,0,,cclf
+10879,female,1944-04-18,white,,District of Columbia,0,,cclf
+10880,female,1936-05-22,hispanic,,Colorado,0,,cclf
+10886,male,1948-08-04,white,,District of Columbia,0,,cclf
+10889,male,1945-10-29,white,,North Carolina,0,,cclf
+10893,male,1948-10-17,white,,Nebraska,0,,cclf
+10895,female,1948-04-03,white,,Texas,0,,cclf
+10897,male,1919-02-14,white,,Missouri,0,,cclf
+10898,female,1942-09-29,white,,Ohio,0,,cclf
+109,female,1944-01-13,white,,Virgin Islands,0,,cclf
+10902,male,1955-04-29,white,,Idaho,0,,cclf
+10904,male,1936-03-24,white,,Virgin Islands,0,,cclf
+10906,female,1941-06-16,white,,West Virginia,0,,cclf
+10920,female,1938-06-09,white,,Ohio,0,,cclf
+10930,male,1950-12-01,white,,Arkansas,0,,cclf
+10931,female,1952-02-18,white,,Idaho,0,,cclf
+10936,male,1945-07-30,white,,Florida,1,2017-04-02,cclf
+10938,female,1957-03-05,white,,Virgin Islands,0,,cclf
+10943,female,1944-02-13,white,,Colorado,0,,cclf
+10945,female,1931-02-21,white,,Arkansas,0,,cclf
+1095,female,1943-08-21,black,,Idaho,0,,cclf
+10956,female,1938-06-30,white,,Kansas,1,2018-12-24,cclf
+10958,female,1953-10-12,white,,Ohio,0,,cclf
+10961,female,1947-06-14,white,,Alabama,0,,cclf
+10965,female,1935-07-08,white,,Pennsylvania,0,,cclf
+10976,male,1951-02-05,white,,Pennsylvania,0,,cclf
+10977,female,1930-08-19,white,,Wyoming,0,,cclf
+10982,male,1953-10-25,black,,Kansas,0,,cclf
+10985,male,1938-11-17,white,,Michigan,0,,cclf
+10987,female,1958-07-05,white,,Kentucky,0,,cclf
+10998,male,1933-11-05,white,,Colorado,0,,cclf
+110,male,1935-09-11,white,,Ohio,0,,cclf
+1100,female,1967-01-03,black,,Pennsylvania,0,,cclf
+11000,male,1953-05-11,white,,Maine,0,,cclf
+11011,female,1950-05-30,black,,Virgin Islands,0,,cclf
+11012,female,1945-10-08,white,,West Virginia,0,,cclf
+11017,male,1930-11-13,white,,Virgin Islands,0,,cclf
+11019,female,1944-12-21,white,,Texas,1,2017-04-04,cclf
+1102,female,1950-02-07,white,,Rhode Island,1,2018-12-22,cclf
+11021,female,1950-02-18,white,,Colorado,0,,cclf
+11028,female,1929-02-09,white,,Idaho,0,,cclf
+11030,male,1935-10-09,other,,Minnesota,1,2018-08-31,cclf
+11035,female,1953-02-01,white,,West Virginia,0,,cclf
+1104,female,1976-03-03,black,,Vermont,0,,cclf
+11045,male,1937-07-12,white,,Kentucky,0,,cclf
+11047,female,1950-11-17,white,,Kentucky,0,,cclf
+11048,male,1950-07-10,white,,California,0,,cclf
+11053,male,1950-12-23,white,,Kentucky,0,,cclf
+11056,male,1940-01-02,white,,Kentucky,0,,cclf
+11059,female,1940-06-26,white,,New Jersey,0,,cclf
+10000,female,1952-06-20,white,,Vermont,0,,cclf
+10002,female,1943-08-23,white,,New Hampshire,0,,cclf
+10004,female,1934-03-02,white,,Colorado,0,,cclf
+10011,female,1937-08-01,white,,Nevada,0,,cclf
+10014,male,1949-10-31,unknown,,Virgin Islands,0,,cclf
+10015,male,1961-08-12,white,,Arkansas,0,,cclf
+10016,female,1957-03-14,hispanic,,Colorado,0,,cclf
+10020,female,1947-06-15,white,,Florida,0,,cclf
+10036,female,1947-06-10,white,,Idaho,0,,cclf
+10043,male,1951-05-19,white,,Canada & Islands,0,,cclf
+10048,female,1943-07-14,black,,Idaho,0,,cclf
+10051,female,1936-05-19,white,,California,0,,cclf
+10053,female,1952-06-23,white,,Delaware,0,,cclf
+10056,female,1970-05-12,white,,Maryland,0,,cclf
+10059,male,1942-12-27,black,,Hawaii,0,,cclf
+10064,male,1944-08-13,white,,Minnesota,0,,cclf
+10070,male,1961-05-24,white,,Virgin Islands,0,,cclf
+10071,male,1950-07-13,white,,Kansas,0,,cclf
+10074,female,1944-04-12,white,,Virgin Islands,0,,cclf
+10076,male,1956-05-28,black,,Ohio (eff. 10/2005),1,2018-11-28,cclf
+10077,female,1963-09-14,black,,Virgin Islands,0,,cclf
+10080,male,1930-04-01,black,,Vermont,0,,cclf
+10082,female,1942-09-22,white,,Massachusetts,0,,cclf
+10083,male,1956-04-09,white,,California,0,,cclf
+10086,female,1948-08-12,unknown,,Georgia,0,,cclf
+10087,male,1951-08-31,white,,California,0,,cclf
+10088,female,1930-10-31,white,,South Carolina,0,,cclf
+10092,male,1942-09-25,black,,Virgin Islands,1,2017-09-07,cclf
+10097,male,1933-02-10,white,,Virgin Islands,0,,cclf
+10099,female,1942-06-06,white,,Vermont,0,,cclf
+10100,female,1948-12-22,white,,Colorado,0,,cclf
+10111,female,1949-05-26,white,,Texas,0,,cclf
+10112,female,1948-06-20,white,,Missouri,0,,cclf
+10117,male,1946-06-26,black,,North Carolina,0,,cclf
+10119,female,1936-12-07,hispanic,,Hawaii,0,,cclf
+10120,male,1953-07-11,white,,Alabama,0,,cclf
+10123,female,1948-05-26,white,,Virgin Islands,0,,cclf
+10124,male,1948-05-07,white,,Montana,0,,cclf
+10127,female,1947-03-06,white,,Idaho,0,,cclf
+10130,male,1964-12-10,white,,Virgin Islands,0,,cclf
+10131,female,1971-06-23,north american native,,Wyoming,1,,cclf
+10140,male,1947-02-18,white,,Colorado,1,,cclf
+10142,female,1933-09-08,white,,Kansas,1,2018-12-14,cclf
+10145,male,1936-08-25,white,,California,0,,cclf
+10146,male,1952-06-26,white,,Alabama,0,,cclf
+10149,male,1956-10-17,white,,Maine,0,,cclf
+10152,female,1934-06-08,white,,Kansas,0,,cclf
+10153,male,1956-01-09,black,,Idaho,0,,cclf
+10156,female,1935-04-05,white,,Hawaii,0,,cclf
+10160,male,1953-03-23,white,,South Carolina,0,,cclf
+10168,female,1943-12-17,white,,Mississippi,0,,cclf
+10171,male,1948-12-06,black,,Hawaii,0,,cclf
+10173,male,1942-05-07,black,,Oklahoma,0,,cclf
+10175,female,1921-01-19,white,,Puerto Rico,0,,cclf
+10180,female,1948-11-02,white,,Virginia,0,,cclf
+10182,male,1952-12-05,white,,Africa,0,,cclf
+10185,male,1944-07-05,black,,Kansas,1,,cclf
+10188,male,1943-06-29,white,,Louisiana,0,,cclf
+10197,male,1964-03-01,white,,Canada & Islands,0,,cclf
+102,female,1946-03-24,white,,North Carolina,0,,cclf
+10205,male,1944-02-01,white,,Maryland,0,,cclf
+1021,male,1943-02-28,black,,Hawaii,0,,cclf
+10212,female,1953-06-18,white,,Africa,0,,cclf
+10216,male,1946-12-13,white,,Virginia,0,,cclf
+10217,female,1953-12-13,white,,Vermont,0,,cclf
+10222,female,1951-04-02,hispanic,,Hawaii,0,,cclf
+1023,female,1928-11-11,white,,Hawaii,0,,cclf
+10233,female,1947-11-05,white,,Idaho,0,,cclf
+10239,female,1979-08-31,white,,Nebraska,0,,cclf
+10240,female,1933-01-26,white,,Wyoming,0,,cclf
+10242,female,1954-10-31,white,,Missouri,0,,cclf
+10243,female,1947-05-05,white,,Hawaii,0,,cclf
+10247,male,1942-06-05,white,,Colorado,0,,cclf
+10252,female,1933-02-09,white,,Ohio,0,,cclf
+10258,male,1949-08-18,hispanic,,Virgin Islands,0,,cclf
+1026,female,1952-08-01,black,,Ohio,0,,cclf
+10260,female,1959-05-10,white,,Rhode Island,0,,cclf
+10261,female,1953-11-26,white,,Colorado,0,,cclf
+10262,male,1967-11-22,white,,Vermont,0,,cclf
+10265,male,1957-10-29,white,,Texas,0,,cclf
+10269,female,1953-03-12,white,,Hawaii,0,,cclf
+1027,female,1936-12-16,white,,Colorado,0,,cclf
+10270,female,1953-09-25,white,,Delaware,0,,cclf
+10271,female,1950-10-25,white,,Delaware,0,,cclf
+10276,male,1947-05-16,white,,Idaho,0,,cclf
+10279,female,1933-04-07,white,,Minnesota,1,2018-03-31,cclf
+10284,male,1971-03-13,white,,Maine,1,2017-09-18,cclf
+10287,female,1950-02-12,white,,Virgin Islands,0,,cclf
+10289,female,1950-09-16,white,,Puerto Rico,0,,cclf
+10294,female,1944-02-01,asian,,Colorado,0,,cclf
+10295,male,1945-01-15,asian,,Colorado,1,2018-04-13,cclf
+10297,female,1951-06-09,white,,North Carolina,0,,cclf
+10300,male,1984-10-01,white,,Rhode Island,0,,cclf
+10302,male,1951-10-24,white,,California,0,,cclf
+10309,female,1949-05-18,white,,Hawaii,0,,cclf
+10327,female,1949-04-06,white,,Montana,0,,cclf
+10328,female,1929-10-28,white,,Wyoming,0,,cclf
+10330,female,1933-03-25,white,,West Virginia,0,,cclf
+10339,male,1949-05-27,white,,New Jersey,0,,cclf
+10340,female,1932-10-27,white,,Hawaii,0,,cclf
+10341,male,1944-03-09,white,,District of Columbia,0,,cclf
+10343,female,1953-09-05,white,,Delaware,0,,cclf
+10347,male,1950-01-20,white,,Florida,0,,cclf
+10350,male,1959-11-12,black,,Idaho,0,,cclf
+10351,female,1943-03-12,white,,Kansas,0,,cclf
+10359,female,1931-11-29,white,,Hawaii,0,,cclf
+10367,female,1964-07-23,white,,Alabama,0,,cclf
+10369,female,1941-03-18,white,,Ohio,0,,cclf
+10372,male,1949-11-08,white,,Wyoming,0,,cclf
+10382,female,1946-09-04,white,,Massachusetts,0,,cclf
+1039,female,1953-09-25,white,,Hawaii,0,,cclf
+10392,male,1951-04-12,white,,North Dakota,0,,cclf
+10394,female,1943-11-28,white,,Kansas,0,,cclf
+10396,male,1939-06-28,white,,Wyoming,0,,cclf
+10400,female,1923-02-21,white,,Minnesota,0,,cclf
+10406,male,1949-09-01,white,,Missouri,0,,cclf
+10408,female,1930-05-01,white,,California,0,,cclf
+1041,male,1943-08-09,white,,Missouri,0,,cclf
+10410,male,1948-01-05,hispanic,,Colorado,1,,cclf
+10415,male,1950-12-19,white,,Hawaii,0,,cclf
+10420,female,1946-01-29,white,,Vermont,0,,cclf
+10421,female,1923-12-26,white,,Virgin Islands,0,,cclf
+10429,female,1948-08-31,white,,Puerto Rico,0,,cclf
+10430,female,1954-03-02,white,,Colorado,0,,cclf
+10437,female,1929-02-10,white,,Puerto Rico,0,,cclf
+10439,female,1947-04-17,black,,Oklahoma,0,,cclf
+10450,male,1932-08-07,white,,South Carolina,0,,cclf
+10451,female,1954-11-14,white,,Ohio,0,,cclf
+10455,female,1942-03-02,asian,,Ohio,0,,cclf
+10459,female,1969-02-10,white,,North Carolina,0,,cclf
+10460,male,1949-07-29,unknown,,Nevada,0,,cclf
+1047,male,1947-04-03,hispanic,,Colorado,1,,cclf
+10472,female,1940-01-01,white,,Virgin Islands,0,,cclf
+10475,male,1944-12-23,white,,Missouri,0,,cclf
+10477,female,1951-10-11,white,,North Dakota,0,,cclf
+1048,female,1950-02-16,white,,Kansas,0,,cclf
+10484,female,1941-01-13,white,,Kentucky,0,,cclf
+10485,male,1947-07-01,white,,Hawaii,0,,cclf
+10489,male,1963-04-08,white,,Maryland,0,,cclf
+10493,male,1938-04-30,white,,Pennsylvania,0,,cclf
+10496,female,1944-11-14,black,,Vermont,0,,cclf
+10508,female,1934-06-04,white,,Hawaii,0,,cclf
+10518,male,1949-01-07,white,,Colorado,0,,cclf
+10524,male,1933-03-31,black,,Oklahoma,0,,cclf
+10526,male,1951-05-02,white,,Colorado,0,,cclf
+1053,female,1957-12-29,white,,Pennsylvania,0,,cclf
+10535,male,1944-09-28,white,,Vermont,0,,cclf
+10545,female,1980-08-22,unknown,,California,0,,cclf
+10552,female,1951-08-11,white,,South Carolina,0,,cclf
+10555,female,1936-09-25,white,,Hawaii,0,,cclf
+10556,female,1951-01-05,white,,South Carolina,0,,cclf
+10557,male,1940-11-29,white,,Maryland,0,,cclf
+10562,female,1948-10-03,white,,Colorado,0,,cclf
+10564,female,1928-01-04,white,,Ohio (eff. 10/2005),0,,cclf
+10573,male,1930-08-25,white,,California,0,,cclf
+10580,female,1947-01-13,white,,Virginia,0,,cclf
+10581,male,1940-04-20,white,,Virgin Islands,0,,cclf
+10587,female,1944-04-16,white,,Ohio,0,,cclf
+10588,female,1945-12-16,white,,Kansas,0,,cclf
+10592,male,1940-09-06,white,,Missouri,0,,cclf
+10594,female,1946-04-01,hispanic,,Ohio,1,,cclf
+10596,male,1949-12-19,white,,Pennsylvania,0,,cclf
+1060,female,1949-08-30,white,,Missouri,0,,cclf
+10601,female,1943-08-02,white,,Wyoming,0,,cclf
+10606,female,1946-12-28,white,,Colorado,0,,cclf
+1061,female,1967-06-13,white,,Vermont,0,,cclf
+10611,female,1923-08-27,white,,Kansas,0,,cclf
+10622,female,1949-10-02,white,,Maryland,0,,cclf
+1063,female,1929-04-18,white,,North Carolina,0,,cclf
+10630,male,1954-11-02,white,,Montana,0,,cclf
+10631,male,1948-11-11,white,,Hawaii,0,,cclf
+10635,female,1947-11-25,white,,Kentucky,0,,cclf
+10637,female,1946-02-14,white,,Idaho,0,,cclf
+10640,female,1953-10-01,white,,Louisiana,0,,cclf
+10644,male,1953-09-08,white,,Wyoming,0,,cclf
+10646,male,1953-11-10,white,,Arkansas,0,,cclf
+10650,female,1943-04-17,white,,Virgin Islands,0,,cclf
+10651,female,1939-09-15,black,,West Virginia,0,,cclf
+1066,female,1938-05-02,white,,Mississippi,0,,cclf
+10665,female,1935-01-16,black,,Hawaii,0,,cclf
+10668,female,1951-08-15,hispanic,,Hawaii,0,,cclf
+10669,male,1937-04-12,white,,Virgin Islands,0,,cclf
+1067,male,1950-02-04,other,,Hawaii,0,,cclf
+10670,female,1936-11-24,white,,California,0,,cclf
+10671,male,1960-07-15,black,,Oklahoma,0,,cclf
+10676,male,1983-10-06,black,,Missouri,1,2018-02-23,cclf
+10681,female,1957-07-11,white,,Tennessee,1,2018-12-09,cclf
+10684,male,1968-06-22,white,,Wyoming,0,,cclf
+1069,female,1951-10-08,white,,District of Columbia,0,,cclf
+10692,female,1942-12-27,asian,,Colorado,0,,cclf
+11067,male,1932-04-10,white,,California,0,,cclf
+11074,male,1949-03-04,white,,Alabama,0,,cclf
+11084,male,1934-04-30,white,,Florida,0,,cclf
+11087,female,1952-05-30,white,,Puerto Rico,0,,cclf
+1109,female,1938-11-08,white,,Ohio,0,,cclf
+11455,male,1950-10-03,unknown,,Virginia,0,,cclf
+11458,female,1980-06-18,black,,Kentucky,0,,cclf
+11465,male,1929-04-10,white,,North Carolina,0,,cclf
+11468,female,1949-11-25,white,,Missouri,0,,cclf
+11476,male,1952-04-29,white,,Missouri,0,,cclf
+11479,female,1970-11-23,white,,South Carolina,0,,cclf
+1031,female,1934-12-08,white,,South Carolina,0,,cclf
+10310,female,1941-09-22,white,,Virgin Islands,0,,cclf
+10318,male,1942-10-28,white,,Colorado,0,,cclf
+10321,female,1936-09-10,white,,Kentucky,0,,cclf
+10323,female,1929-03-15,white,,Iowa,0,,cclf
+10698,male,1943-08-21,white,,Nevada,0,,cclf
+1070,male,1947-06-06,asian,,Pennsylvania,0,,cclf
+10700,female,1948-02-19,white,,Kansas,0,,cclf
+10702,male,1950-04-21,white,,Wyoming,0,,cclf
+10710,male,1951-07-03,white,,Kansas,0,,cclf
